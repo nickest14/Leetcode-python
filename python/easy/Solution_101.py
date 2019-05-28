@@ -8,6 +8,27 @@ class TreeNode:
 
 class Solution:
     def isSymmetric(self, root: TreeNode) -> bool:
+        if not root:
+            return True
+        if root.left and root.right:
+            return self.checktree(root.left, root.right)
+        elif root.left or root.right:
+            return False
+        return True
+
+    def checktree(self, node1, node2):
+        if node1 is None and node2 is None:
+            return True
+        if node1 is None or node2 is None:
+            return False
+        if node1.val != node2.val:
+            return False
+        return self.checktree(node1.left, node2.right) \
+            and self.checktree(node1.right, node2.left)
+
+
+class Solution2:
+    def isSymmetric(self, root: TreeNode) -> bool:
         if root:
             nodes = []
             nodes.append(root)
@@ -31,22 +52,17 @@ class Solution:
                         # for left and right
                         temp_nodes = self.add(temp_nodes, None)
                         temp_nodes = self.add(temp_nodes, None)
-                # print('========')
-                # print(count)
-                # print(f'value_li = {value_li}')
-                # print(f'temp_nodes = {temp_nodes}')
-                # print('&&&&&&&&&&&&&&&&&&&')
                 if not value_li == value_li[::-1]:
                     return False
                 if count % 2 != 0:
                     return False
-                test = []
+                check = []
                 for i in temp_nodes:
                     if i:
-                        test.append(1)
+                        check.append(1)
                     else:
-                        test.append(None)
-                if not test == test[::-1]:
+                        check.append(None)
+                if not check == check[::-1]:
                     return False
                 nodes = list(filter(lambda v: v is not None, temp_nodes))
                 if len(nodes) == 0:
