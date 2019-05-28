@@ -4,16 +4,16 @@ Practice Leetcode problem with Python
 
 ## Easy
 
-# 1. Two Sum
+### 1. Two Sum
 
-# 100. Same Tree
+### 100. Same Tree
 
-# 101. Symmetric Tree
+### 101. Symmetric Tree
 
-# 102. Binary Tree Level Order Traversal
+### 102. Binary Tree Level Order Traversal
 
 ## Medinum
 
-# 103. Binary Tree Zigzag Level Order Traversal
+### 103. Binary Tree Zigzag Level Order Traversal
 
 #
