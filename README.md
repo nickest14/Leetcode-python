@@ -6,6 +6,12 @@ Practice Leetcode problem with Python
 
 ### 1. Two Sum
 
+### 1. Add Two Numbers
+
+### 26. Remove Duplicates from Sorted Array
+
+### 80. Remove Duplicates from Sorted Array II
+
 ### 100. Same Tree
 
 ### 101. Symmetric Tree
@@ -15,5 +21,3 @@ Practice Leetcode problem with Python
 ## Medinum
 
 ### 103. Binary Tree Zigzag Level Order Traversal
-
-#
