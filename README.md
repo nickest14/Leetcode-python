@@ -22,6 +22,8 @@ Practice Leetcode problem with Python
 
 #### 2. Add Two Numbers
 
+#### 15. 3Sum
+
 #### 80. Remove Duplicates from Sorted Array II
 
 #### 96. Unique Binary Search Trees
