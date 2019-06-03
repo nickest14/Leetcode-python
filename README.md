@@ -10,9 +10,13 @@ Practice Leetcode problem with Python
 
 #### 26. Remove Duplicates from Sorted Array
 
+#### 88. Merge Sorted Array
+
 #### 100. Same Tree
 
 #### 101. Symmetric Tree
+
+#### 111. Minimum Depth of Binary Tree
 
 #### 102. Binary Tree Level Order Traversal
 
@@ -24,6 +28,10 @@ Practice Leetcode problem with Python
 
 #### 15. 3Sum
 
+#### 34. Find First and Last Position of Element in Sorted Array
+
+#### 78. Subsets
+
 #### 80. Remove Duplicates from Sorted Array II
 
 #### 96. Unique Binary Search Trees
@@ -31,5 +39,7 @@ Practice Leetcode problem with Python
 #### 103. Binary Tree Zigzag Level Order Traversal
 
 #### 105. Construct Binary Tree from Preorder and Inorder Traversal
+
+#### 127. Word Ladder
 
 #### 144. Binary Tree Preorder Traversal
