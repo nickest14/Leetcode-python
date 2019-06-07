@@ -8,10 +8,8 @@ class Solution:
         """
         num1_index = 0
         length = len(nums1)
-        print(length)
         for _ in range(length-m):
             nums1.pop()
-        print(nums1)
         for i in range(n):
             while num1_index < length:
                 try:

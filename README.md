@@ -42,4 +42,6 @@ Practice Leetcode problem with Python
 
 #### 127. Word Ladder
 
+#### 131. Palindrome Partitioning
+
 #### 144. Binary Tree Preorder Traversal
