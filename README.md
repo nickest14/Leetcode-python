@@ -30,6 +30,10 @@ Practice Leetcode problem with Python
 
 #### 34. Find First and Last Position of Element in Sorted Array
 
+#### 50. Pow(x, n)
+
+#### 55. Jump Game
+
 #### 78. Subsets
 
 #### 80. Remove Duplicates from Sorted Array II
