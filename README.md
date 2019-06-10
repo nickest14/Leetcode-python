@@ -44,6 +44,8 @@ Practice Leetcode problem with Python
 
 #### 105. Construct Binary Tree from Preorder and Inorder Traversal
 
+#### 120. Triangle
+
 #### 127. Word Ladder
 
 #### 131. Palindrome Partitioning
