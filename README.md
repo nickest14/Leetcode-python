@@ -6,6 +6,8 @@ Practice Leetcode problem with Python
 
 #### 1. Two Sum
 
+#### 7. Reverse Integer
+
 #### 20. Valid Parentheses
 
 #### 26. Remove Duplicates from Sorted Array
