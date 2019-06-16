@@ -12,6 +12,8 @@ Practice Leetcode problem with Python
 
 #### 26. Remove Duplicates from Sorted Array
 
+#### 28. Implement strStr()
+
 #### 88. Merge Sorted Array
 
 #### 100. Same Tree
@@ -59,3 +61,7 @@ Practice Leetcode problem with Python
 #### 133. Clone Graph
 
 #### 144. Binary Tree Preorder Traversal
+
+### Hard
+
+#### 32. Longest Valid Parentheses
