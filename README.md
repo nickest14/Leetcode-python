@@ -46,6 +46,8 @@ Practice Leetcode problem with Python
 
 #### 92. Reverse Linked List II
 
+#### 94. Binary Tree Inorder Traversal
+
 #### 96. Unique Binary Search Trees
 
 #### 103. Binary Tree Zigzag Level Order Traversal
