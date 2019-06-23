@@ -1,8 +1,8 @@
 # Leetcode-pythhon
 
-Practice Leetcode problem with Python
+## Practice Leetcode problem with Python
 
-### Easy
+### Easy finish 14
 
 #### 1. Two Sum
 
@@ -10,9 +10,13 @@ Practice Leetcode problem with Python
 
 #### 20. Valid Parentheses
 
+#### 21. Merge Two Sorted Lists
+
 #### 26. Remove Duplicates from Sorted Array
 
 #### 28. Implement strStr()
+
+#### 35. Search Insert Position
 
 #### 88. Merge Sorted Array
 
@@ -24,9 +28,11 @@ Practice Leetcode problem with Python
 
 #### 102. Binary Tree Level Order Traversal
 
+#### 104. Maximum Depth of Binary Tree
+
 #### 125. Valid Palindrome
 
-### Medinum
+### Medinum finish 21
 
 #### 2. Add Two Numbers
 
@@ -43,6 +49,8 @@ Practice Leetcode problem with Python
 #### 78. Subsets
 
 #### 80. Remove Duplicates from Sorted Array II
+
+#### 90. Subsets II
 
 #### 92. Reverse Linked List II
 
@@ -68,6 +76,10 @@ Practice Leetcode problem with Python
 
 #### 144. Binary Tree Preorder Traversal
 
-### Hard
+### Hard finish 2
 
 #### 32. Longest Valid Parentheses
+
+#### 126. Word Ladder II
+
+### Total finish 37
