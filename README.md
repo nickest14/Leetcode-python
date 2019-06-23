@@ -32,7 +32,7 @@
 
 #### 125. Valid Palindrome
 
-### Medinum finish 21
+### Medinum finish 22
 
 #### 2. Add Two Numbers
 
@@ -45,6 +45,8 @@
 #### 50. Pow(x, n)
 
 #### 55. Jump Game
+
+#### 62. Unique Paths
 
 #### 78. Subsets
 
@@ -80,6 +82,6 @@
 
 #### 32. Longest Valid Parentheses
 
-#### 126. Word Ladder II
+#### 126. Word Ladder II \*
 
-### Total finish 37
+### Total finish 38
