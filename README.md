@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 14
+### Easy finish 16
 
 #### 1. Two Sum
 
@@ -17,6 +17,10 @@
 #### 28. Implement strStr()
 
 #### 35. Search Insert Position
+
+#### 53. Maximum Subarray
+
+#### 69. Sqrt(x)
 
 #### 88. Merge Sorted Array
 
@@ -78,10 +82,12 @@
 
 #### 144. Binary Tree Preorder Traversal
 
-### Hard finish 2
+### Hard finish 3
 
 #### 32. Longest Valid Parentheses
 
+#### 45. Jump Game II
+
 #### 126. Word Ladder II \*
 
-### Total finish 38
+### Total finish 41
