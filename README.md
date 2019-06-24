@@ -2,11 +2,13 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 16
+### Easy finish 17
 
 #### 1. Two Sum
 
 #### 7. Reverse Integer
+
+#### 9. Palindrome Number
 
 #### 20. Valid Parentheses
 
@@ -90,4 +92,4 @@
 
 #### 126. Word Ladder II \*
 
-### Total finish 41
+### Total finish 42
