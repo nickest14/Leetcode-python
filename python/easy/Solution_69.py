@@ -22,5 +22,5 @@ class Solution:
         return last_mid
 
 
-ans = Solution().mySqrt(i)
+ans = Solution().mySqrt(50)
 print(ans)

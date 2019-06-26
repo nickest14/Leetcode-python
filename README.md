@@ -84,12 +84,14 @@
 
 #### 144. Binary Tree Preorder Traversal
 
-### Hard finish 3
+### Hard finish 4
 
 #### 32. Longest Valid Parentheses
 
 #### 45. Jump Game II
 
+#### 57. Insert Interval
+
 #### 126. Word Ladder II \*
 
-### Total finish 42
+### Total finish 43
