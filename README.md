@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 17
+### Easy finish 18
 
 #### 1. Two Sum
 
@@ -30,17 +30,21 @@
 
 #### 101. Symmetric Tree
 
-#### 111. Minimum Depth of Binary Tree
-
 #### 102. Binary Tree Level Order Traversal
 
 #### 104. Maximum Depth of Binary Tree
 
+#### 111. Minimum Depth of Binary Tree
+
+### 112. Path Sum
+
 #### 125. Valid Palindrome
 
-### Medinum finish 23
+### Medinum finish 28
 
 #### 2. Add Two Numbers
+
+#### 8. String to Integer (atoi)
 
 #### 15. 3Sum
 
@@ -48,17 +52,23 @@
 
 #### 34. Find First and Last Position of Element in Sorted Array
 
+#### 46. Permutations
+ 
 #### 50. Pow(x, n)
 
 #### 55. Jump Game
 
 #### 62. Unique Paths
 
+#### 74. Search a 2D Matrix
+
 #### 78. Subsets
 
 #### 80. Remove Duplicates from Sorted Array II
 
 #### 81. Search in Rotated Sorted Array II
+
+#### 86. Partition List
 
 #### 90. Subsets II
 
@@ -69,6 +79,8 @@
 #### 95. Unique Binary Search Trees II
 
 #### 96. Unique Binary Search Trees
+
+#### 98. Validate Binary Search Tree
 
 #### 103. Binary Tree Zigzag Level Order Traversal
 
@@ -86,14 +98,20 @@
 
 #### 144. Binary Tree Preorder Traversal
 
-### Hard finish 4
+### Hard finish 7
+
+#### 23. Merge k Sorted Lists
 
 #### 32. Longest Valid Parentheses
 
 #### 45. Jump Game II
 
+#### 84. Largest Rectangle in Histogram
+
 #### 57. Insert Interval
 
 #### 126. Word Ladder II \*
 
-### Total finish 44
+#### 145. Binary Tree Postorder Traversal
+
+### Total finish 53
