@@ -38,7 +38,7 @@
 
 #### 125. Valid Palindrome
 
-### Medinum finish 23
+### Medinum finish 24
 
 #### 2. Add Two Numbers
 
@@ -59,6 +59,8 @@
 #### 80. Remove Duplicates from Sorted Array II
 
 #### 81. Search in Rotated Sorted Array II
+
+#### 86. Partition List
 
 #### 90. Subsets II
 
@@ -96,4 +98,4 @@
 
 #### 126. Word Ladder II \*
 
-### Total finish 44
+### Total finish 45
