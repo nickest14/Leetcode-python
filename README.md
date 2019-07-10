@@ -38,9 +38,11 @@
 
 #### 125. Valid Palindrome
 
-### Medinum finish 24
+### Medinum finish 25
 
 #### 2. Add Two Numbers
+
+#### 8. String to Integer (atoi)
 
 #### 15. 3Sum
 
@@ -98,4 +100,4 @@
 
 #### 126. Word Ladder II \*
 
-### Total finish 45
+### Total finish 46
