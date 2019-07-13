@@ -90,14 +90,16 @@
 
 #### 144. Binary Tree Preorder Traversal
 
-### Hard finish 4
+### Hard finish 5
 
 #### 32. Longest Valid Parentheses
 
 #### 45. Jump Game II
 
+#### 84. Largest Rectangle in Histogram
+
 #### 57. Insert Interval
 
 #### 126. Word Ladder II \*
 
-### Total finish 46
+### Total finish 47
