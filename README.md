@@ -90,7 +90,7 @@
 
 #### 144. Binary Tree Preorder Traversal
 
-### Hard finish 5
+### Hard finish 6
 
 #### 32. Longest Valid Parentheses
 
@@ -102,4 +102,6 @@
 
 #### 126. Word Ladder II \*
 
-### Total finish 47
+#### 145. Binary Tree Postorder Traversal
+
+### Total finish 48
