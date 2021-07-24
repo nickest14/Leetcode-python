@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 21
+### Easy finish 22
 
 #### 1. Two Sum
 
@@ -45,6 +45,9 @@
 #### 155. Min Stack
 
 #### 506. Relative Ranks
+
+#### 703. Kth Largest Element in a Strem
+
 
 ### Medinum finish 32
 
@@ -128,4 +131,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 60
+### Total finish 61
