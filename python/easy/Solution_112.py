@@ -8,6 +8,7 @@ class TreeNode:
         self.left = None
         self.right = None
 
+
 class Solution:
     def hasPathSum(self, root: TreeNode, sum: int) -> bool:
         if not root:
