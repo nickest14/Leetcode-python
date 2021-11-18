@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 23
+### Easy finish 24
 
 #### 1. Two Sum
 
@@ -11,6 +11,8 @@
 #### 9. Palindrome Number
 
 #### 13. Roman to Integer
+
+#### 14. Longest Common Prefix
 
 #### 20. Valid Parentheses
 
@@ -133,4 +135,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 62
+### Total finish 63
