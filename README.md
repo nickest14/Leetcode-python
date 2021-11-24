@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 24
+### Easy finish 25
 
 #### 1. Two Sum
 
@@ -49,6 +49,8 @@
 #### 155. Min Stack
 
 #### 506. Relative Ranks
+
+#### 566. Reshape the Matrix
 
 #### 703. Kth Largest Element in a Strem
 
@@ -135,4 +137,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 63
+### Total finish 64
