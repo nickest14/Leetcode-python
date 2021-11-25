@@ -1,5 +1,6 @@
 # 125. Valid Palindrome
 
+
 class Solution:
     def findRelativeRanks(self, nums):
         score_order = sorted(nums, reverse=True)
@@ -10,9 +11,9 @@ class Solution:
             elif index == 2:
                 dic[value] = 'Silver Medal'
             elif index == 3:
-                dic[value] = 'Bronze Medal'    
+                dic[value] = 'Bronze Medal'
             else:
-                dic[value] = str(index)       
+                dic[value] = str(index)
 
         for index, value in enumerate(nums):
             nums[index] = dic.get(value)
@@ -25,5 +26,5 @@ print(ans)
 
 # Input: [5, 4, 3, 2, 1]
 # Output: ["Gold Medal", "Silver Medal", "Bronze Medal", "4", "5"]
-# Explanation: The first three athletes got the top three highest scores, so they got "Gold Medal", "Silver Medal" and "Bronze Medal". 
+# Explanation: The first three athletes got the top three highest scores, so they got "Gold Medal", "Silver Medal" and "Bronze Medal".
 # For the left two athletes, you just need to output their relative ranks according to their scores.
