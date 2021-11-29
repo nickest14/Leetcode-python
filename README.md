@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 26
+### Easy finish 27
 
 #### 1. Two Sum
 
@@ -47,6 +47,8 @@
 #### 125. Valid Palindrome
 
 #### 155. Min Stack
+
+#### 160. Intersection of Two Linked Lists
 
 #### 506. Relative Ranks
 
@@ -139,4 +141,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 65
+### Total finish 66
