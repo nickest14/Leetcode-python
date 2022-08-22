@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 29
+### Easy finish 30
 
 #### 1. Two Sum
 
@@ -61,6 +61,8 @@
 #### 657. Robot Return to Origin
 
 #### 703. Kth Largest Element in a Strem
+
+#### 1408. String Matching in an Array
 
 
 ### Medinum finish 32
@@ -141,8 +143,8 @@
 
 #### 57. Insert Interval
 
-#### 126. Word Ladder II \*
+#### 126. Word Ladder II
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 68
+### Total finish 69
