@@ -65,7 +65,7 @@
 #### 1408. String Matching in an Array
 
 
-### Medinum finish 32
+### Medinum finish 33
 
 #### 2. Add Two Numbers
 
@@ -131,6 +131,9 @@
 
 #### 144. Binary Tree Preorder Traversal
 
+#### 307. Range Sum Query - Mutable
+
+
 ### Hard finish 7
 
 #### 23. Merge k Sorted Lists
@@ -147,4 +150,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 69
+### Total finish 70
