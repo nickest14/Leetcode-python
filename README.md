@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 30
+### Easy finish 31
 
 #### 1. Two Sum
 
@@ -53,6 +53,8 @@
 #### 205. Isomorphic Strings
 
 #### 225. Implement Stack using Queues
+
+#### 359. Logger Rate **Limiter**
 
 #### 506. Relative Ranks
 
@@ -150,4 +152,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 70
+### Total finish 71
