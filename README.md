@@ -67,7 +67,7 @@
 #### 1408. String Matching in an Array
 
 
-### Medinum finish 33
+### Medinum finish 34
 
 #### 2. Add Two Numbers
 
@@ -133,6 +133,8 @@
 
 #### 144. Binary Tree Preorder Traversal
 
+#### 146. LRU Cache
+
 #### 307. Range Sum Query - Mutable
 
 
@@ -152,4 +154,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 71
+### Total finish 72
