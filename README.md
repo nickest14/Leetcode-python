@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 31
+### Easy finish 32
 
 #### 1. Two Sum
 
@@ -43,6 +43,8 @@
 #### 112. Path Sum
 
 #### 118. Pascal's Triangle
+
+#### 121. Best Time to Buy and Sell Stock
 
 #### 125. Valid Palindrome
 
@@ -154,4 +156,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 72
+### Total finish 73
