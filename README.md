@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 32
+### Easy finish 33
 
 #### 1. Two Sum
 
@@ -49,6 +49,8 @@
 #### 125. Valid Palindrome
 
 #### 155. Min Stack
+
+#### 157. Read N Characters Given Read4
 
 #### 160. Intersection of Two Linked Lists
 
@@ -156,4 +158,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 73
+### Total finish 74
