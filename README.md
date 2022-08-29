@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 33
+### Easy finish 34
 
 #### 1. Two Sum
 
@@ -53,6 +53,8 @@
 #### 157. Read N Characters Given Read4
 
 #### 160. Intersection of Two Linked Lists
+
+#### 169. Majority Element
 
 #### 205. Isomorphic Strings
 
@@ -158,4 +160,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 74
+### Total finish 75
