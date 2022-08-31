@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 35
+### Easy finish 36
 
 #### 1. Two Sum
 
@@ -61,6 +61,8 @@
 #### 225. Implement Stack using Queues
 
 #### 228. Summary Ranges
+
+#### 293. Flip Game
 
 #### 359. Logger Rate **Limiter**
 
@@ -162,4 +164,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 76
+### Total finish 77
