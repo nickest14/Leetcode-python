@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 36
+### Easy finish 37
 
 #### 1. Two Sum
 
@@ -65,6 +65,8 @@
 #### 293. Flip Game
 
 #### 359. Logger Rate **Limiter**
+
+#### 401. Binary Watch
 
 #### 506. Relative Ranks
 
@@ -164,4 +166,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 77
+### Total finish 78
