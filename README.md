@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 38
+### Easy finish 39
 
 #### 1. Two Sum
 
@@ -69,6 +69,8 @@
 #### 401. Binary Watch
 
 #### 448. Find All Numbers Disappeared in an Array
+
+#### 459. Repeated Substring Pattern
 
 #### 506. Relative Ranks
 
@@ -168,4 +170,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 79
+### Total finish 80
