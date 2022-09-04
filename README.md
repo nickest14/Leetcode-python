@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 39
+### Easy finish 40
 
 #### 1. Two Sum
 
@@ -71,6 +71,8 @@
 #### 448. Find All Numbers Disappeared in an Array
 
 #### 459. Repeated Substring Pattern
+
+#### 485. Max Consecutive Ones
 
 #### 506. Relative Ranks
 
@@ -170,4 +172,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 80
+### Total finish 81
