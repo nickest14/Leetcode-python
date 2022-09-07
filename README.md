@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 42
+### Easy finish 43
 
 #### 1. Two Sum
 
@@ -85,6 +85,8 @@
 #### 696. Count Binary Substrings
 
 #### 703. Kth Largest Element in a Strem
+
+#### 1332. Remove Palindromic Subsequences
 
 #### 1408. String Matching in an Array
 
@@ -176,4 +178,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 83
+### Total finish 84
