@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 45
+### Easy finish 46
 
 #### 1. Two Sum
 
@@ -55,6 +55,8 @@
 #### 160. Intersection of Two Linked Lists
 
 #### 169. Majority Element
+
+#### 203. Remove Linked List Elements
 
 #### 205. Isomorphic Strings
 
@@ -181,4 +183,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 86
+### Total finish 87
