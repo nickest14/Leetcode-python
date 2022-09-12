@@ -2,11 +2,13 @@
 
 from typing import Optional
 
-# Definition for singly-linked list.
+
 class ListNode:
+    # Definition for singly-linked list.
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
+
 
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
@@ -17,6 +19,7 @@ class Solution:
             new_head = head
             head = node
         return new_head
+
 
 l6 = ListNode(val=6)
 l5 = ListNode(val=5, next=l6)

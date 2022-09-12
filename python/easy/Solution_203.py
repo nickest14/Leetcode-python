@@ -2,14 +2,17 @@
 
 from typing import Optional
 
-# Definition for singly-linked list.
+
 class ListNode:
+    # Definition for singly-linked list.
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
 
+
 class Solution:
-    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
+    def removeElements(
+            self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
         virtual_node = ListNode(next=head)
         current = virtual_node
         while current.next:

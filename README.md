@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 47
+### Easy finish 48
 
 #### 1. Two Sum
 
@@ -65,6 +65,8 @@
 #### 225. Implement Stack using Queues
 
 #### 228. Summary Ranges
+
+#### 234. Palindrome Linked List
 
 #### 293. Flip Game
 
@@ -185,4 +187,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 88
+### Total finish 89
