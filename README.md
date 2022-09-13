@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 48
+### Easy finish 49
 
 #### 1. Two Sum
 
@@ -61,6 +61,8 @@
 #### 205. Isomorphic Strings
 
 #### 206. Reverse Linked List
+
+#### 217. Contains Duplicate
 
 #### 225. Implement Stack using Queues
 
@@ -187,4 +189,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 89
+### Total finish 90
