@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 51
+### Easy finish 55
 
 #### 1. Two Sum
 
@@ -75,6 +75,8 @@
 #### 290. Word Pattern
 
 #### 293. Flip Game
+
+#### 350. Intersection of Two Arrays II
 
 #### 359. Logger Rate **Limiter**
 
@@ -193,4 +195,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 92
+### Total finish 93
