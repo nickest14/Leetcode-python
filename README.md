@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 55
+### Easy finish 56
 
 #### 1. Two Sum
 
@@ -53,7 +53,6 @@
 #### 157. Read N Characters Given Read4
 
 #### 160. Intersection of Two Linked Lists
-
 #### 169. Majority Element
 
 #### 203. Remove Linked List Elements
@@ -79,6 +78,8 @@
 #### 350. Intersection of Two Arrays II
 
 #### 359. Logger Rate **Limiter**
+
+#### 387. First Unique Character in a String
 
 #### 401. Binary Watch
 
@@ -195,4 +196,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 93
+### Total finish 94
