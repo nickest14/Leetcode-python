@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 56
+### Easy finish 5７
 
 #### 1. Two Sum
 
@@ -97,6 +97,8 @@
 
 #### 657. Robot Return to Origin
 
+#### 575. Distribute Candies
+
 #### 696. Count Binary Substrings
 
 #### 703. Kth Largest Element in a Strem
@@ -108,6 +110,7 @@
 #### 1408. String Matching in an Array
 
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
+
 
 ### Medinum finish 34
 
@@ -196,4 +199,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 94
+### Total finish 95
