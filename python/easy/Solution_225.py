@@ -2,6 +2,7 @@
 
 import collections
 
+
 class MyStack:
     def __init__(self):
         self.queue = collections.deque()
