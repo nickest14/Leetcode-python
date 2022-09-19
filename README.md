@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 5７
+### Easy finish 58
 
 #### 1. Two Sum
 
@@ -94,6 +94,8 @@
 #### 557. Reverse Words in a String III
 
 #### 566. Reshape the Matrix
+
+#### 594. Longest Harmonious Subsequence
 
 #### 657. Robot Return to Origin
 
@@ -199,4 +201,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 95
+### Total finish 96
