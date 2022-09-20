@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 58
+### Easy finish 59
 
 #### 1. Two Sum
 
@@ -100,6 +100,8 @@
 #### 657. Robot Return to Origin
 
 #### 575. Distribute Candies
+
+#### 599. Minimum Index Sum of Two Lists
 
 #### 696. Count Binary Substrings
 
@@ -201,4 +203,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 96
+### Total finish 97
