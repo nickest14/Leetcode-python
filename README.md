@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 59
+### Easy finish 60
 
 #### 1. Two Sum
 
@@ -88,6 +88,8 @@
 #### 459. Repeated Substring Pattern
 
 #### 485. Max Consecutive Ones
+
+#### 496. Next Greater Element I
 
 #### 506. Relative Ranks
 
@@ -203,4 +205,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 97
+### Total finish 98
