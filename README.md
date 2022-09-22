@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 60
+### Easy finish 61
 
 #### 1. Two Sum
 
@@ -109,6 +109,8 @@
 
 #### 703. Kth Largest Element in a Strem
 
+#### 844. Backspace String Compare
+
 #### 1332. Remove Palindromic Subsequences
 
 #### 1380. Lucky Numbers in a Matrix
@@ -205,4 +207,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 98
+### Total finish 99
