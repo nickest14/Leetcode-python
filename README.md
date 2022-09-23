@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 61
+### Easy finish 62
 
 #### 1. Two Sum
 
@@ -53,6 +53,7 @@
 #### 157. Read N Characters Given Read4
 
 #### 160. Intersection of Two Linked Lists
+
 #### 169. Majority Element
 
 #### 203. Remove Linked List Elements
@@ -110,6 +111,8 @@
 #### 703. Kth Largest Element in a Strem
 
 #### 844. Backspace String Compare
+
+#### 1047. Remove All Adjacent Duplicates In String
 
 #### 1332. Remove Palindromic Subsequences
 
@@ -207,4 +210,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 99
+### Total finish 100
