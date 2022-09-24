@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 62
+### Easy finish 63
 
 #### 1. Two Sum
 
@@ -112,6 +112,8 @@
 
 #### 844. Backspace String Compare
 
+#### 1046. Last Stone Weight
+
 #### 1047. Remove All Adjacent Duplicates In String
 
 #### 1332. Remove Palindromic Subsequences
@@ -210,4 +212,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 100
+### Total finish 101
