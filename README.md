@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 34
+### Medinum finish 35
 
 #### 2. Add Two Numbers
 
@@ -195,6 +195,7 @@
 
 #### 307. Range Sum Query - Mutable
 
+#### 547. Number of Provinces
 
 ### Hard finish 7
 
@@ -212,4 +213,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 101
+### Total finish 102
