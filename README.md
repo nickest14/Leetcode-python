@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 35
+### Medinum finish 36
 
 #### 2. Add Two Numbers
 
@@ -197,6 +197,8 @@
 
 #### 547. Number of Provinces
 
+#### 684. Redundant Connection
+
 ### Hard finish 7
 
 #### 23. Merge k Sorted Lists
@@ -213,4 +215,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 102
+### Total finish 103
