@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 38
+### Medinum finish 39
 
 #### 2. Add Two Numbers
 
@@ -193,6 +193,8 @@
 
 #### 146. LRU Cache
 
+#### 208. Implement Trie (Prefix Tree)
+
 #### 307. Range Sum Query - Mutable
 
 #### 547. Number of Provinces
@@ -219,4 +221,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 105
+### Total finish 106
