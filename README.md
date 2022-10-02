@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 41
+### Medinum finish 42
 
 #### 2. Add Two Numbers
 
@@ -203,6 +203,8 @@
 
 #### 648. Replace Words
 
+#### 677. Map Sum Pairs
+
 #### 684. Redundant Connection
 
 #### 1319. Number of Operations to Make Network Connected
@@ -225,4 +227,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 108
+### Total finish 109
