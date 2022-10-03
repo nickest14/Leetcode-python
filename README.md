@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 42
+### Medinum finish 43
 
 #### 2. Add Two Numbers
 
@@ -197,6 +197,8 @@
 
 #### 307. Range Sum Query - Mutable
 
+#### 406. Queue Reconstruction by Height
+
 #### 421. Maximum XOR of Two Numbers in an Array
 
 #### 547. Number of Provinces
@@ -227,4 +229,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 109
+### Total finish 110
