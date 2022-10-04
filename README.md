@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 43
+### Medinum finish 44
 
 #### 2. Add Two Numbers
 
@@ -211,6 +211,8 @@
 
 #### 1319. Number of Operations to Make Network Connected
 
+#### 1395. Count Number of Teams
+
 #### 1722. Minimize Hamming Distance After Swap Operations
 
 ### Hard finish 7
@@ -229,4 +231,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 110
+### Total finish 111
