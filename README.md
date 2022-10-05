@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 44
+### Medinum finish 45
 
 #### 2. Add Two Numbers
 
@@ -213,6 +213,8 @@
 
 #### 1395. Count Number of Teams
 
+#### 1409. Queries on a Permutation With Key
+
 #### 1722. Minimize Hamming Distance After Swap Operations
 
 ### Hard finish 7
@@ -231,4 +233,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 111
+### Total finish 112
