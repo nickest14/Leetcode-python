@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 46
+### Medinum finish 47
 
 #### 2. Add Two Numbers
 
@@ -197,6 +197,8 @@
 
 #### 211. Design Add and Search Words Data Structure
 
+#### 251. Flatten 2D Vector
+
 #### 307. Range Sum Query - Mutable
 
 #### 406. Queue Reconstruction by Height
@@ -235,4 +237,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 113
+### Total finish 114
