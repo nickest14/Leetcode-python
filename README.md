@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 48
+### Medinum finish 49
 
 #### 2. Add Two Numbers
 
@@ -201,6 +201,8 @@
 
 #### 284. Peeking Iterator
 
+#### 288. Unique Word Abbreviation
+
 #### 307. Range Sum Query - Mutable
 
 #### 406. Queue Reconstruction by Height
@@ -239,4 +241,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 115
+### Total finish 116
