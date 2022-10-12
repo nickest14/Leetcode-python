@@ -125,7 +125,7 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
-### Medinum finish 50
+### Medinum finish 51
 
 #### 2. Add Two Numbers
 
@@ -207,6 +207,8 @@
 
 #### 348. Design Tic-Tac-Toe
 
+#### 353. Design Snake Game
+
 #### 406. Queue Reconstruction by Height
 
 #### 421. Maximum XOR of Two Numbers in an Array
@@ -243,4 +245,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 117
+### Total finish 118
