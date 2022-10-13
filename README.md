@@ -209,6 +209,8 @@
 
 #### 353. Design Snake Game
 
+#### 355. Design Twitter
+
 #### 406. Queue Reconstruction by Height
 
 #### 421. Maximum XOR of Two Numbers in an Array
@@ -245,4 +247,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 118
+### Total finish 119
