@@ -1,7 +1,5 @@
 # 844. Backspace String Compare
 
-from typing import List
-
 
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
