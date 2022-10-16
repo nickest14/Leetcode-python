@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 65
+### Easy finish 66
 
 #### 1. Two Sum
 
@@ -115,6 +115,8 @@
 #### 747. Largest Number At Least Twice of Others
 
 #### 844. Backspace String Compare
+
+#### 944. Delete Columns to Make Sorted
 
 #### 1046. Last Stone Weight
 
@@ -251,4 +253,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 121
+### Total finish 122
