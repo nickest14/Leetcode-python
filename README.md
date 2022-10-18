@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 66
+### Easy finish 67
 
 #### 1. Two Sum
 
@@ -127,6 +127,8 @@
 #### 1380. Lucky Numbers in a Matrix
 
 #### 1408. String Matching in an Array
+
+#### 1785. Minimum Elements to Add to Form a Given Sum
 
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
@@ -253,4 +255,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 122
+### Total finish 123
