@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 68
+### Easy finish 69
 
 #### 1. Two Sum
 
@@ -132,6 +132,8 @@
 
 #### 1827. Minimum Operations to Make the Array Increasing
 
+#### 1848. Minimum Distance to the Target Element
+
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 
@@ -257,4 +259,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 124
+### Total finish 125
