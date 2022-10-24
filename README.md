@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 72
+### Easy finish 73
 
 #### 1. Two Sum
 
@@ -61,6 +61,8 @@
 #### 167. Two Sum II - Input Array Is Sorted
 
 #### 169. Majority Element
+
+#### 202. Happy Number
 
 #### 203. Remove Linked List Elements
 
@@ -264,4 +266,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 128
+### Total finish 129
