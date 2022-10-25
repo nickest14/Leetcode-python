@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 73
+### Easy finish 74
 
 #### 1. Two Sum
 
@@ -79,6 +79,8 @@
 #### 234. Palindrome Linked List
 
 #### 242. Valid Anagram
+
+#### 283. Move Zeroes
 
 #### 290. Word Pattern
 
@@ -266,4 +268,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 129
+### Total finish 130
