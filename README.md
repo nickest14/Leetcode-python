@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 75
+### Easy finish 77
 
 #### 1. Two Sum
 
@@ -118,6 +118,8 @@
 
 #### 599. Minimum Index Sum of Two Lists
 
+#### 680. Valid Palindrome II
+
 #### 696. Count Binary Substrings
 
 #### 703. Kth Largest Element in a Strem
@@ -125,6 +127,8 @@
 #### 747. Largest Number At Least Twice of Others
 
 #### 844. Backspace String Compare
+
+#### 941. Valid Mountain Array
 
 #### 944. Delete Columns to Make Sorted
 
@@ -270,4 +274,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 131
+### Total finish 133
