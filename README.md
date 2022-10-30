@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 77
+### Easy finish 78
 
 #### 1. Two Sum
 
@@ -131,6 +131,8 @@
 #### 941. Valid Mountain Array
 
 #### 944. Delete Columns to Make Sorted
+
+#### 977. Squares of a Sorted Array
 
 #### 1046. Last Stone Weight
 
@@ -274,4 +276,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 133
+### Total finish 134
