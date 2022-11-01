@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 79
+### Easy finish 80
 
 #### 1. Two Sum
 
@@ -146,6 +146,8 @@
 
 #### 1408. String Matching in an Array
 
+#### 1768. Merge Strings Alternately
+
 #### 1785. Minimum Elements to Add to Form a Given Sum
 
 #### 1827. Minimum Operations to Make the Array Increasing
@@ -278,4 +280,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 135
+### Total finish 136
