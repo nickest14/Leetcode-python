@@ -11,6 +11,11 @@ class Solution:
 
         return ''.join(gen())
 
+# import itertools
+# class Solution:
+    # def mergeAlternately(self, word1: str, word2: str) -> str:
+    #     return ''.join(w1 + w2 for w1, w2 in itertools.zip_longest(word1, word2, fillvalue=''))
+
 
 word1 = "abcqqq"
 word2 = "pqr"
