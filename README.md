@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 81
+### Easy finish 88
 
 #### 1. Two Sum
 
@@ -156,6 +156,8 @@
 
 #### 1848. Minimum Distance to the Target Element
 
+#### 1876. Substrings of Size Three with Distinct Characters
+
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 #### 1903. Largest Odd Number in String
@@ -282,4 +284,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 137
+### Total finish 138
