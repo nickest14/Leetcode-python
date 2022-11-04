@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 88
+### Easy finish 89
 
 #### 1. Two Sum
 
@@ -109,6 +109,8 @@
 #### 506. Relative Ranks
 
 #### 557. Reverse Words in a String III
+
+#### 561. Array Partition
 
 #### 566. Reshape the Matrix
 
@@ -284,4 +286,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 138
+### Total finish 139
