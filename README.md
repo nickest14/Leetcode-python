@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 92
+### Easy finish 93
 
 #### 1. Two Sum
 
@@ -156,6 +156,8 @@
 
 #### 1710. Maximum Units on a Truck
 
+#### 1752. Check if Array Is Sorted and Rotated
+
 #### 1768. Merge Strings Alternately
 
 #### 1785. Minimum Elements to Add to Form a Given Sum
@@ -292,4 +294,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 142
+### Total finish 143
