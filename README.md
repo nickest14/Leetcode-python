@@ -172,7 +172,7 @@
 
 #### 1903. Largest Odd Number in String
 
-### Medinum finish 51
+### Medinum finish 52
 
 #### 2. Add Two Numbers
 
@@ -240,6 +240,8 @@
 
 #### 146. LRU Cache
 
+#### 179. Largest Number
+
 #### 208. Implement Trie (Prefix Tree)
 
 #### 211. Design Add and Search Words Data Structure
@@ -294,4 +296,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 143
+### Total finish 144
