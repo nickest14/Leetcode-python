@@ -172,7 +172,7 @@
 
 #### 1903. Largest Odd Number in String
 
-### Medinum finish 52
+### Medinum finish 53
 
 #### 2. Add Two Numbers
 
@@ -247,6 +247,8 @@
 #### 211. Design Add and Search Words Data Structure
 
 #### 251. Flatten 2D Vector
+
+#### 274. H-Index
 
 #### 284. Peeking Iterator
 
