@@ -172,7 +172,7 @@
 
 #### 1903. Largest Odd Number in String
 
-### Medinum finish 53
+### Medinum finish 54
 
 #### 2. Add Two Numbers
 
@@ -256,6 +256,8 @@
 
 #### 307. Range Sum Query - Mutable
 
+#### 324. Wiggle Sort II
+
 #### 348. Design Tic-Tac-Toe
 
 #### 353. Design Snake Game
@@ -298,4 +300,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 144
+### Total finish 145
