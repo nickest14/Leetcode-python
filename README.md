@@ -172,7 +172,7 @@
 
 #### 1903. Largest Odd Number in String
 
-### Medinum finish 54
+### Medinum finish 55
 
 #### 2. Add Two Numbers
 
@@ -268,6 +268,8 @@
 
 #### 421. Maximum XOR of Two Numbers in an Array
 
+#### 423. Reconstruct Original Digits from English
+
 #### 547. Number of Provinces
 
 #### 648. Replace Words
@@ -300,4 +302,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 145
+### Total finish 146
