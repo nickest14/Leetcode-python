@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 93
+### Easy finish 94
 
 #### 1. Two Sum
 
@@ -121,6 +121,8 @@
 #### 575. Distribute Candies
 
 #### 599. Minimum Index Sum of Two Lists
+
+#### 637. Average of Levels in Binary Tree
 
 #### 680. Valid Palindrome II
 
@@ -302,4 +304,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 146
+### Total finish 147
