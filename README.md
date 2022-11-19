@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 94
+### Easy finish 95
 
 #### 1. Two Sum
 
@@ -125,6 +125,8 @@
 #### 637. Average of Levels in Binary Tree
 
 #### 680. Valid Palindrome II
+
+#### 690. Employee Importance
 
 #### 696. Count Binary Substrings
 
@@ -304,4 +306,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 147
+### Total finish 148
