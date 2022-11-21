@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 96
+### Easy finish 97
 
 #### 1. Two Sum
 
@@ -143,6 +143,8 @@
 #### 944. Delete Columns to Make Sorted
 
 #### 977. Squares of a Sorted Array
+
+#### 993. Cousins in Binary Tree
 
 #### 1046. Last Stone Weight
 
@@ -308,4 +310,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 149
+### Total finish 150
