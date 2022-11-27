@@ -10,12 +10,12 @@ class Solution:
         for num in nums:
             for sub in result:
                 for i in range(len(sub) + 1):
-                    print(sub[:i] + [num] + sub[i:])
                     temp.append(sub[:i] + [num] + sub[i:])
             result = temp
             temp = []
-        # List comperhension:
-        # result = [sub[:i] + [num] + sub[i:] for sub in result for i in range(len(sub) + 1)]
+        # # List comperhension:
+        # for num in nums:
+        #     result = [sub[:i] + [num] + sub[i:] for sub in result for i in range(len(sub) + 1)]
         return result
 
 
@@ -38,5 +38,6 @@ class Solution:
 #         return self.ans
 
 
-ans = Solution().permute([1, 2, 3])
+# ans = Solution().permute([1, 2, 3])
+ans = Solution().permute([1, 2, 3, 2])
 print(ans)
