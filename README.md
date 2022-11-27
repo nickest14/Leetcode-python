@@ -181,7 +181,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 58
+### Medinum finish 59
 
 #### 2. Add Two Numbers
 
@@ -202,6 +202,8 @@
 #### 39. Combination Sum
 
 #### 46. Permutations
+
+#### 47. Permutations II
 
 #### 48. Rotate Image
 
@@ -317,4 +319,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 153
+### Total finish 154
