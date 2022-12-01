@@ -183,7 +183,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 59
+### Medinum finish 60
 
 #### 2. Add Two Numbers
 
@@ -297,6 +297,8 @@
 
 #### 684. Redundant Connection
 
+#### 1143. Longest Common Subsequence
+
 #### 1319. Number of Operations to Make Network Connected
 
 #### 1395. Count Number of Teams
@@ -321,4 +323,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 155
+### Total finish 156
