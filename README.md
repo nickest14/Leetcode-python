@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 98
+### Easy finish 99
 
 #### 1. Two Sum
 
@@ -133,6 +133,8 @@
 #### 696. Count Binary Substrings
 
 #### 703. Kth Largest Element in a Strem
+
+#### 724. Find Pivot Index
 
 #### 733. Flood Fill
 
@@ -323,4 +325,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 156
+### Total finish 157
