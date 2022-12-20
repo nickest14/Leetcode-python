@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 99
+### Easy finish 100
 
 #### 1. Two Sum
 
@@ -163,6 +163,8 @@
 #### 1380. Lucky Numbers in a Matrix
 
 #### 1408. String Matching in an Array
+
+#### 1422. Maximum Score After Splitting a String
 
 #### 1608. Special Array With X Elements Greater Than or Equal X
 
@@ -325,4 +327,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 157
+### Total finish 158
