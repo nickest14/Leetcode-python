@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 105
+### Easy finish 106
 
 #### 1. Two Sum
 
@@ -99,6 +99,8 @@
 #### 350. Intersection of Two Arrays II
 
 #### 359. Logger Rate **Limiter**
+
+#### 374. Guess Number Higher or Lower
 
 #### 387. First Unique Character in a String
 
@@ -337,4 +339,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 163
+### Total finish 164
