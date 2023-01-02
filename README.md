@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 106
+### Easy finish 107
 
 #### 1. Two Sum
 
@@ -105,6 +105,8 @@
 #### 387. First Unique Character in a String
 
 #### 401. Binary Watch
+
+#### 441. Arranging Coins
 
 #### 448. Find All Numbers Disappeared in an Array
 
@@ -339,4 +341,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 164
+### Total finish 165
