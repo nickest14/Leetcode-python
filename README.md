@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 108
+### Easy finish 109
 
 #### 1. Two Sum
 
@@ -171,6 +171,8 @@
 #### 1089. Duplicate Zeros
 
 #### 1332. Remove Palindromic Subsequences
+
+#### 1337. The K Weakest Rows in a Matrix
 
 #### 1380. Lucky Numbers in a Matrix
 
@@ -343,4 +345,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 166
+### Total finish 167
