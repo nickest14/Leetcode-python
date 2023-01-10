@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 109
+### Easy finish 110
 
 #### 1. Two Sum
 
@@ -180,6 +180,8 @@
 
 #### 1422. Maximum Score After Splitting a String
 
+#### 1539. Kth Missing Positive Number
+
 #### 1608. Special Array With X Elements Greater Than or Equal X
 
 #### 1710. Maximum Units on a Truck
@@ -345,4 +347,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 167
+### Total finish 168
