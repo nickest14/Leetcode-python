@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 112
+### Easy finish 113
 
 #### 1. Two Sum
 
@@ -97,6 +97,8 @@
 #### 293. Flip Game
 
 #### 303. Range Sum Query - Immutable
+
+### 338. Counting Bits
 
 #### 344. Reverse String
 
@@ -355,4 +357,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 172
+### Total finish 173
