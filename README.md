@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 113
+### Easy finish 114
 
 #### 1. Two Sum
 
@@ -123,6 +123,8 @@
 #### 496. Next Greater Element I
 
 #### 506. Relative Ranks
+
+#### 509. Fibonacci Number
 
 #### 557. Reverse Words in a String III
 
@@ -357,4 +359,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 173
+### Total finish 174
