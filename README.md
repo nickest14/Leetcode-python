@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 114
+### Easy finish 1145
 
 #### 1. Two Sum
 
@@ -157,6 +157,8 @@
 #### 733. Flood Fill
 
 #### 744. Find Smallest Letter Greater Than Target
+
+#### 746. Min Cost Climbing Stairs
 
 #### 747. Largest Number At Least Twice of Others
 
@@ -359,4 +361,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 174
+### Total finish 175
