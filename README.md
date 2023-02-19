@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 1145
+### Easy finish 146
 
 #### 1. Two Sum
 
@@ -98,7 +98,7 @@
 
 #### 303. Range Sum Query - Immutable
 
-### 338. Counting Bits
+#### 338. Counting Bits
 
 #### 344. Reverse String
 
@@ -161,6 +161,8 @@
 #### 746. Min Cost Climbing Stairs
 
 #### 747. Largest Number At Least Twice of Others
+
+#### 821. Shortest Distance to a Character
 
 #### 844. Backspace String Compare
 
@@ -361,4 +363,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 175
+### Total finish 176
