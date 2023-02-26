@@ -219,7 +219,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 66
+### Medinum finish 67
 
 #### 2. Add Two Numbers
 
@@ -325,6 +325,8 @@
 
 #### 375. Guess Number Higher or Lower II
 
+#### 399. Evaluate Division
+
 #### 406. Queue Reconstruction by Height
 
 #### 421. Maximum XOR of Two Numbers in an Array
@@ -365,4 +367,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 177
+### Total finish 178
