@@ -219,7 +219,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 67
+### Medinum finish 68
 
 #### 2. Add Two Numbers
 
@@ -286,6 +286,8 @@
 #### 120. Triangle
 
 #### 127. Word Ladder
+
+#### 128. Longest Consecutive Sequence
 
 #### 131. Palindrome Partitioning
 
@@ -367,4 +369,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 178
+### Total finish 179
