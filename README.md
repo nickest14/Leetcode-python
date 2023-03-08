@@ -219,7 +219,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 69
+### Medinum finish 70
 
 #### 2. Add Two Numbers
 
@@ -345,6 +345,8 @@
 
 #### 684. Redundant Connection
 
+#### 743. Network Delay Time
+
 #### 1143. Longest Common Subsequence
 
 #### 1319. Number of Operations to Make Network Connected
@@ -371,4 +373,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 180
+### Total finish 181
