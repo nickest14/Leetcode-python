@@ -219,7 +219,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 73
+### Medinum finish 74
 
 #### 2. Add Two Numbers
 
@@ -357,6 +357,8 @@
 
 #### 1319. Number of Operations to Make Network Connected
 
+#### 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+
 #### 1395. Count Number of Teams
 
 #### 1409. Queries on a Permutation With Key
@@ -379,4 +381,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 184
+### Total finish 185
