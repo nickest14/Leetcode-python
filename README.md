@@ -219,7 +219,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 74
+### Medinum finish 75
 
 #### 2. Add Two Numbers
 
@@ -363,6 +363,8 @@
 
 #### 1409. Queries on a Permutation With Key
 
+#### 1514. Path with Maximum Probability
+
 #### 1722. Minimize Hamming Distance After Swap Operations
 
 ### Hard finish 7
@@ -381,4 +383,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 185
+### Total finish 186
