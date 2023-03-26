@@ -219,7 +219,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 75
+### Medinum finish 76
 
 #### 2. Add Two Numbers
 
@@ -303,6 +303,8 @@
 
 #### 179. Largest Number
 
+#### 207. Course Schedule
+
 #### 208. Implement Trie (Prefix Tree)
 
 #### 211. Design Add and Search Words Data Structure
@@ -383,4 +385,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 186
+### Total finish 187
