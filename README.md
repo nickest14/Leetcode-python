@@ -219,7 +219,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 76
+### Medinum finish 77
 
 #### 2. Add Two Numbers
 
@@ -307,6 +307,8 @@
 
 #### 208. Implement Trie (Prefix Tree)
 
+#### 210. Course Schedule II
+
 #### 211. Design Add and Search Words Data Structure
 
 #### 251. Flatten 2D Vector
@@ -385,4 +387,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 187
+### Total finish 188
