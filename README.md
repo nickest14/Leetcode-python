@@ -321,6 +321,8 @@
 
 #### 307. Range Sum Query - Mutable
 
+#### 310. Minimum Height Trees
+
 #### 324. Wiggle Sort II
 
 #### 347. Top K Frequent Elements
