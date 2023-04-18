@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 146
+### Easy finish 147
 
 #### 1. Two Sum
 
@@ -43,6 +43,8 @@
 #### 102. Binary Tree Level Order Traversal
 
 #### 104. Maximum Depth of Binary Tree
+
+#### 110. Balanced Binary Tree
 
 #### 111. Minimum Depth of Binary Tree
 
@@ -389,4 +391,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 188
+### Total finish 189
