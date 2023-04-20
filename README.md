@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 147
+### Easy finish 148
 
 #### 1. Two Sum
 
@@ -83,6 +83,8 @@
 #### 219. Contains Duplicate II
 
 #### 225. Implement Stack using Queues
+
+#### 226. Invert Binary Tree
 
 #### 228. Summary Ranges
 
@@ -391,4 +393,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 189
+### Total finish 190
