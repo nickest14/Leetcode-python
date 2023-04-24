@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 149
+### Easy finish 150
 
 #### 1. Two Sum
 
@@ -131,6 +131,8 @@
 #### 506. Relative Ranks
 
 #### 509. Fibonacci Number
+
+#### 543. Diameter of Binary Tree
 
 #### 557. Reverse Words in a String III
 
@@ -395,4 +397,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 191
+### Total finish 192
