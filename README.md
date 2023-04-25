@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 150
+### Easy finish 151
 
 #### 1. Two Sum
 
@@ -135,6 +135,8 @@
 #### 543. Diameter of Binary Tree
 
 #### 557. Reverse Words in a String III
+
+#### 559. Maximum Depth of N-ary Tree
 
 #### 561. Array Partition
 
@@ -397,4 +399,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 192
+### Total finish 193
