@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 152
+### Easy finish 153
 
 #### 1. Two Sum
 
@@ -145,6 +145,8 @@
 #### 572. Subtree of Another Tree
 
 #### 594. Longest Harmonious Subsequence
+
+#### 606. Construct String from Binary Tree
 
 #### 657. Robot Return to Origin
 
@@ -401,4 +403,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 194
+### Total finish 195
