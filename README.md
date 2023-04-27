@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 151
+### Easy finish 152
 
 #### 1. Two Sum
 
@@ -141,6 +141,8 @@
 #### 561. Array Partition
 
 #### 566. Reshape the Matrix
+
+#### 572. Subtree of Another Tree
 
 #### 594. Longest Harmonious Subsequence
 
@@ -399,4 +401,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 193
+### Total finish 194
