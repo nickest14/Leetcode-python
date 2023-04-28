@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 153
+### Easy finish 154
 
 #### 1. Two Sum
 
@@ -359,6 +359,8 @@
 
 #### 547. Number of Provinces
 
+#### 617. Merge Two Binary Trees
+
 #### 648. Replace Words
 
 #### 677. Map Sum Pairs
@@ -403,4 +405,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 195
+### Total finish 196
