@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 154
+### Easy finish 155
 
 #### 1. Two Sum
 
@@ -210,6 +210,8 @@
 
 #### 1608. Special Array With X Elements Greater Than or Equal X
 
+#### 1688. Count of Matches in Tournament
+
 #### 1710. Maximum Units on a Truck
 
 #### 1752. Check if Array Is Sorted and Rotated
@@ -405,4 +407,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 196
+### Total finish 197
