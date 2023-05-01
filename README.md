@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 155
+### Easy finish 156
 
 #### 1. Two Sum
 
@@ -35,6 +35,8 @@
 #### 77. Combinations
 
 #### 88. Merge Sorted Array
+
+#### 94. Binary Tree Inorder Traversal
 
 #### 100. Same Tree
 
@@ -407,4 +409,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 197
+### Total finish 198
