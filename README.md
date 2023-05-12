@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 160
+### Easy finish 161
 
 #### 1. Two Sum
 
@@ -161,6 +161,8 @@
 #### 575. Distribute Candies
 
 #### 589. N-ary Tree Preorder Traversal
+
+#### 590. N-ary Tree Postorder Traversal
 
 #### 599. Minimum Index Sum of Two Lists
 
@@ -417,4 +419,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 202
+### Total finish 203
