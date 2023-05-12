@@ -11,7 +11,7 @@ class Node:
 
 
 class Solution:
-    def preorder(self, root: 'Node') -> List[int]:
+    def postorder(self, root: 'Node') -> List[int]:
         stack, ans = [root], []
         while stack:
             node = stack.pop()
@@ -19,8 +19,8 @@ class Solution:
                 continue
             ans.append(node.val)
             if node.children:
-                stack += reversed(node.children)
-        return ans
+                stack += node.children
+        return ans[::-1]
 
 
 root = Node(1)
@@ -31,5 +31,5 @@ node5 = Node(5)
 node6 = Node(6)
 node3.children = [node5, node6]
 root.children = [node3, node2, node4]
-ans = Solution().preorder(root)
+ans = Solution().postorder(root)
 print(ans)
