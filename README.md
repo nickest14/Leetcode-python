@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 164
+### Easy finish 165
 
 #### 1. Two Sum
 
@@ -177,6 +177,8 @@
 #### 690. Employee Importance
 
 #### 696. Count Binary Substrings
+
+#### 700. Search in a Binary Search Tree
 
 #### 703. Kth Largest Element in a Strem
 
@@ -425,4 +427,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 206
+### Total finish 207
