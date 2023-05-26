@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 167
+### Easy finish 168
 
 #### 1. Two Sum
 
@@ -29,6 +29,8 @@
 #### 53. Maximum Subarray
 
 #### 66. Plus One
+
+#### 67. Add Binary
 
 #### 69. Sqrt(x)
 
@@ -433,4 +435,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 210
+### Total finish 211
