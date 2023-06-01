@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 170
+### Easy finish 171
 
 #### 1. Two Sum
 
@@ -103,6 +103,8 @@
 #### 226. Invert Binary Tree
 
 #### 228. Summary Ranges
+
+#### 231. Power of Two
 
 #### 234. Palindrome Linked List
 
@@ -439,4 +441,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 213
+### Total finish 214
