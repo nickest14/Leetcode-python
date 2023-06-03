@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 172
+### Easy finish 173
 
 #### 1. Two Sum
 
@@ -115,6 +115,8 @@
 #### 257. Binary Tree Paths
 
 #### 263. Ugly Number
+
+#### 268. Missing Number
 
 #### 278. First Bad Version
 
@@ -443,4 +445,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 215
+### Total finish 216
