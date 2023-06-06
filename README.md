@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 174
+### Easy finish 175
 
 #### 1. Two Sum
 
@@ -131,6 +131,8 @@
 #### 326. Power of Three
 
 #### 338. Counting Bits
+
+#### 342. Power of Four
 
 #### 344. Reverse String
 
@@ -447,4 +449,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 217
+### Total finish 218
