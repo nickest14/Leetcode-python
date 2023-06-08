@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 175
+### Easy finish 134
 
 #### 1. Two Sum
 
@@ -157,6 +157,8 @@
 #### 485. Max Consecutive Ones
 
 #### 496. Next Greater Element I
+
+#### 504. Base 7
 
 #### 506. Relative Ranks
 
@@ -449,4 +451,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 218
+### Total finish 219
