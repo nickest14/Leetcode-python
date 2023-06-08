@@ -3,7 +3,6 @@
 
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
-        print((n % 3))
         return n % 3 == 1 and n & (n - 1) == 0
 
 
