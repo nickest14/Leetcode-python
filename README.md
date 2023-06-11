@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 134
+### Easy finish 135
 
 #### 1. Two Sum
 
@@ -238,6 +238,8 @@
 
 #### 1089. Duplicate Zeros
 
+#### 1317. Convert Integer to the Sum of Two No-Zero Integers
+
 #### 1332. Remove Palindromic Subsequences
 
 #### 1337. The K Weakest Rows in a Matrix
@@ -451,4 +453,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 219
+### Total finish 220
