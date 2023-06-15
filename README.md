@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 136
+### Easy finish 137
 
 #### 1. Two Sum
 
@@ -67,6 +67,8 @@
 #### 122. Best Time to Buy and Sell Stock II
 
 #### 125. Valid Palindrome
+
+#### 136. Single Number
 
 #### 144. Binary Tree Preorder Traversal
 
@@ -455,4 +457,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 221
+### Total finish 222
