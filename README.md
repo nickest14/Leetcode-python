@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 138
+### Easy finish 139
 
 #### 1. Two Sum
 
@@ -147,6 +147,8 @@
 #### 374. Guess Number Higher or Lower
 
 #### 387. First Unique Character in a String
+
+#### 389. Find the Difference
 
 #### 401. Binary Watch
 
@@ -459,4 +461,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 223
+### Total finish 224
