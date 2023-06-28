@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 141
+### Easy finish 142
 
 #### 1. Two Sum
 
@@ -254,6 +254,8 @@
 
 #### 1337. The K Weakest Rows in a Matrix
 
+#### 1342. Number of Steps to Reduce a Number to Zero
+
 #### 1380. Lucky Numbers in a Matrix
 
 #### 1408. String Matching in an Array
@@ -465,4 +467,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 226
+### Total finish 227
