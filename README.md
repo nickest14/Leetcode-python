@@ -293,7 +293,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 82
+### Medinum finish 83
 
 #### 2. Add Two Numbers
 
@@ -425,6 +425,8 @@
 
 #### 423. Reconstruct Original Digits from English
 
+#### 424. Longest Repeating Character Replacement
+
 #### 547. Number of Provinces
 
 #### 617. Merge Two Binary Trees
@@ -475,4 +477,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 231
+### Total finish 232
