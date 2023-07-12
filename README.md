@@ -293,7 +293,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 83
+### Medinum finish 84
 
 #### 2. Add Two Numbers
 
@@ -380,6 +380,8 @@
 #### 144. Binary Tree Preorder Traversal
 
 #### 146. LRU Cache
+
+#### 153. Find Minimum in Rotated Sorted Array
 
 #### 179. Largest Number
 
@@ -477,4 +479,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 232
+### Total finish 233
