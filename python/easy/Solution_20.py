@@ -1,26 +1,19 @@
 # 20. Valid Parentheses
-class Solution:
-    pair = {
-        '[': ']',
-        '{': '}',
-        '(': ')'
-    }
 
+class Solution:
     def isValid(self, s: str) -> bool:
-        if s:
-            li = []
-            for i in s:
-                if i in self.pair.keys():
-                    li.append(i)
-                else:
-                    if len(li) == 0:
-                        return False
-                    inside = li.pop()
-                    if not self.pair[inside] == i:
-                        return False
-            if len(li) != 0:
+        map = {")": "(", "]": "[", "}": "{"}
+        stack = []
+
+        for c in s:
+            if c not in map:
+                stack.append(c)
+                continue
+            if not stack or stack[-1] != map[c]:
                 return False
-        return True
+            stack.pop()
+
+        return not stack
 
 
 ans = Solution().isValid('{[]}')
