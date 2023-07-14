@@ -293,7 +293,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 84
+### Medinum finish 85
 
 #### 2. Add Two Numbers
 
@@ -376,6 +376,8 @@
 #### 130. Surrounded Regions
 
 #### 133. Clone Graph
+
+#### 143. Reorder List
 
 #### 144. Binary Tree Preorder Traversal
 
@@ -479,4 +481,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 233
+### Total finish 234
