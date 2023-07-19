@@ -1,5 +1,8 @@
 # 104. Maximum Depth of Binary Tree
 
+from typing import Optional
+from collections import deque
+
 
 # Definition for a binary tree node.
 class TreeNode:
@@ -10,6 +13,38 @@ class TreeNode:
 
 
 class Solution:
+    # DFS
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        stack = [[root, 1]]
+        ans = 0
+        while stack:
+            node, depth = stack.pop()
+            if node:
+                ans = max(ans, depth)
+                stack.append([node.left, depth + 1])
+                stack.append([node.right, depth + 1])
+        return ans
+
+    # BFS
+    def maxDepthBFS(self, root: TreeNode) -> int:
+        q = deque()
+        if root:
+            q.append(root)
+
+        level = 0
+
+        while q:
+            for i in range(len(q)):
+                node = q.popleft()
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+            level += 1
+        return level
+
+
+class Solution2:
     def maxDepth(self, root: TreeNode) -> int:
         if not root:
             return 0
