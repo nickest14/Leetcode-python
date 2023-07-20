@@ -1,4 +1,8 @@
 # 100. Same Tree
+
+from typing import Optional
+
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -7,7 +11,7 @@ class TreeNode:
 
 
 class Solution:
-    def isSameTree(self, p: TreeNode, q: TreeNode) -> bool:
+    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         if p and q:
             return p.val == q.val and self.isSameTree(p.left, q.left) \
                 and self.isSameTree(p.right, q.right)
