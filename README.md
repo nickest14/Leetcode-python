@@ -295,7 +295,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 86
+### Medinum finish 87
 
 #### 2. Add Two Numbers
 
@@ -399,6 +399,8 @@
 
 #### 211. Design Add and Search Words Data Structure
 
+#### 230. Kth Smallest Element in a BST
+
 #### 238. Product of Array Except Self
 
 #### 251. Flatten 2D Vector
@@ -485,4 +487,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 236
+### Total finish 237
