@@ -1,9 +1,8 @@
 # 133. Clone Graph
 import collections
 
+
 # Definition for a Node.
-
-
 class Node:
     def __init__(self, val, neighbors):
         self.val = val
@@ -11,6 +10,22 @@ class Node:
 
 
 class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        hash_dict = dict()
+
+        def dfs(node):
+            if node in hash_dict:
+                return hash_dict[node]
+            copy = Node(node.val)
+            hash_dict[node] = copy
+            for n in node.neighbors:
+                copy.neighbors.append(dfs(n))
+            return copy
+
+        return dfs(node) if node else None
+
+
+class Solution2:
     # BFS version
     def cloneGraph(self, node: 'Node') -> 'Node':
         if node is None:
