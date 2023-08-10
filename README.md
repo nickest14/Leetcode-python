@@ -295,7 +295,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 93
+### Medinum finish 94
 
 #### 2. Add Two Numbers
 
@@ -423,6 +423,8 @@
 
 #### 310. Minimum Height Trees
 
+#### 322. Coin Change
+
 #### 324. Wiggle Sort II
 
 #### 347. Top K Frequent Elements
@@ -499,4 +501,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 243
+### Total finish 244
