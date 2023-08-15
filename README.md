@@ -295,7 +295,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 96
+### Medinum finish 97
 
 #### 2. Add Two Numbers
 
@@ -425,6 +425,8 @@
 
 #### 307. Range Sum Query - Mutable
 
+#### 300. Longest Increasing Subsequence
+
 #### 310. Minimum Height Trees
 
 #### 322. Coin Change
@@ -505,4 +507,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 246
+### Total finish 247
