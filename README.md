@@ -491,7 +491,7 @@
 
 #### 1722. Minimize Hamming Distance After Swap Operations
 
-### Hard finish 7
+### Hard finish 6
 
 #### 23. Merge k Sorted Lists
 
@@ -501,10 +501,8 @@
 
 #### 84. Largest Rectangle in Histogram
 
-#### 57. Insert Interval
-
 #### 126. Word Ladder II
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 247
+### Total finish 246
