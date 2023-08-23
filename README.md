@@ -295,7 +295,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 98
+### Medinum finish 99
 
 #### 2. Add Two Numbers
 
@@ -334,6 +334,8 @@
 #### 50. Pow(x, n)
 
 #### 55. Jump Game
+
+#### 56. Merge Intervals
 
 #### 57. Insert Interval
 
@@ -507,4 +509,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 247
+### Total finish 248
