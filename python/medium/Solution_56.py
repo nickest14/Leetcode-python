@@ -1,6 +1,5 @@
 # 56. Merge Intervals
 
-
 from typing import List
 
 
