@@ -295,7 +295,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 101
+### Medinum finish 102
 
 #### 2. Add Two Numbers
 
@@ -342,6 +342,8 @@
 #### 57. Insert Interval
 
 #### 62. Unique Paths
+
+#### 73. Set Matrix Zeroes
 
 #### 74. Search a 2D Matrix
 
@@ -513,4 +515,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 250
+### Total finish 251
