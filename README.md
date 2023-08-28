@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 143
+### Easy finish 144
 
 #### 1. Two Sum
 
@@ -89,6 +89,8 @@
 #### 169. Majority Element
 
 #### 171. Excel Sheet Column Number
+
+#### 190. Reverse Bits
 
 #### 191. Number of 1 Bits
 
@@ -515,4 +517,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 251
+### Total finish 252
