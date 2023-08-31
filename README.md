@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 102
+### Medinum finish 103
 
 #### 2. Add Two Numbers
 
@@ -503,6 +503,8 @@
 
 #### 1722. Minimize Hamming Distance After Swap Operations
 
+#### 1899. Merge Triplets to Form Target Triplet
+
 ### Hard finish 6
 
 #### 23. Merge k Sorted Lists
@@ -517,4 +519,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 252
+### Total finish 253
