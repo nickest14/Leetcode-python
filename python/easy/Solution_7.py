@@ -1,22 +1,24 @@
 # 7. Reverse Integer
+
+import math
+
+
 class Solution:
     def reverse(self, x: int) -> int:
-        if x < 0:
-            x *= -1
-            negative = True
-        else:
-            negative = False
+        min, max = -2**31, 2**31 - 1
         ans = 0
-        while x > 0:
-            num = x % 10
+
+        while x:
+            digit = int(math.fmod(x, 10))
             x = int(x / 10)
-            ans = ans * 10 + num
-        if negative:
-            ans *= -1
-        if ans > 2**31-1 or ans < -1 * 2**31:
-            return 0
+            if ans > max // 10 or (ans == max // 10 and digit > max % 10):
+                return 0
+            if ans < min // 10 or (ans == min // 10 and digit < min % 10):
+                return 0
+
+            ans = digit + (ans * 10)
         return ans
 
 
-ans = Solution().reverse(-0)
+ans = Solution().reverse(-123)
 print(ans)
