@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 103
+### Medinum finish 104
 
 #### 2. Add Two Numbers
 
@@ -322,6 +322,8 @@
 #### 33. Search in Rotated Sorted Array
 
 #### 34. Find First and Last Position of Element in Sorted Array
+
+#### 36. Valid Sudoku
 
 #### 39. Combination Sum
 
@@ -519,4 +521,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 253
+### Total finish 254
