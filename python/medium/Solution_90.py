@@ -1,7 +1,33 @@
 # 90. Subsets II
 
+from typing import List
+
 
 class Solution:
+    def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        ans = []
+        nums.sort()
+
+        def backtrack(i, subset):
+            if len(nums) == i:
+                ans.append(subset[::])
+                return
+
+            # All subsets that include nums[i]
+            subset.append(nums[i])
+            backtrack(i + 1, subset)
+            subset.pop()
+
+            # All subsets that don't include nums[i]
+            while i + 1 < len(nums) and nums[i] == nums[i + 1]:
+                i += 1
+            backtrack(i + 1, subset)
+
+        backtrack(0, [])
+        return ans
+
+
+class Solution2:
     def dfs(self, nums, index, res, path):
         if path not in res:
             res.append(path)
