@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 107
+### Medinum finish 108
 
 #### 2. Add Two Numbers
 
@@ -497,6 +497,8 @@
 
 #### 886. Possible Bipartition
 
+#### 973. K Closest Points to Origin
+
 #### 1143. Longest Common Subsequence
 
 #### 1319. Number of Operations to Make Network Connected
@@ -527,4 +529,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 257
+### Total finish 258
