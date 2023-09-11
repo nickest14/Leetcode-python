@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 108
+### Medinum finish 109
 
 #### 2. Add Two Numbers
 
@@ -326,6 +326,8 @@
 #### 36. Valid Sudoku
 
 #### 39. Combination Sum
+
+#### 45. Jump Game II
 
 #### 46. Permutations
 
@@ -515,13 +517,11 @@
 
 #### 1899. Merge Triplets to Form Target Triplet
 
-### Hard finish 6
+### Hard finish 5
 
 #### 23. Merge k Sorted Lists
 
 #### 32. Longest Valid Parentheses
-
-#### 45. Jump Game II
 
 #### 84. Largest Rectangle in Histogram
 

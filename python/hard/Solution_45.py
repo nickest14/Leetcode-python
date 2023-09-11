@@ -1,27 +1,22 @@
 # 45. Jump Game II
 
+from typing import List
+
 
 class Solution:
-    def jump(self, nums) -> int:
-        length = len(nums)
-        if length <= 1:
-            return 0
-        step = 0
+    def jump(self, nums: List[int]) -> int:
         left, right = 0, 0
-        while left <= right:
-            temp_right = right
-            step += 1
-            for i in range(left, right+1):
-                new_right = i + nums[i]
-                if new_right >= length-1:
-                    return step
-                if new_right > right:
-                    right = new_right
-
-            left = temp_right + 1
-        return 0
+        ans = 0
+        while right < len(nums) - 1:
+            max_jump = 0
+            for i in range(left, right + 1):
+                max_jump = max(max_jump, nums[i] + i)
+            left = right + 1
+            right = max_jump
+            ans += 1
+        return ans
 
 
-nums = [4, 1, 2, 1, 3, 1, 1, 2]
+nums = [2, 3, 1, 1, 4]
 ans = Solution().jump(nums)
 print(ans)
