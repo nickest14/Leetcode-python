@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 110
+### Medinum finish 111
 
 #### 2. Add Two Numbers
 
@@ -475,6 +475,8 @@
 
 #### 435. Non-overlapping Intervals
 
+#### 494. Target Sum
+
 #### 547. Number of Provinces
 
 #### 617. Merge Two Binary Trees
@@ -531,4 +533,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 259
+### Total finish 260
