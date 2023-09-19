@@ -13,7 +13,7 @@ class Solution:
         def union(x: int, y: int):
             px, py = map(find, (x, y))
             if px == py:
-                return None
+                return
             if rank[x] > rank[y]:
                 px, py = py, px
             parent[px] = py
