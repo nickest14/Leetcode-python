@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 112
+### Medinum finish 113
 
 #### 2. Add Two Numbers
 
@@ -479,6 +479,8 @@
 
 #### 547. Number of Provinces
 
+#### 554. Brick Wall
+
 #### 617. Merge Two Binary Trees
 
 #### 647. Palindromic Substrings
@@ -535,4 +537,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 261
+### Total finish 262
