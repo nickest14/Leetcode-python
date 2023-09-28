@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 113
+### Medinum finish 114
 
 #### 2. Add Two Numbers
 
@@ -525,6 +525,8 @@
 
 #### 1899. Merge Triplets to Form Target Triplet
 
+#### 2348. Number of Zero-Filled Subarrays
+
 ### Hard finish 5
 
 #### 23. Merge k Sorted Lists
@@ -537,4 +539,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 262
+### Total finish 263
