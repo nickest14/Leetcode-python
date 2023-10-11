@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 119
+### Medinum finish 120
 
 #### 2. Add Two Numbers
 
@@ -517,6 +517,8 @@
 
 #### 1143. Longest Common Subsequence
 
+#### 1162. As Far from Land as Possible
+
 #### 1319. Number of Operations to Make Network Connected
 
 #### 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
@@ -549,4 +551,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 268
+### Total finish 269
