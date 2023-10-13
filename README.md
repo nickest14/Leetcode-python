@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 120
+### Medinum finish 121
 
 #### 2. Add Two Numbers
 
@@ -537,6 +537,8 @@
 
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 
+#### 2013. Detect Squares
+
 #### 2348. Number of Zero-Filled Subarrays
 
 ### Hard finish 5
@@ -551,4 +553,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 269
+### Total finish 270
