@@ -297,7 +297,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 121
+### Medinum finish 122
 
 #### 2. Add Two Numbers
 
@@ -316,6 +316,8 @@
 #### 18. 4Sum
 
 #### 19. Remove Nth Node From End of List
+
+#### 22. Generate Parentheses
 
 #### 32. Longest Valid Parentheses
 
@@ -553,4 +555,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 270
+### Total finish 271
