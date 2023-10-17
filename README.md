@@ -150,6 +150,8 @@
 
 #### 374. Guess Number Higher or Lower
 
+#### 377. Combination Sum IV
+
 #### 387. First Unique Character in a String
 
 #### 389. Find the Difference
@@ -297,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medinum finish 122
+### Medium finish 123
 
 #### 2. Add Two Numbers
 
@@ -555,4 +557,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 271
+### Total finish 272
