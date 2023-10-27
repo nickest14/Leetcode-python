@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 127
+### Medium finish 128
 
 #### 2. Add Two Numbers
 
@@ -499,6 +499,8 @@
 
 #### 684. Redundant Connection
 
+#### 698. Partition to K Equal Sum Subsets
+
 #### 743. Network Delay Time
 
 #### 785. Is Graph Bipartite?
@@ -565,4 +567,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 276
+### Total finish 277
