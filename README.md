@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 128
+### Medium finish 129
 
 #### 2. Add Two Numbers
 
@@ -457,6 +457,8 @@
 
 #### 324. Wiggle Sort II
 
+#### 343. Integer Break
+
 #### 347. Top K Frequent Elements
 
 #### 348. Design Tic-Tac-Toe
@@ -567,4 +569,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 277
+### Total finish 278
