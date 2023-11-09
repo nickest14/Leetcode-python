@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 134
+### Medium finish 135
 
 #### 2. Add Two Numbers
 
@@ -551,6 +551,8 @@
 
 #### 1514. Path with Maximum Probability
 
+#### 1631. Path With Minimum Effort
+
 #### 1722. Minimize Hamming Distance After Swap Operations
 
 #### 1899. Merge Triplets to Form Target Triplet
@@ -579,4 +581,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 283
+### Total finish 284
