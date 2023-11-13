@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 136
+### Medium finish 137
 
 #### 2. Add Two Numbers
 
@@ -358,6 +358,8 @@
 #### 73. Set Matrix Zeroes
 
 #### 74. Search a 2D Matrix
+
+#### 75. Sort Colors
 
 #### 78. Subsets
 
@@ -583,4 +585,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 285
+### Total finish 286
