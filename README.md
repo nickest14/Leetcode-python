@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 137
+### Medium finish 138
 
 #### 2. Add Two Numbers
 
@@ -571,6 +571,8 @@
 
 #### 2013. Detect Squares
 
+#### 2130. Maximum Twin Sum of a Linked List
+
 #### 2348. Number of Zero-Filled Subarrays
 
 ### Hard finish 5
@@ -585,4 +587,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 286
+### Total finish 287
