@@ -1,5 +1,7 @@
 # 106. Construct Binary Tree from Inorder and Postorder Traversal
 
+from typing import List, Optional
+
 
 # Definition for a binary tree node.
 class TreeNode:
@@ -10,13 +12,35 @@ class TreeNode:
 
 
 class Solution:
-    def buildTree(self, inorder, postorder):
-        if not inorder or not postorder:
+    def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
+        inorder_idx = {v: i for i, v in enumerate(inorder)}
+
+        def helper(l: int, r: int):
+            if l > r:
+                return None
+
+            root = TreeNode(postorder.pop())
+
+            idx = inorder_idx.get(root.val)
+
+            root.right = helper(idx + 1, r)
+            root.left = helper(l, idx - 1)
+
+            return root
+
+        return helper(0, len(inorder) - 1)
+
+    def buildTree2(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
+        if not inorder:
             return None
-        root = TreeNode(postorder[-1])
-        index = inorder.index(postorder[-1])
-        root.left = self.buildTree(inorder[:index], postorder[:index])
-        root.right = self.buildTree(inorder[index+1:], postorder[index:-1])
+
+        root = TreeNode(postorder.pop())
+
+        idx = inorder.index(root.val)
+
+        root.right = self.buildTree(inorder[idx + 1:], postorder)
+        root.left = self.buildTree(inorder[:idx], postorder)
+
         return root
 
 
