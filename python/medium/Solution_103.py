@@ -1,5 +1,8 @@
 # 103. Binary Tree Zigzag Level Order Traversal
 
+from collections import deque
+from typing import Optional, List
+
 
 # Definition for a binary tree node.
 class TreeNode:
@@ -10,26 +13,21 @@ class TreeNode:
 
 
 class Solution:
-    def levelOrder(self, root: TreeNode):
-        if root:
-            ans = []
-            nodes = []
-            nodes.append(root)
-            while nodes:
-                level_li = []
-                temp_nodes = []
-                for i in nodes:
-                    level_li.append(i.val)
-                    if i.left:
-                        temp_nodes.append(i.left)
-                    if i.right:
-                        temp_nodes.append(i.right)
-                if len(ans) % 2 != 0:
-                    level_li = level_li[::-1]
-                ans.append(level_li)
-                nodes = temp_nodes
-            return ans
-        return []
+    def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        ans = []
+        q = deque([root]) if root else []
+        while q:
+            level = []
+            for _ in range(len(q)):
+                node = q.popleft()
+                level.append(node.val)
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+            level = reversed(level) if len(ans) % 2 else level
+            ans.append(level)
+        return ans
 
 
 root = TreeNode(3)
