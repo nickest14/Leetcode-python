@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 138
+### Medium finish 139
 
 #### 2. Add Two Numbers
 
@@ -481,6 +481,8 @@
 
 #### 399. Evaluate Division
 
+#### 402. Remove K Digits
+
 #### 406. Queue Reconstruction by Height
 
 #### 417. Pacific Atlantic Water Flow
@@ -587,4 +589,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 287
+### Total finish 288
