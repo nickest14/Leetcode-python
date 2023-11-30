@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 141
+### Medium finish 142
 
 #### 2. Add Two Numbers
 
@@ -581,6 +581,8 @@
 
 #### 2348. Number of Zero-Filled Subarrays
 
+#### 2492. Minimum Score of a Path Between Two Cities
+
 ### Hard finish 5
 
 #### 23. Merge k Sorted Lists
@@ -593,4 +595,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 290
+### Total finish 291
