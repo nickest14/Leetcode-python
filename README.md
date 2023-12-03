@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 142
+### Medium finish 143
 
 #### 2. Add Two Numbers
 
@@ -537,6 +537,8 @@
 
 #### 909. Snakes and Ladders
 
+#### 934. Shortest Bridge
+
 #### 973. K Closest Points to Origin
 
 #### 1041. Robot Bounded In Circle
@@ -595,4 +597,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 291
+### Total finish 292
