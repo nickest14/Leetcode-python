@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 144
+### Medium finish 145
 
 #### 2. Add Two Numbers
 
@@ -519,6 +519,8 @@
 
 #### 743. Network Delay Time
 
+#### 763. Partition Labels
+
 #### 785. Is Graph Bipartite?
 
 #### 787. Cheapest Flights Within K Stops
@@ -599,4 +601,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 293
+### Total finish 294
