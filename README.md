@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 145
+### Medium finish 146
 
 #### 2. Add Two Numbers
 
@@ -559,6 +559,8 @@
 
 #### 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 
+#### 1376. Time Needed to Inform All Employees
+
 #### 1395. Count Number of Teams
 
 #### 1396. Design Underground System
@@ -601,4 +603,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 294
+### Total finish 295
