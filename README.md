@@ -299,7 +299,7 @@
 #### 1903. Largest Odd Number in String
 
 
-### Medium finish 146
+### Medium finish 147
 
 #### 2. Add Two Numbers
 
@@ -354,6 +354,8 @@
 #### 61. Rotate List
 
 #### 62. Unique Paths
+
+#### 71. Simplify Path
 
 #### 73. Set Matrix Zeroes
 
@@ -603,4 +605,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 295
+### Total finish 296
