@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 144
+### Easy finish 145
 
 #### 1. Two Sum
 
@@ -233,6 +233,8 @@
 #### 821. Shortest Distance to a Character
 
 #### 844. Backspace String Compare
+
+#### 876. Middle of the Linked List
 
 #### 897. Increasing Order Search Tree
 
@@ -605,4 +607,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 296
+### Total finish 297
