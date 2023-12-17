@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 145
+### Easy finish 146
 
 #### 1. Two Sum
 
@@ -299,6 +299,8 @@
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
 #### 1903. Largest Odd Number in String
+
+#### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
 ### Medium finish 147
@@ -607,4 +609,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 297
+### Total finish 298
