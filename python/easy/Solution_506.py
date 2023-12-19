@@ -1,4 +1,4 @@
-# 125. Valid Palindrome
+# 506. Relative Ranks
 
 
 class Solution:
@@ -21,7 +21,7 @@ class Solution:
 
 
 # ans = Solution().findRelativeRanks([5,8,1,2,7])
-ans = Solution().findRelativeRanks([6,4,3,8,1])
+ans = Solution().findRelativeRanks([6, 4, 3, 8, 1])
 print(ans)
 
 # Input: [5, 4, 3, 2, 1]
