@@ -13,15 +13,16 @@ class ListNode:
 class Solution:
     def removeElements(
             self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
-        virtual_node = ListNode(next=head)
-        current = virtual_node
-        while current.next:
-            if current.next.val == val:
-                current.next = current.next.next
+        dummy = ListNode(next=head)
+        prev, curr = dummy, head
+        while curr:
+            next = curr.next
+            if curr.val == val:
+                prev.next = next
             else:
-                current = current.next
+                prev = curr
+            curr = next
 
-        return virtual_node.next
 
 l6 = ListNode(val=5)
 l5 = ListNode(val=4, next=l6)
