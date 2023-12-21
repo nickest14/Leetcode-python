@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 146
+### Easy finish 147
 
 #### 1. Two Sum
 
@@ -207,6 +207,8 @@
 #### 645. Set Mismatch
 
 #### 680. Valid Palindrome II
+
+#### 682. Baseball Game
 
 #### 690. Employee Importance
 
@@ -609,4 +611,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 298
+### Total finish 299
