@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 148
+### Easy finish 149
 
 #### 1. Two Sum
 
@@ -257,6 +257,8 @@
 #### 1051. Height Checker
 
 #### 1089. Duplicate Zeros
+
+#### 1299. Replace Elements with Greatest Element on Right Side
 
 #### 1317. Convert Integer to the Sum of Two No-Zero Integers
 
@@ -613,4 +615,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 300
+### Total finish 301
