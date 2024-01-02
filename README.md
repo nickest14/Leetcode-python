@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 150
+### Easy finish 151
 
 #### 1. Two Sum
 
@@ -27,6 +27,8 @@
 #### 35. Search Insert Position
 
 #### 53. Maximum Subarray
+
+#### 58. Length of Last Word
 
 #### 66. Plus One
 
@@ -617,4 +619,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 302
+### Total finish 303
