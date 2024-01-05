@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 151
+### Easy finish 152
 
 #### 1. Two Sum
 
@@ -243,6 +243,8 @@
 #### 876. Middle of the Linked List
 
 #### 897. Increasing Order Search Tree
+
+#### 929. Unique Email Addresses
 
 #### 941. Valid Mountain Array
 
@@ -619,4 +621,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 303
+### Total finish 304
