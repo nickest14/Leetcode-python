@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 152
+### Easy finish 153
 
 #### 1. Two Sum
 
@@ -205,6 +205,8 @@
 #### 590. N-ary Tree Postorder Traversal
 
 #### 599. Minimum Index Sum of Two Lists
+
+#### 605. Can Place Flowers
 
 #### 637. Average of Levels in Binary Tree
 
@@ -621,4 +623,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 304
+### Total finish 305
