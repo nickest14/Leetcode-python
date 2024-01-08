@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 153
+### Easy finish 154
 
 #### 1. Two Sum
 
@@ -265,6 +265,8 @@
 #### 1051. Height Checker
 
 #### 1089. Duplicate Zeros
+
+#### 1189. Maximum Number of Balloons
 
 #### 1299. Replace Elements with Greatest Element on Right Side
 
@@ -623,4 +625,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 305
+### Total finish 306
