@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 154
+### Easy finish 155
 
 #### 1. Two Sum
 
@@ -225,6 +225,8 @@
 #### 703. Kth Largest Element in a Strem
 
 #### 704. Binary Search
+
+#### 705. Design HashSet
 
 #### 724. Find Pivot Index
 
@@ -625,4 +627,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 306
+### Total finish 307
