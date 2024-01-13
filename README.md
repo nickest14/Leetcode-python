@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 155
+### Easy finish 156
 
 #### 1. Two Sum
 
@@ -227,6 +227,8 @@
 #### 704. Binary Search
 
 #### 705. Design HashSet
+
+#### 706. Design HashMap
 
 #### 724. Find Pivot Index
 
@@ -627,4 +629,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 307
+### Total finish 308
