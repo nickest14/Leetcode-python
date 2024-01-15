@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 147
+### Medium finish 148
 
 #### 2. Add Two Numbers
 
@@ -563,6 +563,8 @@
 
 #### 901. Online Stock Span
 
+#### 912. Sort an Array
+
 #### 909. Snakes and Ladders
 
 #### 934. Shortest Bridge
@@ -629,4 +631,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 308
+### Total finish 309
