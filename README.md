@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 148
+### Medium finish 149
 
 #### 2. Add Two Numbers
 
@@ -525,6 +525,8 @@
 
 #### 518. Coin Change II
 
+#### 535. Encode and Decode TinyURL
+
 #### 547. Number of Provinces
 
 #### 554. Brick Wall
@@ -631,4 +633,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 309
+### Total finish 310
