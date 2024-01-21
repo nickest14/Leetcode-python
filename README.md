@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 149
+### Medium finish 150
 
 #### 2. Add Two Numbers
 
@@ -531,6 +531,8 @@
 
 #### 554. Brick Wall
 
+#### 560. Subarray Sum Equals K
+
 #### 617. Merge Two Binary Trees
 
 #### 647. Palindromic Substrings
@@ -633,4 +635,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 310
+### Total finish 311
