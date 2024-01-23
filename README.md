@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 150
+### Medium finish 151
 
 #### 2. Add Two Numbers
 
@@ -609,6 +609,8 @@
 
 #### 1911. Maximum Alternating Subsequence Sum
 
+#### 1930. Unique Length-3 Palindromic Subsequences
+
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 
 #### 1985. Find the Kth Largest Integer in the Array
@@ -635,4 +637,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 311
+### Total finish 312
