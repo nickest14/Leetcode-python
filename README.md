@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 152
+### Medium finish 153
 
 #### 2. Add Two Numbers
 
@@ -621,6 +621,8 @@
 
 #### 2013. Detect Squares
 
+#### 2017. Grid Game
+
 #### 2130. Maximum Twin Sum of a Linked List
 
 #### 2348. Number of Zero-Filled Subarrays
@@ -639,4 +641,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 313
+### Total finish 314
