@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 153
+### Medium finish 154
 
 #### 2. Add Two Numbers
 
@@ -521,6 +521,8 @@
 
 #### 435. Non-overlapping Intervals
 
+#### 438. Find All Anagrams in a String
+
 #### 494. Target Sum
 
 #### 518. Coin Change II
@@ -641,4 +643,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 314
+### Total finish 315
