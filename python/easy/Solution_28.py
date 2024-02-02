@@ -1,57 +1,40 @@
-# 28. Implement strStr()
+# 28. Find the Index of the First Occurrence in a String
+
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        haystack_len = len(haystack)
-        needle_len = len(needle)
-        pre_fix = self.get_pre_fix(needle, needle_len)
-        i, j = 0, 0
-        while i < haystack_len and j < needle_len:
-            if j == -1 or haystack[i] == needle[j]:
-                i += 1
-                j += 1
-            else:
-                j = pre_fix[j]
-        if j < needle_len:
-            return -1
-        else:
-            return i-needle_len
-
-    def get_pre_fix(self, needle, needle_len):
-        j = 0
-        i = 1
-        pre_fix = [0 for i in range(needle_len)]
-        while i < needle_len:
-            if needle[i] == needle[j]:
-                pre_fix[i] = pre_fix[i-1] + 1
-                j += 1
-            elif needle[i] == needle[i-1] and pre_fix[i-1] > 0:
-                pre_fix[i] = pre_fix[i-1]
-            else:
-                j = 0
-            i += 1
-        pre_fix.insert(0, -1)
-        return pre_fix
-
-    # Brute-force solution
-    def strStr_2(self, haystack: str, needle: str) -> int:
-        haystack_len = len(haystack)
-        needle_len = len(needle)
-        if needle_len == 0:
+        if len(needle) == 0:
             return 0
-        if haystack_len == 0:
-            return -1
-        first_alpha = needle[0]
-        for i in range(haystack_len):
-            if haystack[i] == first_alpha:
-                if haystack[i:i+needle_len] == needle:
-                    return i
+        lps = [0] * len(needle)
+        prev_lps, i = 0, 1
+        while i < len(needle):
+            if needle[i] == needle[prev_lps]:
+                lps[i] = prev_lps + 1
+                prev_lps += 1
+                i += 1
+            elif prev_lps == 0:
+                lps[i] = 0
+                i += 1
+            else:
+                prev_lps = lps[prev_lps - 1]
+        print(lps)
+
+        i = 0  # ptr for haystack
+        j = 0  # ptr for needle
+        while i < len(haystack):
+            if haystack[i] == needle[j]:
+                i, j = i + 1, j + 1
+            else:
+                if j == 0:
+                    i += 1
+                else:
+                    j = lps[j - 1]
+            if j == len(needle):
+                return i - len(needle)
         return -1
 
 
-haystack = 'abaacababcac'
-needle = 'ababcdef'
+haystack = 'abcabcabcabe'
+needle = 'abcabe'
 
-haystack = "aabaaabaaac"
-needle = "aabaaac"
 ans = Solution().strStr(haystack, needle)
 print(ans)
