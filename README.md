@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 155
+### Medium finish 156
 
 #### 2. Add Two Numbers
 
@@ -561,6 +561,8 @@
 
 #### 802. Find Eventual Safe States
 
+#### 838. Push Dominoes
+
 #### 846. Hand of Straights
 
 #### 853. Car Fleet
@@ -645,4 +647,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 316
+### Total finish 317
