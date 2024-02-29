@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 156
+### Medium finish 157
 
 #### 2. Add Two Numbers
 
@@ -448,6 +448,8 @@
 #### 153. Find Minimum in Rotated Sorted Array
 
 #### 179. Largest Number
+
+#### 187. Repeated DNA Sequences
 
 #### 189. Rotate Array
 
@@ -647,4 +649,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 317
+### Total finish 318
