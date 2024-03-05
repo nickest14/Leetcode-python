@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 157
+### Medium finish 158
 
 #### 2. Add Two Numbers
 
@@ -507,6 +507,8 @@
 
 #### 375. Guess Number Higher or Lower II
 
+#### 380. Insert Delete GetRandom O(1)
+
 #### 399. Evaluate Division
 
 #### 402. Remove K Digits
@@ -649,4 +651,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 318
+### Total finish 319
