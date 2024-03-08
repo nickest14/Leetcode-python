@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 158
+### Medium finish 159
 
 #### 2. Add Two Numbers
 
@@ -609,6 +609,8 @@
 
 #### 1409. Queries on a Permutation With Key
 
+#### 1461. Check If a String Contains All Binary Codes of Size K
+
 #### 1514. Path with Maximum Probability
 
 #### 1631. Path With Minimum Effort
@@ -651,4 +653,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 319
+### Total finish 320
