@@ -323,7 +323,7 @@
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 
-### Medium finish 159
+### Medium finish 160
 
 #### 2. Add Two Numbers
 
@@ -486,6 +486,8 @@
 #### 307. Range Sum Query - Mutable
 
 #### 300. Longest Increasing Subsequence
+
+#### 304. Range Sum Query 2D - Immutable
 
 #### 309. Best Time to Buy and Sell Stock with Cooldown
 
@@ -653,4 +655,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 320
+### Total finish 321
