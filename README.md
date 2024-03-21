@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 156
+### Easy finish 157
 
 #### 1. Two Sum
 
@@ -313,6 +313,8 @@
 #### 1876. Substrings of Size Three with Distinct Characters
 
 #### 1800. Maximum Ascending Subarray Sum
+
+#### 1822. Sign of the Product of an Array
 
 #### 1886. Determine Whether Matrix Can Be Obtained By Rotation
 
@@ -657,4 +659,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 322
+### Total finish 323
