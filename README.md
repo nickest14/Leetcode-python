@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 157
+### Easy finish 158
 
 #### 1. Two Sum
 
@@ -324,6 +324,7 @@
 
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
+#### 2215. Find the Difference of Two Arrays
 
 ### Medium finish 161
 
@@ -659,4 +660,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 323
+### Total finish 324
