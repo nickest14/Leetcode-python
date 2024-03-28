@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 161
+### Medium finish 162
 
 #### 2. Add Two Numbers
 
@@ -648,6 +648,8 @@
 
 #### 2348. Number of Zero-Filled Subarrays
 
+#### 2405. Optimal Partition of String
+
 #### 2492. Minimum Score of a Path Between Two Cities
 
 ### Hard finish 5
@@ -662,4 +664,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 325
+### Total finish 326
