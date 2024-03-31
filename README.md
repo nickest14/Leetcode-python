@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 162
+### Medium finish 163
 
 #### 2. Add Two Numbers
 
@@ -650,6 +650,8 @@
 
 #### 2405. Optimal Partition of String
 
+#### 2483. Minimum Penalty for a Shop
+
 #### 2492. Minimum Score of a Path Between Two Cities
 
 ### Hard finish 5
@@ -664,4 +666,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 326
+### Total finish 327
