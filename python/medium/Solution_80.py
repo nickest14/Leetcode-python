@@ -1,25 +1,21 @@
 # 80. Remove Duplicates from Sorted Array II
+
+from typing import List
+
+
 class Solution:
-    def removeDuplicates(self, nums) -> int:
-        if nums:
-            index = 0
-            value = nums[0]
-            temp_count = 1
-            for i in range(1, len(nums)):
-                if nums[i] == value:
-                    temp_count += 1
-                    if temp_count > 2:
-                        continue
-                    index += 1
-                    nums[index] = value
-                else:
-                    value = nums[i]
-                    index += 1
-                    nums[index] = value
-                    temp_count = 1
-            return index + 1
-        else:
-            return 0
+    def removeDuplicates(self, nums: List[int]) -> int:
+        l, r = 0, 0
+        while r < len(nums):
+            count = 1
+            while r + 1 < len(nums) and nums[r] == nums[r + 1]:
+                r += 1
+                count += 1
+            for _ in range(min(2, count)):
+                nums[l] = nums[r]
+                l += 1
+            r += 1
+        return l
 
 
 ans = Solution().removeDuplicates([2, 7, 7, 7, 7, 11, 15])
