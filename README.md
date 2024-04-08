@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 164
+### Medium finish 165
 
 #### 2. Add Two Numbers
 
@@ -636,6 +636,8 @@
 
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 
+#### 1968. Array With Elements Not Equal to Average of Neighbors
+
 #### 1985. Find the Kth Largest Integer in the Array
 
 #### 2001. Number of Pairs of Interchangeable Rectangles
@@ -668,4 +670,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 328
+### Total finish 329
