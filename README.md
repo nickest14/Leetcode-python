@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 166
+### Medium finish 167
 
 #### 2. Add Two Numbers
 
@@ -612,6 +612,8 @@
 
 #### 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 
+#### 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+
 #### 1376. Time Needed to Inform All Employees
 
 #### 1395. Count Number of Teams
@@ -672,4 +674,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 330
+### Total finish 331
