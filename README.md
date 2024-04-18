@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 167
+### Medium finish 168
 
 #### 2. Add Two Numbers
 
@@ -548,6 +548,8 @@
 
 #### 560. Subarray Sum Equals K
 
+#### 567. Permutation in String
+
 #### 617. Merge Two Binary Trees
 
 #### 647. Palindromic Substrings
@@ -674,4 +676,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 331
+### Total finish 332
