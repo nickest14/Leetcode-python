@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 168
+### Medium finish 169
 
 #### 2. Add Two Numbers
 
@@ -634,6 +634,8 @@
 
 #### 1722. Minimize Hamming Distance After Swap Operations
 
+#### 1838. Frequency of the Most Frequent Element
+
 #### 1899. Merge Triplets to Form Target Triplet
 
 #### 1911. Maximum Alternating Subsequence Sum
@@ -676,4 +678,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 332
+### Total finish 333
