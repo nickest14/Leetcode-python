@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 169
+### Medium finish 170
 
 #### 2. Add Two Numbers
 
@@ -590,6 +590,8 @@
 
 #### 901. Online Stock Span
 
+#### 904. Fruit Into Baskets
+
 #### 912. Sort an Array
 
 #### 909. Snakes and Ladders
@@ -678,4 +680,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 333
+### Total finish 334
