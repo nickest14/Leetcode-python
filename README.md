@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 171
+### Medium finish 172
 
 #### 2. Add Two Numbers
 
@@ -640,6 +640,8 @@
 
 #### 1838. Frequency of the Most Frequent Element
 
+#### 1888. Minimum Number of Flips to Make the Binary String Alternating
+
 #### 1899. Merge Triplets to Form Target Triplet
 
 #### 1911. Maximum Alternating Subsequence Sum
@@ -682,4 +684,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 335
+### Total finish 336
