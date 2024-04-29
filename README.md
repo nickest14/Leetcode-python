@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 172
+### Medium finish 173
 
 #### 2. Add Two Numbers
 
@@ -467,6 +467,8 @@
 #### 207. Course Schedule
 
 #### 208. Implement Trie (Prefix Tree)
+
+#### 209. Minimum Size Subarray Sum
 
 #### 210. Course Schedule II
 
@@ -684,4 +686,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 336
+### Total finish 337
