@@ -19,6 +19,7 @@ class MyStack:
     def empty(self) -> bool:
         return not self.queue
 
+
 obj = MyStack()
 obj.push(1)
 obj.push(2)
