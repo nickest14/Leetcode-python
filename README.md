@@ -328,7 +328,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 173
+### Medium finish 174
 
 #### 2. Add Two Numbers
 
@@ -638,6 +638,8 @@
 
 #### 1631. Path With Minimum Effort
 
+#### 1658. Minimum Operations to Reduce X to Zero
+
 #### 1722. Minimize Hamming Distance After Swap Operations
 
 #### 1838. Frequency of the Most Frequent Element
@@ -686,4 +688,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 337
+### Total finish 338
