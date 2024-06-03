@@ -326,7 +326,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 175
+### Medium finish 176
 
 #### 2. Add Two Numbers
 
@@ -568,6 +568,8 @@
 
 #### 698. Partition to K Equal Sum Subsets
 
+#### 739. Daily Temperatures
+
 #### 743. Network Delay Time
 
 #### 763. Partition Labels
@@ -688,4 +690,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 338
+### Total finish 339
