@@ -1,21 +1,24 @@
 # 78. Subsets
 
+from typing import List
+
 
 class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        ans = []
 
-    def subsets(self, nums):
-
-        def dfs(n, s, cur):
+        def dfs(n: int, s: int, cur: list):
             if len(cur) == n:
                 ans.append(cur[:])
                 return
-            for i in range(s, len(nums)):
-                cur.append(nums[i])
-                dfs(n, i+1, cur)
-                cur.pop()
-        ans = []
-        for i in range(len(nums)+1):
-            dfs(i, 0, [])
+            else:
+                for i in range(s, len(nums)):
+                    cur.append(nums[i])
+                    dfs(n, i + 1, cur)
+                    cur.pop()
+
+        for n in range(len(nums) + 1):
+            dfs(n, 0, [])
         return ans
 
 
