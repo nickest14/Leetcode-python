@@ -326,7 +326,7 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 176
+### Medium finish 177
 
 #### 2. Add Two Numbers
 
@@ -614,6 +614,8 @@
 
 #### 1162. As Far from Land as Possible
 
+#### 1208. Get Equal Substrings Within Budget
+
 #### 1239. Maximum Length of a Concatenated String with Unique Characters
 
 #### 1319. Number of Operations to Make Network Connected
@@ -690,4 +692,4 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 339
+### Total finish 340
