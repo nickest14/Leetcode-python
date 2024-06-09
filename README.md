@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 158
+### Easy finish 159
 
 #### 1. Two Sum
 
@@ -326,7 +326,9 @@
 
 #### 2215. Find the Difference of Two Arrays
 
-### Medium finish 177
+#### 3168. Minimum Number of Chairs in a Waiting Room
+
+### Medium finish 179
 
 #### 2. Add Two Numbers
 
@@ -680,7 +682,11 @@
 
 #### 2492. Minimum Score of a Path Between Two Cities
 
-### Hard finish 5
+#### 3169. Count Days Without Meetings
+
+#### 3170. Lexicographically Minimum String After Removing Stars
+
+### Hard finish 6
 
 #### 23. Merge k Sorted Lists
 
@@ -692,4 +698,6 @@
 
 #### 145. Binary Tree Postorder Traversal
 
-### Total finish 340
+#### 3171. Find Subarray With Bitwise OR Closest to K
+
+### Total finish 344
