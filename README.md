@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 159
+### Easy finish 160
 
 #### 1. Two Sum
 
@@ -267,6 +267,8 @@
 #### 1051. Height Checker
 
 #### 1089. Duplicate Zeros
+
+#### 1122. Relative Sort Array
 
 #### 1189. Maximum Number of Balloons
 
@@ -700,4 +702,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 344
+### Total finish 345
