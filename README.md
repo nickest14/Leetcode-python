@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 160
+### Easy finish 161
 
 #### 1. Two Sum
 
@@ -325,6 +325,8 @@
 #### 1929. Concatenation of Array
 
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
+
+#### 2037. Minimum Number of Moves to Seat Everyone
 
 #### 2215. Find the Difference of Two Arrays
 
@@ -702,4 +704,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 345
+### Total finish 346
