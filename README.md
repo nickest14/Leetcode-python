@@ -332,7 +332,7 @@
 
 #### 3168. Minimum Number of Chairs in a Waiting Room
 
-### Medium finish 179
+### Medium finish 180
 
 #### 2. Add Two Numbers
 
@@ -608,6 +608,8 @@
 
 #### 934. Shortest Bridge
 
+#### 945. Minimum Increment to Make Array Unique
+
 #### 951. Flip Equivalent Binary Trees
 
 #### 973. K Closest Points to Origin
@@ -690,7 +692,7 @@
 
 #### 3170. Lexicographically Minimum String After Removing Stars
 
-### Hard finish 6
+### Hard finish 7
 
 #### 23. Merge k Sorted Lists
 
@@ -702,6 +704,8 @@
 
 #### 145. Binary Tree Postorder Traversal
 
+#### 502. IPO
+
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 346
+### Total finish 348

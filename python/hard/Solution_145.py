@@ -7,11 +7,12 @@ class TreeNode:
         self.left = None
         self.right = None
 
+
 class Solution:
     def __init__(self):
         self.ans = []
 
-    def traversal(self, root): 
+    def traversal(self, root):
         if root.left:
             self.traversal(root.left)
         if root.right:
