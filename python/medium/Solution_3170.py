@@ -10,7 +10,7 @@ class Solution:
             if c == '*':
                 heappop(heap)
             else:
-                heappush(heap,(c, -i))
+                heappush(heap, (c, -i))
 
         ans = [''] * len(s)
         while heap:

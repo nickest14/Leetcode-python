@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 161
+### Easy finish 162
 
 #### 1. Two Sum
 
@@ -332,7 +332,10 @@
 
 #### 3168. Minimum Number of Chairs in a Waiting Room
 
-### Medium finish 180
+#### 3184. Count Pairs That Form a Complete Day I
+
+
+### Medium finish 182
 
 #### 2. Add Two Numbers
 
@@ -692,7 +695,12 @@
 
 #### 3170. Lexicographically Minimum String After Removing Stars
 
-### Hard finish 7
+#### 3185. Count Pairs That Form a Complete Day II
+
+#### 3186. Maximum Total Damage With Spell Casting
+
+
+### Hard finish 8
 
 #### 23. Merge k Sorted Lists
 
@@ -704,8 +712,10 @@
 
 #### 145. Binary Tree Postorder Traversal
 
+#### 330. Patching Array
+
 #### 502. IPO
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 348
+### Total finish 352
