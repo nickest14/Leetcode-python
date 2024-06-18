@@ -335,7 +335,7 @@
 #### 3184. Count Pairs That Form a Complete Day I
 
 
-### Medium finish 182
+### Medium finish 184
 
 #### 2. Add Two Numbers
 
@@ -563,6 +563,8 @@
 
 #### 617. Merge Two Binary Trees
 
+#### 633. Sum of Square Numbers
+
 #### 647. Palindromic Substrings
 
 #### 648. Replace Words
@@ -588,6 +590,8 @@
 #### 787. Cheapest Flights Within K Stops
 
 #### 802. Find Eventual Safe States
+
+#### 826. Most Profit Assigning Work
 
 #### 838. Push Dominoes
 
@@ -718,4 +722,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 352
+### Total finish 354
