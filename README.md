@@ -335,7 +335,7 @@
 #### 3184. Count Pairs That Form a Complete Day I
 
 
-### Medium finish 184
+### Medium finish 186
 
 #### 2. Add Two Numbers
 
@@ -651,9 +651,13 @@
 
 #### 1461. Check If a String Contains All Binary Codes of Size K
 
+#### 1482. Minimum Number of Days to Make m Bouquets
+
 #### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 
 #### 1514. Path with Maximum Probability
+
+#### 1552. Magnetic Force Between Two Balls
 
 #### 1631. Path With Minimum Effort
 
@@ -722,4 +726,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 354
+### Total finish 356
