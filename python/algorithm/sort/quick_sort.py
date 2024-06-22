@@ -35,6 +35,7 @@ def quick_sort(nums: List, low: int, high: int) -> List:
 #             right.append(nums[i])
 #     return quick_sort(left) + [pivot] + quick_sort(right)
 
+
 nums = [1, 5, 10, 2, 20, 3, 8]
 ans = quick_sort(nums, 0, len(nums) - 1)
 print(ans)

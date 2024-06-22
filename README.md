@@ -335,7 +335,7 @@
 #### 3184. Count Pairs That Form a Complete Day I
 
 
-### Medium finish 186
+### Medium finish 188
 
 #### 2. Add Two Numbers
 
@@ -623,6 +623,8 @@
 
 #### 1041. Robot Bounded In Circle
 
+#### 1052. Grumpy Bookstore Owner
+
 #### 1091. Shortest Path in Binary Matrix
 
 #### 1143. Longest Common Subsequence
@@ -632,6 +634,8 @@
 #### 1208. Get Equal Substrings Within Budget
 
 #### 1239. Maximum Length of a Concatenated String with Unique Characters
+
+#### 1248. Count Number of Nice Subarrays
 
 #### 1319. Number of Operations to Make Network Connected
 
@@ -726,4 +730,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 356
+### Total finish 358
