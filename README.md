@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 162
+### Easy finish 163
 
 #### 1. Two Sum
 
@@ -334,8 +334,10 @@
 
 #### 3184. Count Pairs That Form a Complete Day I
 
+#### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
-### Medium finish 188
+
+### Medium finish 191
 
 #### 2. Add Two Numbers
 
@@ -651,6 +653,8 @@
 
 #### 1409. Queries on a Permutation With Key
 
+#### 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+
 #### 1456. Maximum Number of Vowels in a Substring of Given Length
 
 #### 1461. Check If a String Contains All Binary Codes of Size K
@@ -711,6 +715,10 @@
 
 #### 3186. Maximum Total Damage With Spell Casting
 
+#### 3191. Minimum Operations to Make Binary Array Elements Equal to One I
+
+#### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
+
 
 ### Hard finish 8
 
@@ -730,4 +738,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 358
+### Total finish 362
