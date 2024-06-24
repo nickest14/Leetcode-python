@@ -720,7 +720,7 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 
-### Hard finish 8
+### Hard finish 9
 
 #### 23. Merge k Sorted Lists
 
@@ -736,6 +736,8 @@
 
 #### 502. IPO
 
+#### 995. Minimum Number of K Consecutive Bit Flips
+
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 362
+### Total finish 363
