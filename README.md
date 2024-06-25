@@ -337,7 +337,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 191
+### Medium finish 192
 
 #### 2. Add Two Numbers
 
@@ -623,6 +623,8 @@
 
 #### 973. K Closest Points to Origin
 
+#### 1038. Binary Search Tree to Greater Sum Tree
+
 #### 1041. Robot Bounded In Circle
 
 #### 1052. Grumpy Bookstore Owner
@@ -740,4 +742,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 363
+### Total finish 364
