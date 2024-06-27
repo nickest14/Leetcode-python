@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 163
+### Easy finish 164
 
 #### 1. Two Sum
 
@@ -304,6 +304,8 @@
 
 #### 1785. Minimum Elements to Add to Form a Given Sum
 
+#### 1791. Find Center of Star Graph
+
 #### 1827. Minimum Operations to Make the Array Increasing
 
 #### 1837. Sum of Digits in Base K
@@ -337,7 +339,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 192
+### Medium finish 193
 
 #### 2. Add Two Numbers
 
@@ -649,6 +651,8 @@
 
 #### 1376. Time Needed to Inform All Employees
 
+#### 1382. Balance a Binary Search Tree
+
 #### 1395. Count Number of Teams
 
 #### 1396. Design Underground System
@@ -742,4 +746,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 364
+### Total finish 366
