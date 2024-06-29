@@ -339,7 +339,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 193
+### Medium finish 195
 
 #### 2. Add Two Numbers
 
@@ -705,6 +705,10 @@
 
 #### 2130. Maximum Twin Sum of a Linked List
 
+#### 2192. All Ancestors of a Node in a Directed Acyclic Graph
+
+#### 2285. Maximum Total Importance of Roads
+
 #### 2348. Number of Zero-Filled Subarrays
 
 #### 2405. Optimal Partition of String
@@ -746,4 +750,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 366
+### Total finish 368
