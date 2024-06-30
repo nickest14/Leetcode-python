@@ -730,7 +730,7 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 
-### Hard finish 9
+### Hard finish 10
 
 #### 23. Merge k Sorted Lists
 
@@ -748,6 +748,8 @@
 
 #### 995. Minimum Number of K Consecutive Bit Flips
 
+#### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 368
+### Total finish 369

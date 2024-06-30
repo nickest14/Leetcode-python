@@ -2,8 +2,6 @@
 
 from typing import List
 
-import collections
-
 
 class Solution:
     # dsu
