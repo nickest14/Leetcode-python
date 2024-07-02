@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 164
+### Easy finish 165
 
 #### 1. Two Sum
 
@@ -290,6 +290,8 @@
 
 #### 1539. Kth Missing Positive Number
 
+#### 1550. Three Consecutive Odds
+
 #### 1603. Design Parking System
 
 #### 1608. Special Array With X Elements Greater Than or Equal X
@@ -339,7 +341,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 195
+### Medium finish 196
 
 #### 2. Add Two Numbers
 
@@ -625,6 +627,8 @@
 
 #### 973. K Closest Points to Origin
 
+#### 974. Subarray Sums Divisible by K
+
 #### 1038. Binary Search Tree to Greater Sum Tree
 
 #### 1041. Robot Bounded In Circle
@@ -752,4 +756,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 369
+### Total finish 371

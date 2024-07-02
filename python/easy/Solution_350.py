@@ -33,5 +33,3 @@ nums1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 nums2 = [1, 2, 8, 7, 6]
 ans = Solution().intersect(nums1, nums2)
 print(ans)
-
-for k, v in (counter1 & counter2).items()
