@@ -341,7 +341,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 196
+### Medium finish 198
 
 #### 2. Add Two Numbers
 
@@ -673,6 +673,8 @@
 
 #### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 
+#### 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
+
 #### 1514. Path with Maximum Probability
 
 #### 1552. Magnetic Force Between Two Balls
@@ -708,6 +710,8 @@
 #### 2017. Grid Game
 
 #### 2130. Maximum Twin Sum of a Linked List
+
+#### 2181. Merge Nodes in Between Zeros
 
 #### 2192. All Ancestors of a Node in a Directed Acyclic Graph
 
@@ -756,4 +760,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 371
+### Total finish 373
