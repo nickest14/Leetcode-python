@@ -341,7 +341,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 198
+### Medium finish 199
 
 #### 2. Add Two Numbers
 
@@ -709,6 +709,8 @@
 
 #### 2017. Grid Game
 
+#### 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
+
 #### 2130. Maximum Twin Sum of a Linked List
 
 #### 2181. Merge Nodes in Between Zeros
@@ -760,4 +762,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 373
+### Total finish 374
