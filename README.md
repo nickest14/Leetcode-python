@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 165
+### Easy finish 167
 
 #### 1. Two Sum
 
@@ -288,6 +288,8 @@
 
 #### 1422. Maximum Score After Splitting a String
 
+#### 1518. Water Bottles
+
 #### 1539. Kth Missing Positive Number
 
 #### 1550. Three Consecutive Odds
@@ -333,6 +335,8 @@
 #### 2037. Minimum Number of Moves to Seat Everyone
 
 #### 2215. Find the Difference of Two Arrays
+
+#### 2582. Pass the Pillow
 
 #### 3168. Minimum Number of Chairs in a Waiting Room
 
@@ -762,4 +766,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 374
+### Total finish 376
+
