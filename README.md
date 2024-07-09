@@ -345,7 +345,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 199
+### Medium finish 201
 
 #### 2. Add Two Numbers
 
@@ -687,7 +687,11 @@
 
 #### 1658. Minimum Operations to Reduce X to Zero
 
+#### 1701. Average Waiting Time
+
 #### 1722. Minimize Hamming Distance After Swap Operations
+
+#### 1823. Find the Winner of the Circular Game
 
 #### 1838. Frequency of the Most Frequent Element
 
@@ -766,5 +770,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 376
+### Total finish 378
 
