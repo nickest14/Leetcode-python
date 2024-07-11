@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 167
+### Easy finish 168
 
 #### 1. Two Sum
 
@@ -294,6 +294,8 @@
 
 #### 1550. Three Consecutive Odds
 
+#### 1598. Crawler Log Folder
+
 #### 1603. Design Parking System
 
 #### 1608. Special Array With X Elements Greater Than or Equal X
@@ -345,7 +347,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 201
+### Medium finish 202
 
 #### 2. Add Two Numbers
 
@@ -645,6 +647,8 @@
 
 #### 1162. As Far from Land as Possible
 
+#### 1190. Reverse Substrings Between Each Pair of Parentheses
+
 #### 1208. Get Equal Substrings Within Budget
 
 #### 1239. Maximum Length of a Concatenated String with Unique Characters
@@ -770,5 +774,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 378
+### Total finish 380
 
