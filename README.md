@@ -347,7 +347,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 202
+### Medium finish 203
 
 #### 2. Add Two Numbers
 
@@ -693,6 +693,8 @@
 
 #### 1701. Average Waiting Time
 
+#### 1717. Maximum Score From Removing Substrings
+
 #### 1722. Minimize Hamming Distance After Swap Operations
 
 #### 1823. Find the Winner of the Circular Game
@@ -752,7 +754,7 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 
-### Hard finish 10
+### Hard finish 12
 
 #### 23. Merge k Sorted Lists
 
@@ -768,11 +770,15 @@
 
 #### 502. IPO
 
+#### 726. Number of Atoms
+
 #### 995. Minimum Number of K Consecutive Bit Flips
 
 #### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 
+#### 2751. Robot Collisions
+
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 380
+### Total finish 383
 
