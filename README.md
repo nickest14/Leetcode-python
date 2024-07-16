@@ -347,7 +347,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 203
+### Medium finish 205
 
 #### 2. Add Two Numbers
 
@@ -725,11 +725,15 @@
 
 #### 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
 
+#### 2096. Step-By-Step Directions From a Binary Tree Node to Another
+
 #### 2130. Maximum Twin Sum of a Linked List
 
 #### 2181. Merge Nodes in Between Zeros
 
 #### 2192. All Ancestors of a Node in a Directed Acyclic Graph
+
+#### 2196. Create Binary Tree From Descriptions
 
 #### 2285. Maximum Total Importance of Roads
 
@@ -780,5 +784,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 383
+### Total finish 385
 
