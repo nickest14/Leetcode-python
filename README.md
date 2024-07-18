@@ -347,7 +347,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 205
+### Medium finish 207
 
 #### 2. Add Two Numbers
 
@@ -643,6 +643,8 @@
 
 #### 1091. Shortest Path in Binary Matrix
 
+#### 1110. Delete Nodes And Return Forest
+
 #### 1143. Longest Common Subsequence
 
 #### 1162. As Far from Land as Possible
@@ -684,6 +686,8 @@
 #### 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
 
 #### 1514. Path with Maximum Probability
+
+#### 1530. Number of Good Leaf Nodes Pairs
 
 #### 1552. Magnetic Force Between Two Balls
 
@@ -784,5 +788,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 385
+### Total finish 387
 
