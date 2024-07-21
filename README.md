@@ -347,7 +347,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 207
+### Medium finish 208
 
 #### 2. Add Two Numbers
 
@@ -691,6 +691,8 @@
 
 #### 1552. Magnetic Force Between Two Balls
 
+#### 1605. Find Valid Matrix Given Row and Column Sums
+
 #### 1631. Path With Minimum Effort
 
 #### 1658. Minimum Operations to Reduce X to Zero
@@ -762,7 +764,7 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 
-### Hard finish 12
+### Hard finish 13
 
 #### 23. Merge k Sorted Lists
 
@@ -784,9 +786,11 @@
 
 #### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 
+#### 2392. Build a Matrix With Conditions
+
 #### 2751. Robot Collisions
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 387
+### Total finish 389
 
