@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 168
+### Easy finish 170
 
 #### 1. Two Sum
 
@@ -300,6 +300,8 @@
 
 #### 1608. Special Array With X Elements Greater Than or Equal X
 
+#### 1636. Sort Array by Increasing Frequency
+
 #### 1688. Count of Matches in Tournament
 
 #### 1710. Maximum Units on a Truck
@@ -337,6 +339,8 @@
 #### 2037. Minimum Number of Moves to Seat Everyone
 
 #### 2215. Find the Difference of Two Arrays
+
+#### 2418. Sort the People
 
 #### 2582. Pass the Pillow
 
@@ -792,5 +796,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 389
+### Total finish 391
 
