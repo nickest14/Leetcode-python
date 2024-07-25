@@ -44,7 +44,7 @@ class Solution2:
         if left < right:
             pi = self.partitoin(nums, left, right)
             self.quick_sort(nums, left, pi - 1)
-            self.quick_sort(nums, pi, right)
+            self.quick_sort(nums, pi + 1, right)
 
     def sortArray(self, nums: List[int]) -> List[int]:
         self.quick_sort(nums, 0, len(nums) - 1)
