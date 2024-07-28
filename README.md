@@ -770,7 +770,7 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 
-### Hard finish 13
+### Hard finish 14
 
 #### 23. Merge k Sorted Lists
 
@@ -792,11 +792,13 @@
 
 #### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 
+#### 2045. Second Minimum Time to Reach Destination
+
 #### 2392. Build a Matrix With Conditions
 
 #### 2751. Robot Collisions
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 392
+### Total finish 393
 
