@@ -351,7 +351,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 209
+### Medium finish 210
 
 #### 2. Add Two Numbers
 
@@ -699,6 +699,8 @@
 
 #### 1631. Path With Minimum Effort
 
+#### 1653. Minimum Deletions to Make String Balanced
+
 #### 1658. Minimum Operations to Reduce X to Zero
 
 #### 1701. Average Waiting Time
@@ -800,5 +802,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 393
+### Total finish 394
 
