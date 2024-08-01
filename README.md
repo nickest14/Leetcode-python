@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 170
+### Easy finish 171
 
 #### 1. Two Sum
 
@@ -344,6 +344,8 @@
 
 #### 2582. Pass the Pillow
 
+#### 2678. Number of Senior Citizens
+
 #### 3168. Minimum Number of Chairs in a Waiting Room
 
 #### 3184. Count Pairs That Form a Complete Day I
@@ -351,7 +353,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 210
+### Medium finish 211
 
 #### 2. Add Two Numbers
 
@@ -647,6 +649,8 @@
 
 #### 1091. Shortest Path in Binary Matrix
 
+#### 1105. Filling Bookcase Shelves
+
 #### 1110. Delete Nodes And Return Forest
 
 #### 1143. Longest Common Subsequence
@@ -802,5 +806,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 394
+### Total finish 396
 
