@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 171
+### Easy finish 172
 
 #### 1. Two Sum
 
@@ -288,6 +288,8 @@
 
 #### 1422. Maximum Score After Splitting a String
 
+#### 1460. Make Two Arrays Equal by Reversing Subarrays
+
 #### 1518. Water Bottles
 
 #### 1539. Kth Missing Positive Number
@@ -353,7 +355,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 211
+### Medium finish 212
 
 #### 2. Add Two Numbers
 
@@ -745,6 +747,8 @@
 
 #### 2130. Maximum Twin Sum of a Linked List
 
+#### 2134. Minimum Swaps to Group All 1's Together II
+
 #### 2181. Merge Nodes in Between Zeros
 
 #### 2191. Sort the Jumbled Numbers
@@ -806,5 +810,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 396
+### Total finish 398
 
