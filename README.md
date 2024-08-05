@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 172
+### Easy finish 173
 
 #### 1. Two Sum
 
@@ -340,6 +340,8 @@
 
 #### 2037. Minimum Number of Moves to Seat Everyone
 
+#### 2053. Kth Distinct String in an Array
+
 #### 2215. Find the Difference of Two Arrays
 
 #### 2418. Sort the People
@@ -355,7 +357,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 213
+### Medium finish 214
 
 #### 2. Add Two Numbers
 
@@ -769,6 +771,8 @@
 
 #### 2492. Minimum Score of a Path Between Two Cities
 
+#### 3016. Minimum Number of Pushes to Type Word II
+
 #### 3169. Count Days Without Meetings
 
 #### 3170. Lexicographically Minimum String After Removing Stars
@@ -812,5 +816,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 399
+### Total finish 401
 
