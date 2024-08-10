@@ -357,7 +357,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 214
+### Medium finish 215
 
 #### 2. Add Two Numbers
 
@@ -641,6 +641,8 @@
 
 #### 951. Flip Equivalent Binary Trees
 
+#### 959. Regions Cut By Slashes
+
 #### 973. K Closest Points to Origin
 
 #### 974. Subarray Sums Divisible by K
@@ -816,5 +818,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 401
+### Total finish 402
 
