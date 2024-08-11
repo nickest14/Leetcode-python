@@ -788,7 +788,7 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 
-### Hard finish 14
+### Hard finish 15
 
 #### 23. Merge k Sorted Lists
 
@@ -808,6 +808,8 @@
 
 #### 995. Minimum Number of K Consecutive Bit Flips
 
+#### 1568. Minimum Number of Days to Disconnect Island
+
 #### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 
 #### 2045. Second Minimum Time to Reach Destination
@@ -818,5 +820,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 402
+### Total finish 403
 
