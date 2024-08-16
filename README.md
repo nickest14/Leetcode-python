@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 173
+### Easy finish 174
 
 #### 1. Two Sum
 
@@ -244,6 +244,8 @@
 
 #### 844. Backspace String Compare
 
+#### 860. Lemonade Change
+
 #### 876. Middle of the Linked List
 
 #### 897. Increasing Order Search Tree
@@ -357,7 +359,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 216
+### Medium finish 217
 
 #### 2. Add Two Numbers
 
@@ -586,6 +588,8 @@
 #### 567. Permutation in String
 
 #### 617. Merge Two Binary Trees
+
+#### 624. Maximum Distance in Arrays
 
 #### 633. Sum of Square Numbers
 
@@ -824,5 +828,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 405
+### Total finish 407
 
