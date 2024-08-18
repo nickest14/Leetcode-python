@@ -359,7 +359,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 217
+### Medium finish 219
 
 #### 2. Add Two Numbers
 
@@ -518,6 +518,8 @@
 #### 238. Product of Array Except Self
 
 #### 251. Flatten 2D Vector
+
+#### 264. Ugly Number II
 
 #### 274. H-Index
 
@@ -739,6 +741,8 @@
 
 #### 1930. Unique Length-3 Palindromic Subsequences
 
+#### 1937. Maximum Number of Points with Cost
+
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 
 #### 1968. Array With Elements Not Equal to Average of Neighbors
@@ -828,5 +832,5 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 407
+### Total finish 409
 
