@@ -359,7 +359,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 219
+### Medium finish 221
 
 #### 2. Add Two Numbers
 
@@ -599,6 +599,8 @@
 
 #### 648. Replace Words
 
+#### 650. 2 Keys Keyboard
+
 #### 658. Find K Closest Elements
 
 #### 665. Non-decreasing Array
@@ -666,6 +668,8 @@
 #### 1105. Filling Bookcase Shelves
 
 #### 1110. Delete Nodes And Return Forest
+
+#### 1140. Stone Game II
 
 #### 1143. Longest Common Subsequence
 
@@ -798,7 +802,7 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 
-### Hard finish 16
+### Hard finish 17
 
 #### 23. Merge k Sorted Lists
 
@@ -813,6 +817,8 @@
 #### 330. Patching Array
 
 #### 502. IPO
+
+#### 664. Strange Printer
 
 #### 719. Find K-th Smallest Pair Distance
 
@@ -832,5 +838,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 409
-
+### Total finish 412
