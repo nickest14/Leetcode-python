@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 174
+### Easy finish 175
 
 #### 1. Two Sum
 
@@ -167,6 +167,8 @@
 #### 448. Find All Numbers Disappeared in an Array
 
 #### 459. Repeated Substring Pattern
+
+#### 476. Number Complement
 
 #### 485. Max Consecutive Ones
 
@@ -359,7 +361,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 221
+### Medium finish 222
 
 #### 2. Add Two Numbers
 
@@ -588,6 +590,8 @@
 #### 560. Subarray Sum Equals K
 
 #### 567. Permutation in String
+
+#### 592. Fraction Addition and Subtraction
 
 #### 617. Merge Two Binary Trees
 
@@ -838,4 +842,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 412
+### Total finish 414
