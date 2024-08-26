@@ -12,6 +12,22 @@ class TreeNode:
 
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
+            return None
+        ans: list[int] = []
+
+        bag: list[TreeNode] = [root]
+        while bag:
+            node = bag.pop()
+            ans.append(node.val)
+            if node.left:
+                bag.append(node.left)
+            if node.right:
+                bag.append(node.right)
+
+        return ans[::-1]
+
+    def postorderTraversal2(self, root: Optional[TreeNode]) -> List[int]:
         stack, result = [], []
         while stack or root:
             while root:

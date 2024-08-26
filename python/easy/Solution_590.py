@@ -1,4 +1,4 @@
-# 589. N-ary Tree Preorder Traversal
+# 590. N-ary Tree Postorder Traversal
 
 from typing import List
 
@@ -6,13 +6,14 @@ from typing import List
 # Definition for a Node.
 class Node:
     def __init__(self, val=None, children=None):
-        self.val = val
-        self.children = children
+        self.val: int = val
+        self.children: list[Node] = children
 
 
 class Solution:
     def postorder(self, root: 'Node') -> List[int]:
-        stack, ans = [root], []
+        stack: list[Node] = [root]
+        ans: list[int] = []
         while stack:
             node = stack.pop()
             if not node:

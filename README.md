@@ -806,7 +806,7 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 
-### Hard finish 17
+### Hard finish 18
 
 #### 23. Merge k Sorted Lists
 
@@ -821,6 +821,8 @@
 #### 330. Patching Array
 
 #### 502. IPO
+
+#### 564. Find the Closest Palindrome
 
 #### 664. Strange Printer
 
@@ -842,4 +844,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 414
+### Total finish 415
