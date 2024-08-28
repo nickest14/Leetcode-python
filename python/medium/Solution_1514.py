@@ -33,14 +33,3 @@ start = 0
 end = 2
 ans = Solution().maxProbability(n, edges, succProb, start, end)
 print(ans)
-
-
-# lookup = {sum(d > distanceThreshold for d in row): i for i, row in enumerate(matrix)}
-
-# lookup = {}
-# for i, row in enumerate(matrix):
-#     count = 0
-#     for d in row:
-#         if d > distanceThreshold:
-#             count += 1
-#     lookup[count] = i
