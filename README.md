@@ -361,7 +361,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 223
+### Medium finish 224
 
 #### 2. Add Two Numbers
 
@@ -653,6 +653,8 @@
 
 #### 945. Minimum Increment to Make Array Unique
 
+#### 947. Most Stones Removed with Same Row or Column
+
 #### 951. Flip Equivalent Binary Trees
 
 #### 959. Regions Cut By Slashes
@@ -808,7 +810,7 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 
-### Hard finish 18
+### Hard finish 19
 
 #### 23. Merge k Sorted Lists
 
@@ -842,8 +844,10 @@
 
 #### 2392. Build a Matrix With Conditions
 
+#### 2699. Modify Graph Edge Weights
+
 #### 2751. Robot Collisions
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 416
+### Total finish 418
