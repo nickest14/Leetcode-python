@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 176
+### Easy finish 177
 
 #### 1. Two Sum
 
@@ -340,6 +340,8 @@
 
 #### 1929. Concatenation of Array
 
+#### 1945. Sum of Digits of String After Convert
+
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 #### 2022. Convert 1D Array Into 2D Array
@@ -363,7 +365,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 224
+### Medium finish 225
 
 #### 2. Add Two Numbers
 
@@ -747,6 +749,8 @@
 
 #### 1888. Minimum Number of Flips to Make the Binary String Alternating
 
+#### 1894. Find the Student that Will Replace the Chalk
+
 #### 1899. Merge Triplets to Form Target Triplet
 
 #### 1905. Count Sub Islands
@@ -852,4 +856,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 419
+### Total finish 421
