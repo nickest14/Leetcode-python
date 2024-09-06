@@ -365,7 +365,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 225
+### Medium finish 228
 
 #### 2. Add Two Numbers
 
@@ -641,6 +641,8 @@
 
 #### 858. Mirror Reflection
 
+#### 874. Walking Robot Simulation
+
 #### 881. Boats to Save People
 
 #### 886. Possible Bipartition
@@ -775,6 +777,8 @@
 
 #### 2017. Grid Game
 
+#### 2028. Find Missing Observations
+
 #### 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
 
 #### 2096. Step-By-Step Directions From a Binary Tree Node to Another
@@ -815,6 +819,7 @@
 
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
+#### 3217. Delete Nodes From Linked List Present in Array
 
 ### Hard finish 19
 
@@ -856,4 +861,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 421
+### Total finish 424
