@@ -365,7 +365,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 228
+### Medium finish 229
 
 #### 2. Add Two Numbers
 
@@ -701,6 +701,8 @@
 
 #### 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 
+#### 1367. Linked List in Binary Tree
+
 #### 1376. Time Needed to Inform All Employees
 
 #### 1382. Balance a Binary Search Tree
@@ -861,4 +863,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 424
+### Total finish 425
