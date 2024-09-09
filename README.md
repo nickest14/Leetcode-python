@@ -365,7 +365,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 229
+### Medium finish 231
 
 #### 2. Add Two Numbers
 
@@ -619,6 +619,8 @@
 
 #### 698. Partition to K Equal Sum Subsets
 
+#### 725. Split Linked List in Parts
+
 #### 739. Daily Temperatures
 
 #### 743. Network Delay Time
@@ -799,6 +801,8 @@
 
 #### 2285. Maximum Total Importance of Roads
 
+#### 2326. Spiral Matrix IV
+
 #### 2348. Number of Zero-Filled Subarrays
 
 #### 2405. Optimal Partition of String
@@ -863,4 +867,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 425
+### Total finish 427
