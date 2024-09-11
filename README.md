@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 177
+### Easy finish 178
 
 #### 1. Two Sum
 
@@ -352,6 +352,8 @@
 
 #### 2215. Find the Difference of Two Arrays
 
+#### 2220. Minimum Bit Flips to Convert Number
+
 #### 2418. Sort the People
 
 #### 2582. Pass the Pillow
@@ -365,7 +367,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 231
+### Medium finish 232
 
 #### 2. Add Two Numbers
 
@@ -807,6 +809,8 @@
 
 #### 2405. Optimal Partition of String
 
+#### 2807. Insert Greatest Common Divisors in Linked List
+
 #### 2483. Minimum Penalty for a Shop
 
 #### 2492. Minimum Score of a Path Between Two Cities
@@ -867,4 +871,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 427
+### Total finish 429
