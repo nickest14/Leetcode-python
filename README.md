@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 178
+### Easy finish 179
 
 #### 1. Two Sum
 
@@ -308,6 +308,8 @@
 
 #### 1636. Sort Array by Increasing Frequency
 
+#### 1684. Count the Number of Consistent Strings
+
 #### 1688. Count of Matches in Tournament
 
 #### 1710. Maximum Units on a Truck
@@ -367,7 +369,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 232
+### Medium finish 233
 
 #### 2. Add Two Numbers
 
@@ -699,6 +701,8 @@
 
 #### 1248. Count Number of Nice Subarrays
 
+#### 1310. XOR Queries of a Subarray
+
 #### 1319. Number of Operations to Make Network Connected
 
 #### 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
@@ -871,4 +875,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 429
+### Total finish 431
