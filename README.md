@@ -369,7 +369,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 233
+### Medium finish 234
 
 #### 2. Add Two Numbers
 
@@ -813,6 +813,8 @@
 
 #### 2405. Optimal Partition of String
 
+#### 2419. Longest Subarray With Maximum Bitwise AND
+
 #### 2807. Insert Greatest Common Divisors in Linked List
 
 #### 2483. Minimum Penalty for a Shop
@@ -875,4 +877,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 431
+### Total finish 432
