@@ -369,7 +369,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 234
+### Medium finish 236
 
 #### 2. Add Two Numbers
 
@@ -591,6 +591,8 @@
 
 #### 535. Encode and Decode TinyURL
 
+#### 539. Minimum Time Difference
+
 #### 547. Number of Provinces
 
 #### 554. Brick Wall
@@ -710,6 +712,8 @@
 #### 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 
 #### 1367. Linked List in Binary Tree
+
+#### 1371. Find the Longest Substring Containing Vowels in Even Counts
 
 #### 1376. Time Needed to Inform All Employees
 
@@ -877,4 +881,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 432
+### Total finish 434
