@@ -371,7 +371,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 236
+### Medium finish 237
 
 #### 2. Add Two Numbers
 
@@ -528,6 +528,8 @@
 #### 230. Kth Smallest Element in a BST
 
 #### 238. Product of Array Except Self
+
+#### 241. Different Ways to Add Parentheses
 
 #### 251. Flatten 2D Vector
 
@@ -843,7 +845,7 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 19
+### Hard finish 20
 
 #### 23. Merge k Sorted Lists
 
@@ -854,6 +856,8 @@
 #### 126. Word Ladder II
 
 #### 145. Binary Tree Postorder Traversal
+
+#### 214. Shortest Palindrome
 
 #### 330. Patching Array
 
@@ -883,4 +887,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 435
+### Total finish 437
