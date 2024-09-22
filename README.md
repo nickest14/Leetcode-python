@@ -371,7 +371,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 237
+### Medium finish 238
 
 #### 2. Add Two Numbers
 
@@ -568,6 +568,8 @@
 #### 375. Guess Number Higher or Lower II
 
 #### 380. Insert Delete GetRandom O(1)
+
+#### 386. Lexicographical Numbers
 
 #### 399. Evaluate Division
 
@@ -845,7 +847,7 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 20
+### Hard finish 21
 
 #### 23. Merge k Sorted Lists
 
@@ -860,6 +862,8 @@
 #### 214. Shortest Palindrome
 
 #### 330. Patching Array
+
+#### 440. K-th Smallest in Lexicographical Order
 
 #### 502. IPO
 
@@ -887,4 +891,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 437
+### Total finish 439
