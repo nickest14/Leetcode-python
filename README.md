@@ -371,7 +371,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 238
+### Medium finish 239
 
 #### 2. Add Two Numbers
 
@@ -831,6 +831,8 @@
 
 #### 2492. Minimum Score of a Path Between Two Cities
 
+#### 2707. Extra Characters in a String
+
 #### 3016. Minimum Number of Pushes to Type Word II
 
 #### 3169. Count Days Without Meetings
@@ -891,4 +893,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 439
+### Total finish 440
