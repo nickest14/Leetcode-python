@@ -371,7 +371,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 239
+### Medium finish 240
 
 #### 2. Add Two Numbers
 
@@ -835,6 +835,8 @@
 
 #### 3016. Minimum Number of Pushes to Type Word II
 
+#### 3043. Find the Length of the Longest Common Prefix
+
 #### 3169. Count Days Without Meetings
 
 #### 3170. Lexicographically Minimum String After Removing Stars
@@ -849,7 +851,7 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 21
+### Hard finish 22
 
 #### 23. Merge k Sorted Lists
 
@@ -887,10 +889,12 @@
 
 #### 2392. Build a Matrix With Conditions
 
+#### 2416. Sum of Prefix Scores of Strings
+
 #### 2699. Modify Graph Edge Weights
 
 #### 2751. Robot Collisions
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 440
+### Total finish 442
