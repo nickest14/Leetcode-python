@@ -371,7 +371,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 241
+### Medium finish 243
 
 #### 2. Add Two Numbers
 
@@ -615,6 +615,8 @@
 
 #### 633. Sum of Square Numbers
 
+#### 641. Design Circular Deque
+
 #### 647. Palindromic Substrings
 
 #### 648. Replace Words
@@ -634,6 +636,8 @@
 #### 725. Split Linked List in Parts
 
 #### 729. My Calendar I
+
+#### 731. My Calendar II
 
 #### 739. Daily Temperatures
 
@@ -899,4 +903,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 443
+### Total finish 445
