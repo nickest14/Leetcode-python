@@ -371,7 +371,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 243
+### Medium finish 244
 
 #### 2. Add Two Numbers
 
@@ -729,6 +729,8 @@
 
 #### 1376. Time Needed to Inform All Employees
 
+#### 1381. Design a Stack With Increment Operation
+
 #### 1382. Balance a Binary Search Tree
 
 #### 1395. Count Number of Teams
@@ -857,7 +859,7 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 22
+### Hard finish 23
 
 #### 23. Merge k Sorted Lists
 
@@ -872,6 +874,8 @@
 #### 214. Shortest Palindrome
 
 #### 330. Patching Array
+
+#### 432. All O`one Data Structure
 
 #### 440. K-th Smallest in Lexicographical Order
 
@@ -903,4 +907,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 445
+### Total finish 447
