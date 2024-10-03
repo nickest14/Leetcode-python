@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 180
+### Easy finish 181
 
 #### 1. Two Sum
 
@@ -282,6 +282,8 @@
 
 #### 1317. Convert Integer to the Sum of Two No-Zero Integers
 
+#### 1331. Rank Transform of an Array
+
 #### 1332. Remove Palindromic Subsequences
 
 #### 1337. The K Weakest Rows in a Matrix
@@ -371,7 +373,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 244
+### Medium finish 246
 
 #### 2. Add Two Numbers
 
@@ -747,6 +749,8 @@
 
 #### 1482. Minimum Number of Days to Make m Bouquets
 
+#### 1497. Check If Array Pairs Are Divisible by k
+
 #### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 
 #### 1508. Range Sum of Sorted Subarray Sums
@@ -758,6 +762,8 @@
 #### 1530. Number of Good Leaf Nodes Pairs
 
 #### 1552. Magnetic Force Between Two Balls
+
+#### 1590. Make Sum Divisible by P
 
 #### 1605. Find Valid Matrix Given Row and Column Sums
 
@@ -907,4 +913,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 447
+### Total finish 450
