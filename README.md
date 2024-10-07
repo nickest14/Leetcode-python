@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 181
+### Easy finish 182
 
 #### 1. Two Sum
 
@@ -366,6 +366,8 @@
 
 #### 2678. Number of Senior Citizens
 
+#### 2696. Minimum String Length After Removing Substrings
+
 #### 3168. Minimum Number of Chairs in a Waiting Room
 
 #### 3184. Count Pairs That Form a Complete Day I
@@ -373,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 247
+### Medium finish 248
 
 #### 2. Add Two Numbers
 
@@ -779,6 +781,8 @@
 
 #### 1722. Minimize Hamming Distance After Swap Operations
 
+#### 1813. Sentence Similarity III
+
 #### 1823. Find the Winner of the Circular Game
 
 #### 1838. Frequency of the Most Frequent Element
@@ -915,4 +919,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 451
+### Total finish 453
