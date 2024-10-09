@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 248
+### Medium finish 249
 
 #### 2. Add Two Numbers
 
@@ -679,6 +679,8 @@
 
 #### 909. Snakes and Ladders
 
+#### 921. Minimum Add to Make Parentheses Valid
+
 #### 934. Shortest Bridge
 
 #### 945. Minimum Increment to Make Array Unique
@@ -919,4 +921,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 453
+### Total finish 454
