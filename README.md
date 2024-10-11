@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 249
+### Medium finish 251
 
 #### 2. Add Two Numbers
 
@@ -691,6 +691,8 @@
 
 #### 959. Regions Cut By Slashes
 
+#### 962. Maximum Width Ramp
+
 #### 973. K Closest Points to Origin
 
 #### 974. Subarray Sums Divisible by K
@@ -802,6 +804,8 @@
 #### 1930. Unique Length-3 Palindromic Subsequences
 
 #### 1937. Maximum Number of Points with Cost
+
+#### 1942. The Number of the Smallest Unoccupied Chair
 
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 
@@ -921,4 +925,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 454
+### Total finish 456
