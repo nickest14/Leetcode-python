@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 251
+### Medium finish 252
 
 #### 2. Add Two Numbers
 
@@ -847,6 +847,8 @@
 
 #### 2405. Optimal Partition of String
 
+#### 2406. Divide Intervals Into Minimum Number of Groups
+
 #### 2419. Longest Subarray With Maximum Bitwise AND
 
 #### 2807. Insert Greatest Common Divisors in Linked List
@@ -877,7 +879,7 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 23
+### Hard finish 24
 
 #### 23. Merge k Sorted Lists
 
@@ -900,6 +902,8 @@
 #### 502. IPO
 
 #### 564. Find the Closest Palindrome
+
+#### 632. Smallest Range Covering Elements from K Lists
 
 #### 664. Strange Printer
 
@@ -925,4 +929,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 456
+### Total finish 458
