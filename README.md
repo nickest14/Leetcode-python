@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 254
+### Medium finish 256
 
 #### 2. Add Two Numbers
 
@@ -631,6 +631,8 @@
 
 #### 665. Non-decreasing Array
 
+#### 670. Maximum Swap
+
 #### 677. Map Sum Pairs
 
 #### 684. Redundant Connection
@@ -744,6 +746,8 @@
 #### 1395. Count Number of Teams
 
 #### 1396. Design Underground System
+
+#### 1405. Longest Happy String
 
 #### 1409. Queries on a Permutation With Key
 
@@ -933,4 +937,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 460
+### Total finish 462
