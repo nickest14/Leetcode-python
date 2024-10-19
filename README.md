@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 256
+### Medium finish 258
 
 #### 2. Add Two Numbers
 
@@ -771,6 +771,8 @@
 
 #### 1530. Number of Good Leaf Nodes Pairs
 
+#### 1545. Find Kth Bit in Nth Binary String
+
 #### 1552. Magnetic Force Between Two Balls
 
 #### 1590. Make Sum Divisible by P
@@ -826,6 +828,8 @@
 #### 2017. Grid Game
 
 #### 2028. Find Missing Observations
+
+#### 2044. Count Number of Maximum Bitwise-OR Subsets
 
 #### 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
 
@@ -937,4 +941,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 462
+### Total finish 464
