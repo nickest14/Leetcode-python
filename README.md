@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 258
+### Medium finish 259
 
 #### 2. Add Two Numbers
 
@@ -777,6 +777,8 @@
 
 #### 1590. Make Sum Divisible by P
 
+#### 1593. Split a String Into the Max Number of Unique Substrings
+
 #### 1605. Find Valid Matrix Given Row and Column Sums
 
 #### 1631. Path With Minimum Effort
@@ -891,7 +893,7 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 24
+### Hard finish 25
 
 #### 23. Merge k Sorted Lists
 
@@ -925,6 +927,8 @@
 
 #### 995. Minimum Number of K Consecutive Bit Flips
 
+#### 1106. Parsing A Boolean Expression
+
 #### 1568. Minimum Number of Days to Disconnect Island
 
 #### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
@@ -941,4 +945,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 464
+### Total finish 466
