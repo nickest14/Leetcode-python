@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 259
+### Medium finish 261
 
 #### 2. Add Two Numbers
 
@@ -869,6 +869,10 @@
 
 #### 2530. Maximal Score After Applying K Operations
 
+#### 2583. Kth Largest Sum in a Binary Tree
+
+#### 2641. Cousins in Binary Tree II
+
 #### 2707. Extra Characters in a String
 
 #### 2807. Insert Greatest Common Divisors in Linked List
@@ -945,4 +949,4 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 466
+### Total finish 468
