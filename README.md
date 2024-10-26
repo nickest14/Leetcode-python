@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 261
+### Medium finish 262
 
 #### 2. Add Two Numbers
 
@@ -721,6 +721,8 @@
 
 #### 1208. Get Equal Substrings Within Budget
 
+#### 1233. Remove Sub-Folders from the Filesystem
+
 #### 1239. Maximum Length of a Concatenated String with Unique Characters
 
 #### 1248. Count Number of Nice Subarrays
@@ -897,7 +899,7 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 25
+### Hard finish 26
 
 #### 23. Merge k Sorted Lists
 
@@ -943,10 +945,13 @@
 
 #### 2416. Sum of Prefix Scores of Strings
 
+#### 2458. Height of Binary Tree After Subtree Removal Queries
+
 #### 2699. Modify Graph Edge Weights
 
 #### 2751. Robot Collisions
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
-### Total finish 468
+
+### Total finish 470
