@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 262
+### Medium finish 264
 
 #### 2. Add Two Numbers
 
@@ -727,6 +727,8 @@
 
 #### 1248. Count Number of Nice Subarrays
 
+#### 1277. Count Square Submatrices with All Ones
+
 #### 1310. XOR Queries of a Subarray
 
 #### 1319. Number of Operations to Make Network Connected
@@ -869,6 +871,8 @@
 
 #### 2492. Minimum Score of a Path Between Two Cities
 
+#### 2501. Longest Square Streak in an Array
+
 #### 2530. Maximal Score After Applying K Operations
 
 #### 2583. Kth Largest Sum in a Binary Tree
@@ -954,4 +958,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 470
+### Total finish 472
