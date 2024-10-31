@@ -375,7 +375,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 264
+### Medium finish 265
 
 #### 2. Add Two Numbers
 
@@ -879,6 +879,8 @@
 
 #### 2641. Cousins in Binary Tree II
 
+#### 2684. Maximum Number of Moves in a Grid
+
 #### 2707. Extra Characters in a String
 
 #### 2807. Insert Greatest Common Divisors in Linked List
@@ -903,7 +905,7 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
-### Hard finish 26
+### Hard finish 28
 
 #### 23. Merge k Sorted Lists
 
@@ -943,6 +945,8 @@
 
 #### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 
+#### 1671. Minimum Number of Removals to Make Mountain Array
+
 #### 2045. Second Minimum Time to Reach Destination
 
 #### 2392. Build a Matrix With Conditions
@@ -951,6 +955,8 @@
 
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
+#### 2463. Minimum Total Distance Traveled
+
 #### 2699. Modify Graph Edge Weights
 
 #### 2751. Robot Collisions
@@ -958,4 +964,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 472
+### Total finish 475
