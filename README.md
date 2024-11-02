@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 182
+### Easy finish 184
 
 #### 1. Two Sum
 
@@ -348,6 +348,8 @@
 
 #### 1945. Sum of Digits of String After Convert
 
+#### 1957. Delete Characters to Make Fancy String
+
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
 #### 2022. Convert 1D Array Into 2D Array
@@ -361,6 +363,8 @@
 #### 2220. Minimum Bit Flips to Convert Number
 
 #### 2418. Sort the People
+
+#### 2490. Circular Sentence
 
 #### 2582. Pass the Pillow
 
@@ -964,4 +968,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 475
+### Total finish 477
