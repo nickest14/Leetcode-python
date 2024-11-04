@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 184
+### Easy finish 185
 
 #### 1. Two Sum
 
@@ -242,6 +242,8 @@
 
 #### 783. Minimum Distance Between BST Nodes
 
+#### 796. Rotate String
+
 #### 821. Shortest Distance to a Character
 
 #### 844. Backspace String Compare
@@ -379,7 +381,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 265
+### Medium finish 266
 
 #### 2. Add Two Numbers
 
@@ -895,6 +897,8 @@
 
 #### 3043. Find the Length of the Longest Common Prefix
 
+#### 3163. String Compression III
+
 #### 3169. Count Days Without Meetings
 
 #### 3170. Lexicographically Minimum String After Removing Stars
@@ -968,4 +972,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 477
+### Total finish 479
