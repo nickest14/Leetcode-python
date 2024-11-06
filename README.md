@@ -381,7 +381,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 266
+### Medium finish 268
 
 #### 2. Add Two Numbers
 
@@ -891,7 +891,11 @@
 
 #### 2807. Insert Greatest Common Divisors in Linked List
 
+#### 2914. Minimum Number of Changes to Make Binary String Beautiful
+
 #### 2938. Separate Black and White Balls
+
+#### 3011. Find if Array Can Be Sorted
 
 #### 3016. Minimum Number of Pushes to Type Word II
 
@@ -972,4 +976,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 479
+### Total finish 481
