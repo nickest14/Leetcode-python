@@ -381,7 +381,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 268
+### Medium finish 270
 
 #### 2. Add Two Numbers
 
@@ -807,6 +807,8 @@
 
 #### 1823. Find the Winner of the Circular Game
 
+#### 1829. Maximum XOR for Each Query
+
 #### 1838. Frequency of the Most Frequent Element
 
 #### 1888. Minimum Number of Flips to Make the Binary String Alternating
@@ -858,6 +860,8 @@
 #### 2192. All Ancestors of a Node in a Directed Acyclic Graph
 
 #### 2196. Create Binary Tree From Descriptions
+
+#### 2275. Largest Combination With Bitwise AND Greater Than Zero
 
 #### 2285. Maximum Total Importance of Roads
 
@@ -976,4 +980,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 481
+### Total finish 483
