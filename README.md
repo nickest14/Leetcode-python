@@ -381,7 +381,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 272
+### Medium finish 274
 
 #### 2. Add Two Numbers
 
@@ -847,6 +847,8 @@
 
 #### 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
 
+#### 2070. Most Beautiful Item for Each Query
+
 #### 2096. Step-By-Step Directions From a Binary Tree Node to Another
 
 #### 2130. Maximum Twin Sum of a Linked List
@@ -886,6 +888,8 @@
 #### 2530. Maximal Score After Applying K Operations
 
 #### 2583. Kth Largest Sum in a Binary Tree
+
+#### 2601. Prime Subtraction Operation
 
 #### 2641. Cousins in Binary Tree II
 
@@ -984,4 +988,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 485
+### Total finish 487
