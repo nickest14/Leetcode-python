@@ -381,7 +381,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 276
+### Medium finish 278
 
 #### 2. Add Two Numbers
 
@@ -785,6 +785,8 @@
 
 #### 1552. Magnetic Force Between Two Balls
 
+#### 1574. Shortest Subarray to be Removed to Make Array Sorted
+
 #### 1590. Make Sum Divisible by P
 
 #### 1593. Split a String Into the Max Number of Unique Substrings
@@ -933,6 +935,9 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
+#### 3254. Find the Power of K-Size Subarrays I
+
+
 ### Hard finish 28
 
 #### 23. Merge k Sorted Lists
@@ -992,4 +997,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 489
+### Total finish 491
