@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 185
+### Easy finish 186
 
 #### 1. Two Sum
 
@@ -313,6 +313,8 @@
 #### 1608. Special Array With X Elements Greater Than or Equal X
 
 #### 1636. Sort Array by Increasing Frequency
+
+#### 1652. Defuse the Bomb
 
 #### 1684. Count the Number of Consistent Strings
 
@@ -938,7 +940,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 28
+### Hard finish 29
 
 #### 23. Merge k Sorted Lists
 
@@ -970,6 +972,8 @@
 
 #### 726. Number of Atoms
 
+#### 862. Shortest Subarray with Sum at Least K
+
 #### 995. Minimum Number of K Consecutive Bit Flips
 
 #### 1106. Parsing A Boolean Expression
@@ -997,4 +1001,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 491
+### Total finish 493
