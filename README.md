@@ -383,7 +383,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 278
+### Medium finish 280
 
 #### 2. Add Two Numbers
 
@@ -883,6 +883,8 @@
 
 #### 2419. Longest Subarray With Maximum Bitwise AND
 
+#### 2461. Maximum Sum of Distinct Subarrays With Length K
+
 #### 2483. Minimum Penalty for a Shop
 
 #### 2491. Divide Players Into Teams of Equal Skill
@@ -890,6 +892,8 @@
 #### 2492. Minimum Score of a Path Between Two Cities
 
 #### 2501. Longest Square Streak in an Array
+
+#### 2516. Take K of Each Character From Left and Right
 
 #### 2530. Maximal Score After Applying K Operations
 
@@ -1001,4 +1005,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 493
+### Total finish 495
