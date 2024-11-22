@@ -383,7 +383,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 280
+### Medium finish 282
 
 #### 2. Add Two Numbers
 
@@ -713,6 +713,8 @@
 
 #### 1052. Grumpy Bookstore Owner
 
+#### 1072. Flip Columns For Maximum Number of Equal Rows
+
 #### 1091. Shortest Path in Binary Matrix
 
 #### 1105. Filling Bookcase Shelves
@@ -869,6 +871,8 @@
 
 #### 2196. Create Binary Tree From Descriptions
 
+#### 2257. Count Unguarded Cells in the Grid
+
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 
 #### 2285. Maximum Total Importance of Roads
@@ -1005,4 +1009,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 495
+### Total finish 497
