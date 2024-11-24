@@ -383,7 +383,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 282
+### Medium finish 284
 
 #### 2. Add Two Numbers
 
@@ -817,6 +817,8 @@
 
 #### 1838. Frequency of the Most Frequent Element
 
+#### 1861. Rotating the Box
+
 #### 1888. Minimum Number of Flips to Make the Binary String Alternating
 
 #### 1894. Find the Student that Will Replace the Chalk
@@ -836,6 +838,8 @@
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 
 #### 1968. Array With Elements Not Equal to Average of Neighbors
+
+#### 1975. Maximum Matrix Sum
 
 #### 1985. Find the Kth Largest Integer in the Array
 
@@ -1009,4 +1013,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 497
+### Total finish 499
