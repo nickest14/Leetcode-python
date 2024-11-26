@@ -383,7 +383,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 284
+### Medium finish 285
 
 #### 2. Add Two Numbers
 
@@ -921,6 +921,8 @@
 
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 
+#### 2924. Find Champion II
+
 #### 2938. Separate Black and White Balls
 
 #### 3011. Find if Array Can Be Sorted
@@ -952,7 +954,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 29
+### Hard finish 30
 
 #### 23. Merge k Sorted Lists
 
@@ -984,6 +986,8 @@
 
 #### 726. Number of Atoms
 
+#### 773. Sliding Puzzle
+
 #### 862. Shortest Subarray with Sum at Least K
 
 #### 995. Minimum Number of K Consecutive Bit Flips
@@ -1013,4 +1017,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 499
+### Total finish 501
