@@ -383,7 +383,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 285
+### Medium finish 286
 
 #### 2. Add Two Numbers
 
@@ -951,10 +951,12 @@
 
 #### 3217. Delete Nodes From Linked List Present in Array
 
+#### 3243. Shortest Distance After Road Addition Queries I
+
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 30
+### Hard finish 31
 
 #### 23. Merge k Sorted Lists
 
@@ -1002,6 +1004,8 @@
 
 #### 2045. Second Minimum Time to Reach Destination
 
+#### 2290. Minimum Obstacle Removal to Reach Corner
+
 #### 2392. Build a Matrix With Conditions
 
 #### 2416. Sum of Prefix Scores of Strings
@@ -1017,4 +1021,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 501
+### Total finish 503
