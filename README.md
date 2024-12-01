@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 186
+### Easy finish 187
 
 #### 1. Two Sum
 
@@ -291,6 +291,8 @@
 #### 1337. The K Weakest Rows in a Matrix
 
 #### 1342. Number of Steps to Reduce a Number to Zero
+
+#### 1346. Check If N and Its Double Exist
 
 #### 1380. Lucky Numbers in a Matrix
 
@@ -956,7 +958,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 31
+### Hard finish 33
 
 #### 23. Merge k Sorted Lists
 
@@ -1004,6 +1006,8 @@
 
 #### 2045. Second Minimum Time to Reach Destination
 
+#### 2097. Valid Arrangement of Pairs
+
 #### 2290. Minimum Obstacle Removal to Reach Corner
 
 #### 2392. Build a Matrix With Conditions
@@ -1014,6 +1018,8 @@
 
 #### 2463. Minimum Total Distance Traveled
 
+#### 2577. Minimum Time to Visit a Cell In a Grid
+
 #### 2699. Modify Graph Edge Weights
 
 #### 2751. Robot Collisions
@@ -1021,4 +1027,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 503
+### Total finish 506
