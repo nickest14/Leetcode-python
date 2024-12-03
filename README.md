@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 187
+### Easy finish 188
 
 #### 1. Two Sum
 
@@ -300,6 +300,8 @@
 
 #### 1422. Maximum Score After Splitting a String
 
+#### 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
+
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
 
 #### 1518. Water Bottles
@@ -385,7 +387,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 286
+### Medium finish 287
 
 #### 2. Add Two Numbers
 
@@ -865,6 +867,8 @@
 
 #### 2096. Step-By-Step Directions From a Binary Tree Node to Another
 
+#### 2109. Adding Spaces to a String
+
 #### 2130. Maximum Twin Sum of a Linked List
 
 #### 2134. Minimum Swaps to Group All 1's Together II
@@ -1027,4 +1031,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 506
+### Total finish 508
