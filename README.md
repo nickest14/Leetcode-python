@@ -387,7 +387,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 287
+### Medium finish 290
 
 #### 2. Add Two Numbers
 
@@ -889,6 +889,8 @@
 
 #### 2326. Spiral Matrix IV
 
+#### 2337. Move Pieces to Obtain a String
+
 #### 2348. Number of Zero-Filled Subarrays
 
 #### 2405. Optimal Partition of String
@@ -911,6 +913,8 @@
 
 #### 2530. Maximal Score After Applying K Operations
 
+#### 2554. Maximum Number of Integers to Choose From a Range I
+
 #### 2563. Count the Number of Fair Pairs
 
 #### 2583. Kth Largest Sum in a Binary Tree
@@ -924,6 +928,8 @@
 #### 2707. Extra Characters in a String
 
 #### 2807. Insert Greatest Common Divisors in Linked List
+
+#### 2825. Make String a Subsequence Using Cyclic Increments
 
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 
@@ -1031,4 +1037,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 508
+### Total finish 511
