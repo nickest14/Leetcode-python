@@ -387,7 +387,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 290
+### Medium finish 292
 
 #### 2. Add Two Numbers
 
@@ -813,6 +813,8 @@
 
 #### 1722. Minimize Hamming Distance After Swap Operations
 
+#### 1760. Minimum Limit of Balls in a Bag
+
 #### 1813. Sentence Similarity III
 
 #### 1823. Find the Winner of the Circular Game
@@ -858,6 +860,8 @@
 #### 2028. Find Missing Observations
 
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
+
+#### 2054. Two Best Non-Overlapping Events
 
 #### 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
 
@@ -1037,4 +1041,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 511
+### Total finish 513
