@@ -387,7 +387,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 292
+### Medium finish 294
 
 #### 2. Add Two Numbers
 
@@ -941,6 +941,8 @@
 
 #### 2938. Separate Black and White Balls
 
+#### 2981. Find Longest Special Substring That Occurs Thrice I
+
 #### 3011. Find if Array Can Be Sorted
 
 #### 3016. Minimum Number of Pushes to Type Word II
@@ -950,6 +952,8 @@
 #### 3097. Shortest Subarray With OR at Least K II
 
 #### 3133. Minimum Array End
+
+#### 3152. Special Array II
 
 #### 3163. String Compression III
 
@@ -1041,4 +1045,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 513
+### Total finish 515
