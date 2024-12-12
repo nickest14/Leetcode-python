@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 188
+### Easy finish 189
 
 #### 1. Two Sum
 
@@ -374,6 +374,8 @@
 
 #### 2490. Circular Sentence
 
+#### 2558. Take Gifts From the Richest Pile
+
 #### 2582. Pass the Pillow
 
 #### 2678. Number of Senior Citizens
@@ -387,7 +389,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 294
+### Medium finish 295
 
 #### 2. Add Two Numbers
 
@@ -931,6 +933,8 @@
 
 #### 2707. Extra Characters in a String
 
+#### 2779. Maximum Beauty of an Array After Applying Operation
+
 #### 2807. Insert Greatest Common Divisors in Linked List
 
 #### 2825. Make String a Subsequence Using Cyclic Increments
@@ -1045,4 +1049,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 515
+### Total finish 517
