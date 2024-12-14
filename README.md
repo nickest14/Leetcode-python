@@ -389,7 +389,7 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
-### Medium finish 295
+### Medium finish 297
 
 #### 2. Add Two Numbers
 
@@ -925,6 +925,8 @@
 
 #### 2583. Kth Largest Sum in a Binary Tree
 
+#### 2593. Find Score of an Array After Marking All Elements
+
 #### 2601. Prime Subtraction Operation
 
 #### 2641. Cousins in Binary Tree II
@@ -932,6 +934,8 @@
 #### 2684. Maximum Number of Moves in a Grid
 
 #### 2707. Extra Characters in a String
+
+#### 2762. Continuous Subarrays
 
 #### 2779. Maximum Beauty of an Array After Applying Operation
 
@@ -1049,4 +1053,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 517
+### Total finish 519
