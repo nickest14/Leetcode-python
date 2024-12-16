@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 189
+### Easy finish 190
 
 #### 1. Two Sum
 
@@ -388,8 +388,9 @@
 
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
+#### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 297
+### Medium finish 298
 
 #### 2. Add Two Numbers
 
@@ -817,6 +818,8 @@
 
 #### 1760. Minimum Limit of Balls in a Bag
 
+#### 1792. Maximum Average Pass Ratio
+
 #### 1813. Sentence Similarity III
 
 #### 1823. Find the Winner of the Circular Game
@@ -1053,4 +1056,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 519
+### Total finish 521
