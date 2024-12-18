@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 190
+### Easy finish 191
 
 #### 1. Two Sum
 
@@ -304,6 +304,8 @@
 
 #### 1460. Make Two Arrays Equal by Reversing Subarrays
 
+#### 1475. Final Prices With a Special Discount in a Shop
+
 #### 1518. Water Bottles
 
 #### 1539. Kth Missing Positive Number
@@ -390,7 +392,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 298
+### Medium finish 299
 
 #### 2. Add Two Numbers
 
@@ -884,6 +886,8 @@
 
 #### 2181. Merge Nodes in Between Zeros
 
+#### 2182. Construct String With Repeat Limit
+
 #### 2191. Sort the Jumbled Numbers
 
 #### 2192. All Ancestors of a Node in a Directed Acyclic Graph
@@ -1056,4 +1060,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 521
+### Total finish 523
