@@ -392,7 +392,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 299
+### Medium finish 301
 
 #### 2. Add Two Numbers
 
@@ -668,6 +668,8 @@
 
 #### 763. Partition Labels
 
+#### 769. Max Chunks To Make Sorted
+
 #### 785. Is Graph Bipartite?
 
 #### 787. Cheapest Flights Within K Stops
@@ -910,6 +912,8 @@
 
 #### 2406. Divide Intervals Into Minimum Number of Groups
 
+#### 2415. Reverse Odd Levels of Binary Tree
+
 #### 2419. Longest Subarray With Maximum Bitwise AND
 
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
@@ -1060,4 +1064,4 @@
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 523
+### Total finish 525
