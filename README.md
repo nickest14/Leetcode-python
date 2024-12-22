@@ -995,7 +995,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 33
+### Hard finish 35
 
 #### 23. Merge k Sorted Lists
 
@@ -1061,7 +1061,11 @@
 
 #### 2751. Robot Collisions
 
+#### 2872. Maximum Number of K-Divisible Components
+
+#### 2940. Find Building Where Alice and Bob Can Meet
+
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 
-### Total finish 525
+### Total finish 527
