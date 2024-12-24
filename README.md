@@ -392,7 +392,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 301
+### Medium finish 302
 
 #### 2. Add Two Numbers
 
@@ -918,6 +918,8 @@
 
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 
+#### 2471. Minimum Number of Operations to Sort a Binary Tree by Level
+
 #### 2483. Minimum Penalty for a Shop
 
 #### 2491. Divide Players Into Teams of Equal Skill
@@ -995,7 +997,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 35
+### Hard finish 36
 
 #### 23. Merge k Sorted Lists
 
@@ -1067,5 +1069,6 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
+#### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 527
+### Total finish 529
