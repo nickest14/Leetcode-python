@@ -392,7 +392,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 302
+### Medium finish 304
 
 #### 2. Add Two Numbers
 
@@ -612,6 +612,8 @@
 
 #### 494. Target Sum
 
+#### 515. Find Largest Value in Each Tree Row
+
 #### 518. Coin Change II
 
 #### 523. Continuous Subarray Sum
@@ -717,6 +719,8 @@
 #### 973. K Closest Points to Origin
 
 #### 974. Subarray Sums Divisible by K
+
+#### 1014. Best Sightseeing Pair
 
 #### 1038. Binary Search Tree to Greater Sum Tree
 
@@ -1071,4 +1075,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 529
+### Total finish 531
