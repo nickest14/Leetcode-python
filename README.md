@@ -1001,7 +1001,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 36
+### Hard finish 38
 
 #### 23. Merge k Sorted Lists
 
@@ -1029,6 +1029,8 @@
 
 #### 664. Strange Printer
 
+#### 689. Maximum Sum of 3 Non-Overlapping Subarrays
+
 #### 719. Find K-th Smallest Pair Distance
 
 #### 726. Number of Atoms
@@ -1044,6 +1046,8 @@
 #### 1568. Minimum Number of Days to Disconnect Island
 
 #### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+
+#### 1639. Number of Ways to Form a Target String Given a Dictionary
 
 #### 1671. Minimum Number of Removals to Make Mountain Array
 
@@ -1075,4 +1079,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 531
+### Total finish 533
