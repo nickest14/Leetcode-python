@@ -392,7 +392,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 304
+### Medium finish 306
 
 #### 2. Add Two Numbers
 
@@ -720,6 +720,8 @@
 
 #### 974. Subarray Sums Divisible by K
 
+#### 983. Minimum Cost For Tickets
+
 #### 1014. Best Sightseeing Pair
 
 #### 1038. Binary Search Tree to Greater Sum Tree
@@ -922,6 +924,8 @@
 
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 
+#### 2466. Count Ways To Build Good Strings
+
 #### 2471. Minimum Number of Operations to Sort a Binary Tree by Level
 
 #### 2483. Minimum Penalty for a Shop
@@ -1079,4 +1083,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 533
+### Total finish 535
