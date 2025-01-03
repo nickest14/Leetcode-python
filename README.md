@@ -392,7 +392,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 306
+### Medium finish 308
 
 #### 2. Add Two Numbers
 
@@ -904,6 +904,8 @@
 
 #### 2257. Count Unguarded Cells in the Grid
 
+#### 2270. Number of Ways to Split Array
+
 #### 2275. Largest Combination With Bitwise AND Greater Than Zero
 
 #### 2285. Maximum Total Importance of Roads
@@ -941,6 +943,8 @@
 #### 2530. Maximal Score After Applying K Operations
 
 #### 2554. Maximum Number of Integers to Choose From a Range I
+
+#### 2559. Count Vowel Strings in Ranges
 
 #### 2563. Count the Number of Fair Pairs
 
@@ -1083,4 +1087,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 535
+### Total finish 537
