@@ -392,7 +392,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 308
+### Medium finish 310
 
 #### 2. Add Two Numbers
 
@@ -828,6 +828,8 @@
 
 #### 1760. Minimum Limit of Balls in a Bag
 
+#### 1769. Minimum Number of Operations to Move All Balls to Each Box
+
 #### 1792. Maximum Average Pass Ratio
 
 #### 1813. Sentence Similarity III
@@ -915,6 +917,8 @@
 #### 2337. Move Pieces to Obtain a String
 
 #### 2348. Number of Zero-Filled Subarrays
+
+#### 2381. Shifting Letters II
 
 #### 2405. Optimal Partition of String
 
@@ -1087,4 +1091,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 537
+### Total finish 539
