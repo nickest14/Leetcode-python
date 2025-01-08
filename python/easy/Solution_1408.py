@@ -5,11 +5,12 @@ from typing import List
 
 class Solution:
     def stringMatching(self, words: List[str]) -> List[str]:
-        ans = set()
-        for sub_word in words:
-            for word in words:
-                if sub_word != word and sub_word in word:
-                    ans.add(sub_word)
+        ans: List[str] = []
+        n: int = len(words)
+        for i in range(n):
+            for j in range(n):
+                if i != j and words[i] in words[j]:
+                    ans.append(words[i])
                     break
         return ans
 
