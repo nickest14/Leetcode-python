@@ -396,7 +396,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 311
+### Medium finish 313
 
 #### 2. Add Two Numbers
 
@@ -784,6 +784,8 @@
 
 #### 1396. Design Underground System
 
+#### 1400. Construct K Palindrome Strings
+
 #### 1405. Longest Happy String
 
 #### 1409. Queries on a Permutation With Key
@@ -895,6 +897,8 @@
 #### 2096. Step-By-Step Directions From a Binary Tree Node to Another
 
 #### 2109. Adding Spaces to a String
+
+#### 2116. Check if a Parentheses String Can Be Valid
 
 #### 2130. Maximum Twin Sum of a Linked List
 
@@ -1097,4 +1101,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 542
+### Total finish 544
