@@ -396,7 +396,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 313
+### Medium finish 315
 
 #### 2. Add Two Numbers
 
@@ -970,6 +970,8 @@
 
 #### 2641. Cousins in Binary Tree II
 
+#### 2657. Find the Prefix Common Array of Two Arrays
+
 #### 2684. Maximum Number of Moves in a Grid
 
 #### 2707. Extra Characters in a String
@@ -1017,6 +1019,8 @@
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
 #### 3217. Delete Nodes From Linked List Present in Array
+
+#### 3223. Minimum Length of String After Operations
 
 #### 3243. Shortest Distance After Road Addition Queries I
 
@@ -1101,4 +1105,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 544
+### Total finish 546
