@@ -396,7 +396,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 315
+### Medium finish 317
 
 #### 2. Add Two Numbers
 
@@ -938,6 +938,10 @@
 
 #### 2419. Longest Subarray With Maximum Bitwise AND
 
+#### 2425. Bitwise XOR of All Pairings
+
+#### 2429. Minimize XOR
+
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 
 #### 2466. Count Ways To Build Good Strings
@@ -1105,4 +1109,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 546
+### Total finish 548
