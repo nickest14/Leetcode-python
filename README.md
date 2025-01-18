@@ -396,7 +396,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 317
+### Medium finish 318
 
 #### 2. Add Two Numbers
 
@@ -976,6 +976,8 @@
 
 #### 2657. Find the Prefix Common Array of Two Arrays
 
+#### 2683. Neighboring Bitwise XOR
+
 #### 2684. Maximum Number of Moves in a Grid
 
 #### 2707. Extra Characters in a String
@@ -1031,7 +1033,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 38
+### Hard finish 39
 
 #### 23. Merge k Sorted Lists
 
@@ -1073,6 +1075,8 @@
 
 #### 1106. Parsing A Boolean Expression
 
+#### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
+
 #### 1568. Minimum Number of Days to Disconnect Island
 
 #### 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
@@ -1109,4 +1113,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 548
+### Total finish 550
