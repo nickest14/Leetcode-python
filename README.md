@@ -396,7 +396,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 318
+### Medium finish 319
 
 #### 2. Add Two Numbers
 
@@ -976,6 +976,8 @@
 
 #### 2657. Find the Prefix Common Array of Two Arrays
 
+#### 2661. First Completely Painted Row or Column
+
 #### 2683. Neighboring Bitwise XOR
 
 #### 2684. Maximum Number of Moves in a Grid
@@ -1033,7 +1035,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 39
+### Hard finish 40
 
 #### 23. Merge k Sorted Lists
 
@@ -1048,6 +1050,8 @@
 #### 214. Shortest Palindrome
 
 #### 330. Patching Array
+
+#### 407. Trapping Rain Water II
 
 #### 432. All O`one Data Structure
 
@@ -1113,4 +1117,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 550
+### Total finish 552
