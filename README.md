@@ -396,7 +396,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 319
+### Medium finish 320
 
 #### 2. Add Two Numbers
 
@@ -836,6 +836,8 @@
 
 #### 1760. Minimum Limit of Balls in a Bag
 
+#### 1765. Map of Highest Peak
+
 #### 1769. Minimum Number of Operations to Move All Balls to Each Box
 
 #### 1792. Maximum Average Pass Ratio
@@ -1117,4 +1119,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 552
+### Total finish 553
