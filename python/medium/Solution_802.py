@@ -5,8 +5,8 @@ from typing import List
 
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        n = len(graph)
-        safe = {}
+        n: int = len(graph)
+        safe: dict[int, bool] = {}
 
         def dfs(i: int):
             if i in safe:
@@ -18,7 +18,7 @@ class Solution:
             safe[i] = True
             return True
 
-        ans = []
+        ans: int = []
         for i in range(n):
             if dfs(i):
                 ans.append(i)

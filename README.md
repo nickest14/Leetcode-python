@@ -396,7 +396,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 320
+### Medium finish 321
 
 #### 2. Add Two Numbers
 
@@ -760,6 +760,8 @@
 
 #### 1248. Count Number of Nice Subarrays
 
+#### 1267. Count Servers that Communicate
+
 #### 1277. Count Square Submatrices with All Ones
 
 #### 1310. XOR Queries of a Subarray
@@ -1119,4 +1121,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 553
+### Total finish 554
