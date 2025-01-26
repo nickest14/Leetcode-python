@@ -396,7 +396,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 321
+### Medium finish 322
 
 #### 2. Add Two Numbers
 
@@ -1002,6 +1002,8 @@
 
 #### 2938. Separate Black and White Balls
 
+#### 2948. Make Lexicographically Smallest Array by Swapping Elements
+
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 
 #### 3011. Find if Array Can Be Sorted
@@ -1097,6 +1099,8 @@
 
 #### 2097. Valid Arrangement of Pairs
 
+#### 2127. Maximum Employees to Be Invited to a Meeting
+
 #### 2290. Minimum Obstacle Removal to Reach Corner
 
 #### 2392. Build a Matrix With Conditions
@@ -1121,4 +1125,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 554
+### Total finish 556
