@@ -1045,7 +1045,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 40
+### Hard finish 42
 
 #### 23. Merge k Sorted Lists
 
@@ -1083,6 +1083,8 @@
 
 #### 773. Sliding Puzzle
 
+#### 827. Making A Large Island
+
 #### 862. Shortest Subarray with Sum at Least K
 
 #### 995. Minimum Number of K Consecutive Bit Flips
@@ -1115,6 +1117,8 @@
 
 #### 2463. Minimum Total Distance Traveled
 
+#### 2493. Divide Nodes Into the Maximum Number of Groups
+
 #### 2577. Minimum Time to Visit a Cell In a Grid
 
 #### 2699. Modify Graph Edge Weights
@@ -1129,4 +1133,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 558
+### Total finish 560
