@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 193
+### Easy finish 195
 
 #### 1. Two Sum
 
@@ -387,6 +387,10 @@
 #### 2696. Minimum String Length After Removing Substrings
 
 #### 3042. Count Prefix and Suffix Pairs I
+
+#### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+
+#### 3151. Special Array I
 
 #### 3168. Minimum Number of Chairs in a Waiting Room
 
@@ -1133,4 +1137,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 560
+### Total finish 562
