@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 195
+### Easy finish 196
 
 #### 1. Two Sum
 
@@ -334,6 +334,8 @@
 
 #### 1785. Minimum Elements to Add to Form a Given Sum
 
+#### 1790. Check if One String Swap Can Make Strings Equal
+
 #### 1791. Find Center of Star Graph
 
 #### 1827. Minimum Operations to Make the Array Increasing
@@ -400,7 +402,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 324
+### Medium finish 325
 
 #### 2. Add Two Numbers
 
@@ -842,6 +844,8 @@
 
 #### 1722. Minimize Hamming Distance After Swap Operations
 
+#### 1726. Tuple with Same Product
+
 #### 1760. Minimum Limit of Balls in a Bag
 
 #### 1765. Map of Highest Peak
@@ -1137,4 +1141,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 562
+### Total finish 564
