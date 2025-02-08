@@ -402,7 +402,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 325
+### Medium finish 327
 
 #### 2. Add Two Numbers
 
@@ -942,6 +942,8 @@
 
 #### 2348. Number of Zero-Filled Subarrays
 
+#### 2349. Design a Number Container System
+
 #### 2381. Shifting Letters II
 
 #### 2405. Optimal Partition of String
@@ -1029,6 +1031,8 @@
 #### 3133. Minimum Array End
 
 #### 3152. Special Array II
+
+#### 3160. Find the Number of Distinct Colors Among the Balls
 
 #### 3163. String Compression III
 
@@ -1141,4 +1145,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 564
+### Total finish 566
