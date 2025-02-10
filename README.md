@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 196
+### Easy finish 197
 
 #### 1. Two Sum
 
@@ -396,13 +396,15 @@
 
 #### 3168. Minimum Number of Chairs in a Waiting Room
 
+#### 3174. Clear Digits
+
 #### 3184. Count Pairs That Form a Complete Day I
 
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 327
+### Medium finish 328
 
 #### 2. Add Two Numbers
 
@@ -944,6 +946,8 @@
 
 #### 2349. Design a Number Container System
 
+#### 2364. Count Number of Bad Pairs
+
 #### 2381. Shifting Letters II
 
 #### 2405. Optimal Partition of String
@@ -1145,4 +1149,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 566
+### Total finish 568
