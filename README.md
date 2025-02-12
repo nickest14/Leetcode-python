@@ -404,7 +404,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 328
+### Medium finish 330
 
 #### 2. Add Two Numbers
 
@@ -874,6 +874,8 @@
 
 #### 1905. Count Sub Islands
 
+#### 1910. Remove All Occurrences of a Substring
+
 #### 1911. Maximum Alternating Subsequence Sum
 
 #### 1930. Unique Length-3 Palindromic Subsequences
@@ -941,6 +943,8 @@
 #### 2326. Spiral Matrix IV
 
 #### 2337. Move Pieces to Obtain a String
+
+#### 2342. Max Sum of a Pair With Equal Sum of Digits
 
 #### 2348. Number of Zero-Filled Subarrays
 
@@ -1149,4 +1153,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 568
+### Total finish 570
