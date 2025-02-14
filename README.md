@@ -404,7 +404,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 330
+### Medium finish 332
 
 #### 2. Add Two Numbers
 
@@ -780,6 +780,8 @@
 
 #### 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 
+#### 1352. Product of the Last K Numbers
+
 #### 1367. Linked List in Binary Tree
 
 #### 1371. Find the Longest Substring Containing Vowels in Even Counts
@@ -1034,6 +1036,8 @@
 
 #### 3043. Find the Length of the Longest Common Prefix
 
+#### 3066. Minimum Operations to Exceed Threshold Value II
+
 #### 3097. Shortest Subarray With OR at Least K II
 
 #### 3133. Minimum Array End
@@ -1153,4 +1157,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 570
+### Total finish 572
