@@ -404,7 +404,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 332
+### Medium finish 334
 
 #### 2. Add Two Numbers
 
@@ -846,6 +846,8 @@
 
 #### 1717. Maximum Score From Removing Substrings
 
+#### 1718. Construct the Lexicographically Largest Valid Sequence
+
 #### 1722. Minimize Hamming Distance After Swap Operations
 
 #### 1726. Tuple with Same Product
@@ -1010,6 +1012,8 @@
 
 #### 2684. Maximum Number of Moves in a Grid
 
+#### 2698. Find the Punishment Number of an Integer
+
 #### 2707. Extra Characters in a String
 
 #### 2762. Continuous Subarrays
@@ -1157,4 +1161,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 572
+### Total finish 574
