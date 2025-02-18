@@ -404,7 +404,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 334
+### Medium finish 336
 
 #### 2. Add Two Numbers
 
@@ -746,6 +746,8 @@
 
 #### 1072. Flip Columns For Maximum Number of Equal Rows
 
+#### 1079. Letter Tile Possibilities
+
 #### 1091. Shortest Path in Binary Matrix
 
 #### 1105. Filling Bookcase Shelves
@@ -956,6 +958,8 @@
 
 #### 2364. Count Number of Bad Pairs
 
+#### 2375. Construct Smallest Number From DI String
+
 #### 2381. Shifting Letters II
 
 #### 2405. Optimal Partition of String
@@ -1161,4 +1165,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 574
+### Total finish 576
