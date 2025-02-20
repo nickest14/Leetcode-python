@@ -404,7 +404,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 336
+### Medium finish 338
 
 #### 2. Add Two Numbers
 
@@ -804,6 +804,8 @@
 
 #### 1409. Queries on a Permutation With Key
 
+#### 1415. The k-th Lexicographical String of All Happy Strings of Length n
+
 #### 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
 
 #### 1456. Maximum Number of Vowels in a Substring of Given Length
@@ -895,6 +897,8 @@
 #### 1968. Array With Elements Not Equal to Average of Neighbors
 
 #### 1975. Maximum Matrix Sum
+
+#### 1980. Find Unique Binary String
 
 #### 1985. Find the Kth Largest Integer in the Array
 
@@ -1165,4 +1169,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 576
+### Total finish 578
