@@ -404,7 +404,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 338
+### Medium finish 339
 
 #### 2. Add Two Numbers
 
@@ -770,6 +770,8 @@
 
 #### 1248. Count Number of Nice Subarrays
 
+#### 1261. Find Elements in a Contaminated Binary Tree
+
 #### 1267. Count Servers that Communicate
 
 #### 1277. Count Square Submatrices with All Ones
@@ -1081,7 +1083,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 42
+### Hard finish 43
 
 #### 23. Merge k Sorted Lists
 
@@ -1124,6 +1126,8 @@
 #### 862. Shortest Subarray with Sum at Least K
 
 #### 995. Minimum Number of K Consecutive Bit Flips
+
+#### 1028. Recover a Tree From Preorder Traversal
 
 #### 1106. Parsing A Boolean Expression
 
@@ -1169,4 +1173,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 578
+### Total finish 580
