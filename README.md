@@ -404,7 +404,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 339
+### Medium finish 341
 
 #### 2. Add Two Numbers
 
@@ -706,6 +706,8 @@
 
 #### 886. Possible Bipartition
 
+#### 889. Construct Binary Tree from Preorder and Postorder Traversal
+
 #### 901. Online Stock Span
 
 #### 904. Fruit Into Baskets
@@ -984,6 +986,8 @@
 
 #### 2466. Count Ways To Build Good Strings
 
+#### 2467. Most Profitable Path in a Tree
+
 #### 2471. Minimum Number of Operations to Sort a Binary Tree by Level
 
 #### 2483. Minimum Penalty for a Shop
@@ -1173,4 +1177,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 580
+### Total finish 582
