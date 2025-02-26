@@ -404,7 +404,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 341
+### Medium finish 344
 
 #### 2. Add Two Numbers
 
@@ -700,6 +700,8 @@
 
 #### 858. Mirror Reflection
 
+#### 873. Length of Longest Fibonacci Subsequence
+
 #### 874. Walking Robot Simulation
 
 #### 881. Boats to Save People
@@ -830,6 +832,8 @@
 
 #### 1514. Path with Maximum Probability
 
+#### 1524. Number of Sub-arrays With Odd Sum
+
 #### 1530. Number of Good Leaf Nodes Pairs
 
 #### 1545. Find Kth Bit in Nth Binary String
@@ -859,6 +863,8 @@
 #### 1722. Minimize Hamming Distance After Swap Operations
 
 #### 1726. Tuple with Same Product
+
+#### 1749. Maximum Absolute Sum of Any Subarray
 
 #### 1760. Minimum Limit of Balls in a Bag
 
@@ -1177,4 +1183,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 582
+### Total finish 585
