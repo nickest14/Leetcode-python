@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 197
+### Easy finish 198
 
 #### 1. Two Sum
 
@@ -377,6 +377,8 @@
 #### 2220. Minimum Bit Flips to Convert Number
 
 #### 2418. Sort the People
+
+#### 2460. Apply Operations to an Array
 
 #### 2490. Circular Sentence
 
@@ -1093,7 +1095,7 @@
 #### 3254. Find the Power of K-Size Subarrays I
 
 
-### Hard finish 43
+### Hard finish 44
 
 #### 23. Merge k Sorted Lists
 
@@ -1139,6 +1141,8 @@
 
 #### 1028. Recover a Tree From Preorder Traversal
 
+#### 1092. Shortest Common Supersequence
+
 #### 1106. Parsing A Boolean Expression
 
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
@@ -1183,4 +1187,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 585
+### Total finish 587
