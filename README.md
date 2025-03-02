@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 198
+### Easy finish 199
 
 #### 1. Two Sum
 
@@ -383,6 +383,8 @@
 #### 2490. Circular Sentence
 
 #### 2558. Take Gifts From the Richest Pile
+
+#### 2570. Merge Two 2D Arrays by Summing Values
 
 #### 2582. Pass the Pillow
 
@@ -1187,4 +1189,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 587
+### Total finish 588
