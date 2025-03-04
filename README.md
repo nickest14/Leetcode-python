@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 199
+### Easy finish 200
 
 #### 1. Two Sum
 
@@ -392,6 +392,8 @@
 
 #### 2696. Minimum String Length After Removing Substrings
 
+#### 2965. Find Missing and Repeated Values
+
 #### 3042. Count Prefix and Suffix Pairs I
 
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
@@ -408,7 +410,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 344
+### Medium finish 347
 
 #### 2. Add Two Numbers
 
@@ -876,6 +878,8 @@
 
 #### 1769. Minimum Number of Operations to Move All Balls to Each Box
 
+#### 1780. Check if Number is a Sum of Powers of Three
+
 #### 1792. Maximum Average Pass Ratio
 
 #### 1813. Sentence Similarity III
@@ -945,6 +949,8 @@
 #### 2130. Maximum Twin Sum of a Linked List
 
 #### 2134. Minimum Swaps to Group All 1's Together II
+
+#### 2161. Partition Array According to Given Pivot
 
 #### 2181. Merge Nodes in Between Zeros
 
@@ -1017,6 +1023,8 @@
 #### 2559. Count Vowel Strings in Ranges
 
 #### 2563. Count the Number of Fair Pairs
+
+#### 2579. Count Total Number of Colored Cells
 
 #### 2583. Kth Largest Sum in a Binary Tree
 
@@ -1189,4 +1197,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 588
+### Total finish 592
