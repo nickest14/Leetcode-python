@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 200
+### Easy finish 201
 
 #### 1. Two Sum
 
@@ -376,6 +376,8 @@
 
 #### 2220. Minimum Bit Flips to Convert Number
 
+#### 2379. Minimum Recolors to Get K Consecutive Black Blocks
+
 #### 2418. Sort the People
 
 #### 2460. Apply Operations to an Array
@@ -410,7 +412,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 347
+### Medium finish 348
 
 #### 2. Add Two Numbers
 
@@ -1016,6 +1018,8 @@
 
 #### 2516. Take K of Each Character From Left and Right
 
+#### 2523. Closest Prime Numbers in Range
+
 #### 2530. Maximal Score After Applying K Operations
 
 #### 2554. Maximum Number of Integers to Choose From a Range I
@@ -1197,4 +1201,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 592
+### Total finish 594
