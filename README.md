@@ -412,7 +412,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 348
+### Medium finish 350
 
 #### 2. Add Two Numbers
 
@@ -1100,6 +1100,8 @@
 
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
+#### 3208. Alternating Groups II
+
 #### 3217. Delete Nodes From Linked List Present in Array
 
 #### 3223. Minimum Length of String After Operations
@@ -1107,6 +1109,8 @@
 #### 3243. Shortest Distance After Road Addition Queries I
 
 #### 3254. Find the Power of K-Size Subarrays I
+
+#### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 
 
 ### Hard finish 44
@@ -1201,4 +1205,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 594
+### Total finish 596
