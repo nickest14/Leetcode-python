@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 201
+### Easy finish 202
 
 #### 1. Two Sum
 
@@ -384,6 +384,8 @@
 
 #### 2490. Circular Sentence
 
+#### 2529. Maximum Count of Positive Integer and Negative Integer
+
 #### 2558. Take Gifts From the Richest Pile
 
 #### 2570. Merge Two 2D Arrays by Summing Values
@@ -412,7 +414,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 350
+### Medium finish 351
 
 #### 2. Add Two Numbers
 
@@ -797,6 +799,8 @@
 #### 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 
 #### 1352. Product of the Last K Numbers
+
+#### 1358. Number of Substrings Containing All Three Characters
 
 #### 1367. Linked List in Binary Tree
 
@@ -1205,4 +1209,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 596
+### Total finish 598
