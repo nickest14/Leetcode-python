@@ -414,7 +414,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 351
+### Medium finish 353
 
 #### 2. Add Two Numbers
 
@@ -968,6 +968,8 @@
 
 #### 2196. Create Binary Tree From Descriptions
 
+#### 2226. Maximum Candies Allocated to K Children
+
 #### 2257. Count Unguarded Cells in the Grid
 
 #### 2270. Number of Ways to Split Array
@@ -1116,6 +1118,8 @@
 
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 
+#### 3356. Zero Array Transformation II
+
 
 ### Hard finish 44
 
@@ -1209,4 +1213,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 598
+### Total finish 600
