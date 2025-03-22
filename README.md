@@ -414,7 +414,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 353
+### Medium finish 355
 
 #### 2. Add Two Numbers
 
@@ -1032,6 +1032,8 @@
 
 #### 2559. Count Vowel Strings in Ranges
 
+#### 2560. House Robber IV
+
 #### 2563. Count the Number of Fair Pairs
 
 #### 2579. Count Total Number of Colored Cells
@@ -1053,6 +1055,8 @@
 #### 2683. Neighboring Bitwise XOR
 
 #### 2684. Maximum Number of Moves in a Grid
+
+#### 2685. Count the Number of Complete Components
 
 #### 2698. Find the Punishment Number of an Integer
 
@@ -1213,4 +1217,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 600
+### Total finish 602
