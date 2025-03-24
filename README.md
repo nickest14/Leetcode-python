@@ -414,7 +414,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 355
+### Medium finish 356
 
 #### 2. Add Two Numbers
 
@@ -922,6 +922,8 @@
 
 #### 1975. Maximum Matrix Sum
 
+#### 1976. Number of Ways to Arrive at Destination
+
 #### 1980. Find Unique Binary String
 
 #### 1985. Find the Kth Largest Integer in the Array
@@ -1217,4 +1219,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 602
+### Total finish 603

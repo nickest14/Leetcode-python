@@ -22,7 +22,7 @@ class Solution:
 
         meeting_days = 0
         for start, end in m_meetings:
-            meeting_days += (end - start + 1)
+            meeting_days += end - start + 1
 
         return days - meeting_days
 
