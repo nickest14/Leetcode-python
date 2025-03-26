@@ -414,7 +414,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 356
+### Medium finish 358
 
 #### 2. Add Two Numbers
 
@@ -938,6 +938,8 @@
 
 #### 2028. Find Missing Observations
 
+#### 2033. Minimum Operations to Make a Uni-Value Grid
+
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
 
 #### 2054. Two Best Non-Overlapping Events
@@ -1126,6 +1128,8 @@
 
 #### 3356. Zero Array Transformation II
 
+#### 3394. Check if Grid can be Cut into Sections
+
 
 ### Hard finish 44
 
@@ -1219,4 +1223,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 603
+### Total finish 605
