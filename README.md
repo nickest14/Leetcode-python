@@ -414,7 +414,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 358
+### Medium finish 359
 
 #### 2. Add Two Numbers
 
@@ -1070,6 +1070,8 @@
 
 #### 2779. Maximum Beauty of an Array After Applying Operation
 
+#### 2780. Minimum Index of a Valid Split
+
 #### 2807. Insert Greatest Common Divisors in Linked List
 
 #### 2825. Make String a Subsequence Using Cyclic Increments
@@ -1131,7 +1133,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 44
+### Hard finish 45
 
 #### 23. Merge k Sorted Lists
 
@@ -1209,6 +1211,8 @@
 
 #### 2493. Divide Nodes Into the Maximum Number of Groups
 
+#### 2503. Maximum Number of Points From Grid Queries
+
 #### 2577. Minimum Time to Visit a Cell In a Grid
 
 #### 2699. Modify Graph Edge Weights
@@ -1223,4 +1227,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 605
+### Total finish 607
