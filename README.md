@@ -1133,7 +1133,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 45
+### Hard finish 47
 
 #### 23. Merge k Sorted Lists
 
@@ -1213,11 +1213,15 @@
 
 #### 2503. Maximum Number of Points From Grid Queries
 
+#### 2551. Put Marbles in Bags
+
 #### 2577. Minimum Time to Visit a Cell In a Grid
 
 #### 2699. Modify Graph Edge Weights
 
 #### 2751. Robot Collisions
+
+#### 2818. Apply Operations to Maximize Score
 
 #### 2872. Maximum Number of K-Divisible Components
 
@@ -1227,4 +1231,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 607
+### Total finish 609

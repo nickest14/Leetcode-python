@@ -5,14 +5,14 @@ from typing import List
 
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        ans = []
-        count = {}
+        ans: list[int] = []
+        last_occurence: dict[int, int] = {}
         for ind, c in enumerate(s):
-            count[c] = ind
+            last_occurence[c] = ind
 
         goal, cur_len = 0, 0
         for ind, c in enumerate(s):
-            goal = max(goal, count[c])
+            goal = max(goal, last_occurence[c])
             cur_len += 1
             if goal == ind:
                 ans.append(cur_len)
@@ -20,5 +20,5 @@ class Solution:
         return ans
 
 
-ans = Solution().partitionLabels('ababcbacadefegdehijhklij')
+ans = Solution().partitionLabels("ababcbacadefegdehijhklij")
 print(ans)
