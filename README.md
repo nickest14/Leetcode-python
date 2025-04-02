@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 202
+### Easy finish 203
 
 #### 1. Two Sum
 
@@ -396,6 +396,8 @@
 
 #### 2696. Minimum String Length After Removing Substrings
 
+#### 2873. Maximum Value of an Ordered Triplet I
+
 #### 2965. Find Missing and Repeated Values
 
 #### 3042. Count Prefix and Suffix Pairs I
@@ -414,7 +416,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 359
+### Medium finish 360
 
 #### 2. Add Two Numbers
 
@@ -960,6 +962,8 @@
 
 #### 2134. Minimum Swaps to Group All 1's Together II
 
+#### 2140. Solving Questions With Brainpower
+
 #### 2161. Partition Array According to Given Pivot
 
 #### 2181. Merge Nodes in Between Zeros
@@ -1231,4 +1235,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 609
+### Total finish 611
