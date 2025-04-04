@@ -416,7 +416,7 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 360
+### Medium finish 362
 
 #### 2. Add Two Numbers
 
@@ -770,6 +770,8 @@
 
 #### 1110. Delete Nodes And Return Forest
 
+#### 1123. Lowest Common Ancestor of Deepest Leaves
+
 #### 1140. Stone Game II
 
 #### 1143. Longest Common Subsequence
@@ -1080,6 +1082,8 @@
 
 #### 2825. Make String a Subsequence Using Cyclic Increments
 
+#### 2874. Maximum Value of an Ordered Triplet II
+
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 
 #### 2924. Find Champion II
@@ -1235,4 +1239,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 611
+### Total finish 613
