@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 204
+### Easy finish 205
 
 #### 1. Two Sum
 
@@ -418,7 +418,9 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
-### Medium finish 363
+#### 3396. Minimum Number of Operations to Make Elements in Array Distinct
+
+### Medium finish 364
 
 #### 2. Add Two Numbers
 
@@ -625,6 +627,8 @@
 #### 402. Remove K Digits
 
 #### 406. Queue Reconstruction by Height
+
+#### 416. Partition Equal Subset Sum
 
 #### 417. Pacific Atlantic Water Flow
 
@@ -1243,4 +1247,4 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 615
+### Total finish 617
