@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 205
+### Easy finish 207
 
 #### 1. Two Sum
 
@@ -398,6 +398,8 @@
 
 #### 2696. Minimum String Length After Removing Substrings
 
+#### 2843. Count Symmetric Integers
+
 #### 2873. Maximum Value of an Ordered Triplet I
 
 #### 2965. Find Missing and Repeated Values
@@ -417,6 +419,8 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 #### 3264. Final Array State After K Multiplication Operations I
+
+#### 3375. Minimum Operations to Make Array Values Equal to K
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
@@ -1149,7 +1153,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 47
+### Hard finish 48
 
 #### 23. Merge k Sorted Lists
 
@@ -1243,8 +1247,10 @@
 
 #### 2940. Find Building Where Alice and Bob Can Meet
 
+#### 2999. Count the Number of Powerful Integers
+
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 617
+### Total finish 620
