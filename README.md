@@ -424,7 +424,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 364
+### Medium finish 365
 
 #### 2. Add Two Numbers
 
@@ -926,6 +926,8 @@
 
 #### 1911. Maximum Alternating Subsequence Sum
 
+#### 1922. Count Good Numbers
+
 #### 1930. Unique Length-3 Palindromic Subsequences
 
 #### 1937. Maximum Number of Points with Cost
@@ -1153,7 +1155,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 48
+### Hard finish 49
 
 #### 23. Merge k Sorted Lists
 
@@ -1253,4 +1255,6 @@
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
-### Total finish 620
+#### 3272. Find the Count of Good Integers
+
+### Total finish 622
