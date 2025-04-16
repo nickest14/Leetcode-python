@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 207
+### Easy finish 208
 
 #### 1. Two Sum
 
@@ -308,6 +308,8 @@
 
 #### 1518. Water Bottles
 
+#### 1534. Count Good Triplets
+
 #### 1539. Kth Missing Positive Number
 
 #### 1550. Three Consecutive Odds
@@ -424,7 +426,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 365
+### Medium finish 366
 
 #### 2. Add Two Numbers
 
@@ -1052,6 +1054,8 @@
 
 #### 2530. Maximal Score After Applying K Operations
 
+#### 2537. Count the Number of Good Subarrays
+
 #### 2554. Maximum Number of Integers to Choose From a Range I
 
 #### 2559. Count Vowel Strings in Ranges
@@ -1155,7 +1159,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 49
+### Hard finish 50
 
 #### 23. Merge k Sorted Lists
 
@@ -1221,6 +1225,8 @@
 
 #### 2127. Maximum Employees to Be Invited to a Meeting
 
+#### 2179. Count Good Triplets in an Array
+
 #### 2290. Minimum Obstacle Removal to Reach Corner
 
 #### 2392. Build a Matrix With Conditions
@@ -1257,4 +1263,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 622
+### Total finish 625
