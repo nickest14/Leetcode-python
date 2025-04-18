@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 208
+### Easy finish 209
 
 #### 1. Two Sum
 
@@ -374,6 +374,8 @@
 
 #### 2053. Kth Distinct String in an Array
 
+#### 2176. Count Equal and Divisible Pairs in an Array
+
 #### 2185. Counting Words With a Given Prefix
 
 #### 2215. Find the Difference of Two Arrays
@@ -426,7 +428,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 366
+### Medium finish 367
 
 #### 2. Add Two Numbers
 
@@ -455,6 +457,8 @@
 #### 34. Find First and Last Position of Element in Sorted Array
 
 #### 36. Valid Sudoku
+
+#### 38. Count and Say
 
 #### 39. Combination Sum
 
@@ -1263,4 +1267,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 625
+### Total finish 627
