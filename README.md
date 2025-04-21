@@ -428,7 +428,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 367
+### Medium finish 369
 
 #### 2. Add Two Numbers
 
@@ -714,6 +714,8 @@
 
 #### 769. Max Chunks To Make Sorted
 
+#### 781. Rabbits in Forest
+
 #### 785. Is Graph Bipartite?
 
 #### 787. Cheapest Flights Within K Stops
@@ -985,6 +987,8 @@
 #### 2134. Minimum Swaps to Group All 1's Together II
 
 #### 2140. Solving Questions With Brainpower
+
+#### 2145. Count the Hidden Sequences
 
 #### 2161. Partition Array According to Given Pivot
 
@@ -1267,4 +1271,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 627
+### Total finish 629
