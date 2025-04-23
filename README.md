@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 209
+### Easy finish 210
 
 #### 1. Two Sum
 
@@ -295,6 +295,8 @@
 #### 1346. Check If N and Its Double Exist
 
 #### 1380. Lucky Numbers in a Matrix
+
+#### 1399. Count Largest Group
 
 #### 1408. String Matching in an Array
 
@@ -1167,7 +1169,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 50
+### Hard finish 51
 
 #### 23. Merge k Sorted Lists
 
@@ -1237,6 +1239,8 @@
 
 #### 2290. Minimum Obstacle Removal to Reach Corner
 
+#### 2338. Count the Number of Ideal Arrays
+
 #### 2392. Build a Matrix With Conditions
 
 #### 2416. Sum of Prefix Scores of Strings
@@ -1271,4 +1275,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 629
+### Total finish 631
