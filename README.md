@@ -430,7 +430,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 369
+### Medium finish 371
 
 #### 2. Add Two Numbers
 
@@ -1106,9 +1106,13 @@
 
 #### 2780. Minimum Index of a Valid Split
 
+#### 2799. Count Complete Subarrays in an Array
+
 #### 2807. Insert Greatest Common Divisors in Linked List
 
 #### 2825. Make String a Subsequence Using Cyclic Increments
+
+#### 2845. Count of Interesting Subarrays
 
 #### 2874. Maximum Value of an Ordered Triplet II
 
@@ -1275,4 +1279,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 631
+### Total finish 633
