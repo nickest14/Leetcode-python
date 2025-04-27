@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 210
+### Easy finish 211
 
 #### 1. Two Sum
 
@@ -427,6 +427,8 @@
 #### 3264. Final Array State After K Multiplication Operations I
 
 #### 3375. Minimum Operations to Make Array Values Equal to K
+
+#### 3392. Count Subarrays of Length Three With a Condition
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
@@ -1173,7 +1175,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 51
+### Hard finish 52
 
 #### 23. Merge k Sorted Lists
 
@@ -1249,6 +1251,8 @@
 
 #### 2416. Sum of Prefix Scores of Strings
 
+#### 2444. Count Subarrays With Fixed Bounds
+
 #### 2458. Height of Binary Tree After Subtree Removal Queries
 
 #### 2463. Minimum Total Distance Traveled
@@ -1279,4 +1283,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 633
+### Total finish 635
