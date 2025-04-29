@@ -432,7 +432,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 371
+### Medium finish 372
 
 #### 2. Add Two Numbers
 
@@ -1126,6 +1126,8 @@
 
 #### 2948. Make Lexicographically Smallest Array by Swapping Elements
 
+#### 2962. Count Subarrays Where Max Element Appears at Least K Times
+
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 
 #### 3011. Find if Array Can Be Sorted
@@ -1175,7 +1177,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 52
+### Hard finish 53
 
 #### 23. Merge k Sorted Lists
 
@@ -1245,6 +1247,8 @@
 
 #### 2290. Minimum Obstacle Removal to Reach Corner
 
+#### 2302. Count Subarrays With Score Less Than K
+
 #### 2338. Count the Number of Ideal Arrays
 
 #### 2392. Build a Matrix With Conditions
@@ -1283,4 +1287,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 635
+### Total finish 637
