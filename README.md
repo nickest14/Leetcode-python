@@ -434,7 +434,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 372
+### Medium finish 373
 
 #### 2. Add Two Numbers
 
@@ -777,6 +777,8 @@
 #### 974. Subarray Sums Divisible by K
 
 #### 983. Minimum Cost For Tickets
+
+#### 1007. Minimum Domino Rotations For Equal Row
 
 #### 1014. Best Sightseeing Pair
 
@@ -1291,4 +1293,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 639
+### Total finish 640

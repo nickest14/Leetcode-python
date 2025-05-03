@@ -12,7 +12,7 @@ class Solution:
             i = 0
             j = n - mid
             queue: int = []
-            
+
             while j < n:
                 w = workers[j]
                 while i < mid and tasks[i] <= w + strength:
@@ -21,7 +21,7 @@ class Solution:
 
                 if not queue:
                     return False
-                
+
                 if queue[0] <= w:
                     queue.pop(0)
                 elif queue[0] > w and pills == 0:
