@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 212
+### Easy finish 214
 
 #### 1. Two Sum
 
@@ -278,6 +278,8 @@
 
 #### 1122. Relative Sort Array
 
+#### 1128. Number of Equivalent Domino Pairs
+
 #### 1189. Maximum Number of Balloons
 
 #### 1295. Find Numbers with Even Number of Digits
@@ -364,6 +366,8 @@
 
 #### 1903. Largest Odd Number in String
 
+#### 1920. Build Array from Permutation
+
 #### 1929. Concatenation of Array
 
 #### 1945. Sum of Digits of String After Convert
@@ -434,7 +438,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 373
+### Medium finish 374
 
 #### 2. Add Two Numbers
 
@@ -725,6 +729,8 @@
 #### 785. Is Graph Bipartite?
 
 #### 787. Cheapest Flights Within K Stops
+
+#### 790. Domino and Tromino Tiling
 
 #### 802. Find Eventual Safe States
 
@@ -1293,4 +1299,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 640
+### Total finish 643
