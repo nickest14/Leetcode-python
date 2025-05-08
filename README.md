@@ -438,7 +438,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 374
+### Medium finish 376
 
 #### 2. Add Two Numbers
 
@@ -1182,6 +1182,10 @@
 
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 
+#### 3341. Find Minimum Time to Reach Last Room I
+
+#### 3342. Find Minimum Time to Reach Last Room II
+
 #### 3356. Zero Array Transformation II
 
 #### 3394. Check if Grid can be Cut into Sections
@@ -1299,4 +1303,4 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 643
+### Total finish 645
