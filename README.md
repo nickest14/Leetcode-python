@@ -438,7 +438,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 376
+### Medium finish 377
 
 #### 2. Add Two Numbers
 
@@ -1130,6 +1130,8 @@
 
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 
+#### 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
+
 #### 2924. Find Champion II
 
 #### 2938. Separate Black and White Balls
@@ -1191,7 +1193,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 54
+### Hard finish 55
 
 #### 23. Merge k Sorted Lists
 
@@ -1303,4 +1305,6 @@
 
 #### 3272. Find the Count of Good Integers
 
-### Total finish 645
+#### 3343. Count Number of Balanced Permutations
+
+### Total finish 647
