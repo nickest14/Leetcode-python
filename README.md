@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 214
+### Easy finish 215
 
 #### 1. Two Sum
 
@@ -382,6 +382,8 @@
 
 #### 2053. Kth Distinct String in an Array
 
+#### 2094. Finding 3-Digit Even Numbers
+
 #### 2176. Count Equal and Divisible Pairs in an Array
 
 #### 2185. Counting Words With a Given Prefix
@@ -438,7 +440,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 377
+### Medium finish 378
 
 #### 2. Add Two Numbers
 
@@ -1184,6 +1186,8 @@
 
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 
+#### 3335. Total Characters in String After Transformations I
+
 #### 3341. Find Minimum Time to Reach Last Room I
 
 #### 3342. Find Minimum Time to Reach Last Room II
@@ -1307,4 +1311,4 @@
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 647
+### Total finish 649
