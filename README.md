@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 215
+### Easy finish 216
 
 #### 1. Two Sum
 
@@ -416,6 +416,8 @@
 
 #### 2873. Maximum Value of an Ordered Triplet I
 
+#### 2900. Longest Unequal Adjacent Groups Subsequence I
+
 #### 2965. Find Missing and Repeated Values
 
 #### 3042. Count Prefix and Suffix Pairs I
@@ -440,7 +442,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 378
+### Medium finish 379
 
 #### 2. Add Two Numbers
 
@@ -1130,6 +1132,8 @@
 
 #### 2874. Maximum Value of an Ordered Triplet II
 
+#### 2901. Longest Unequal Adjacent Groups Subsequence II
+
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 
 #### 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
@@ -1197,7 +1201,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 55
+### Hard finish 56
 
 #### 23. Merge k Sorted Lists
 
@@ -1309,6 +1313,8 @@
 
 #### 3272. Find the Count of Good Integers
 
+#### 3337. Total Characters in String After Transformations II
+
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 649
+### Total finish 652
