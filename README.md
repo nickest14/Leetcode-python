@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 216
+### Easy finish 217
 
 #### 1. Two Sum
 
@@ -420,6 +420,8 @@
 
 #### 2965. Find Missing and Repeated Values
 
+#### 3024. Type of Triangle
+
 #### 3042. Count Prefix and Suffix Pairs I
 
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
@@ -442,7 +444,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 379
+### Medium finish 380
 
 #### 2. Add Two Numbers
 
@@ -1196,12 +1198,14 @@
 
 #### 3342. Find Minimum Time to Reach Last Room II
 
+#### 3355. Zero Array Transformation I
+
 #### 3356. Zero Array Transformation II
 
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 56
+### Hard finish 57
 
 #### 23. Merge k Sorted Lists
 
@@ -1261,6 +1265,8 @@
 
 #### 1671. Minimum Number of Removals to Make Mountain Array
 
+#### 1931. Painting a Grid With Three Different Colors
+
 #### 2045. Second Minimum Time to Reach Destination
 
 #### 2071. Maximum Number of Tasks You Can Assign
@@ -1317,4 +1323,4 @@
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 652
+### Total finish 655
