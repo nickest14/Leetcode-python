@@ -444,7 +444,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 380
+### Medium finish 381
 
 #### 2. Add Two Numbers
 
@@ -1202,10 +1202,12 @@
 
 #### 3356. Zero Array Transformation II
 
+#### 3362. Zero Array Transformation III
+
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 57
+### Hard finish 58
 
 #### 23. Merge k Sorted Lists
 
@@ -1313,6 +1315,8 @@
 
 #### 2999. Count the Number of Powerful Integers
 
+#### 3068. Find the Maximum Sum of Node Values
+
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
 #### 3203. Find Minimum Diameter After Merging Two Trees
@@ -1323,4 +1327,4 @@
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 655
+### Total finish 657

@@ -9,7 +9,7 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         rows, cols = len(matrix), len(matrix[0])
-        row_zero = False
+        row_zero: bool = False
 
         # determine which rows/cols need to be zero
         for r in range(rows):
