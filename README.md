@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 217
+### Easy finish 218
 
 #### 1. Two Sum
 
@@ -418,6 +418,8 @@
 
 #### 2900. Longest Unequal Adjacent Groups Subsequence I
 
+#### 2942. Find Words Containing Character
+
 #### 2965. Find Missing and Repeated Values
 
 #### 3024. Type of Triangle
@@ -444,7 +446,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 381
+### Medium finish 382
 
 #### 2. Add Two Numbers
 
@@ -1004,6 +1006,8 @@
 
 #### 2130. Maximum Twin Sum of a Linked List
 
+#### 2131. Longest Palindrome by Concatenating Two Letter Words
+
 #### 2134. Minimum Swaps to Group All 1's Together II
 
 #### 2140. Solving Questions With Brainpower
@@ -1327,4 +1331,4 @@
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 657
+### Total finish 659
