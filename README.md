@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 218
+### Easy finish 219
 
 #### 1. Two Sum
 
@@ -416,6 +416,8 @@
 
 #### 2873. Maximum Value of an Ordered Triplet I
 
+#### 2894. Divisible and Non-divisible Sums Difference
+
 #### 2900. Longest Unequal Adjacent Groups Subsequence I
 
 #### 2942. Find Words Containing Character
@@ -446,7 +448,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 382
+### Medium finish 383
 
 #### 2. Add Two Numbers
 
@@ -1208,10 +1210,12 @@
 
 #### 3362. Zero Array Transformation III
 
+#### 3372. Maximize the Number of Target Nodes After Connecting Trees I
+
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 58
+### Hard finish 59
 
 #### 23. Merge k Sorted Lists
 
@@ -1270,6 +1274,8 @@
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 
 #### 1671. Minimum Number of Removals to Make Mountain Array
+
+#### 1857. Largest Color Value in a Directed Graph
 
 #### 1931. Painting a Grid With Three Different Colors
 
@@ -1331,4 +1337,4 @@
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 659
+### Total finish 662
