@@ -448,7 +448,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 383
+### Medium finish 384
 
 #### 2. Add Two Numbers
 
@@ -1048,6 +1048,8 @@
 
 #### 2349. Design a Number Container System
 
+#### 2359. Find Closest Node to Given Two Nodes
+
 #### 2364. Count Number of Bad Pairs
 
 #### 2375. Construct Smallest Number From DI String
@@ -1215,7 +1217,7 @@
 #### 3394. Check if Grid can be Cut into Sections
 
 
-### Hard finish 59
+### Hard finish 60
 
 #### 23. Merge k Sorted Lists
 
@@ -1333,8 +1335,10 @@
 
 #### 3272. Find the Count of Good Integers
 
+#### 3373. Maximize the Number of Target Nodes After Connecting Trees II
+
 #### 3337. Total Characters in String After Transformations II
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 662
+### Total finish 664
