@@ -448,7 +448,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 384
+### Medium finish 385
 
 #### 2. Add Two Numbers
 
@@ -1150,6 +1150,8 @@
 
 #### 2924. Find Champion II
 
+#### 2929. Distribute Candies Among Children II
+
 #### 2938. Separate Black and White Balls
 
 #### 2948. Make Lexicographically Smallest Array by Swapping Elements
@@ -1341,4 +1343,4 @@
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 664
+### Total finish 665

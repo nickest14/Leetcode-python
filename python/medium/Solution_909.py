@@ -6,18 +6,18 @@ from collections import deque
 
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
-        length = len(board)
+        length: int = len(board)
 
-        def int_to_pos(square):
+        def int_to_pos(square: int) -> list[int]:
             r = length - 1 - ((square - 1) // length)
             c = (square - 1) % length
             if (length % 2 == 0 and r % 2 == 0) or (length % 2 != 0 and r % 2 != 0):
                 c = length - 1 - c
             return [r, c]
 
-        q = deque()  # [square, moves]
-        q.append([1, 0])
-        visit = set()
+        q: deque[tuple[int, int]] = deque()  # (square, moves)
+        q.append((1, 0))
+        visit: set[int] = set()
         while q:
             square, moves = q.popleft()
             for i in range(1, 7):
@@ -29,7 +29,7 @@ class Solution:
                     return moves + 1
                 if next_square not in visit:
                     visit.add(next_square)
-                    q.append([next_square, moves + 1])
+                    q.append((next_square, moves + 1))
         return -1
 
 

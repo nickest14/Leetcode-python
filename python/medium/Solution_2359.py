@@ -20,7 +20,7 @@ class Solution:
         dist1 = dist_to_node(node1)
         dist2 = dist_to_node(node2)
 
-        min_max = float('inf')
+        min_max = float("inf")
         ans: int = -1
         for i in range(n):
             if dist1[i] != -1 and dist2[i] != -1:
@@ -28,7 +28,7 @@ class Solution:
                 if current_max < min_max:
                     min_max = current_max
                     ans = i
-        
+
         return ans
 
 
