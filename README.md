@@ -448,7 +448,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 385
+### Medium finish 386
 
 #### 2. Add Two Numbers
 
@@ -1218,8 +1218,10 @@
 
 #### 3394. Check if Grid can be Cut into Sections
 
+#### 3403. Find the Lexicographically Largest String From the Box I
 
-### Hard finish 60
+
+### Hard finish 62
 
 #### 23. Merge k Sorted Lists
 
@@ -1228,6 +1230,8 @@
 #### 84. Largest Rectangle in Histogram
 
 #### 126. Word Ladder II
+
+#### 135. Candy
 
 #### 145. Binary Tree Postorder Traversal
 
@@ -1268,6 +1272,8 @@
 #### 1092. Shortest Common Supersequence
 
 #### 1106. Parsing A Boolean Expression
+
+#### 1298. Maximum Candies You Can Get from Boxes
 
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 
@@ -1343,4 +1349,4 @@
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 665
+### Total finish 668
