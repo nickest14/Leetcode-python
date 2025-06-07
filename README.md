@@ -448,7 +448,7 @@
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
 
-### Medium finish 386
+### Medium finish 388
 
 #### 2. Add Two Numbers
 
@@ -804,6 +804,8 @@
 
 #### 1052. Grumpy Bookstore Owner
 
+#### 1061. Lexicographically Smallest Equivalent String
+
 #### 1072. Flip Columns For Maximum Number of Equal Rows
 
 #### 1079. Letter Tile Possibilities
@@ -1067,6 +1069,8 @@
 #### 2425. Bitwise XOR of All Pairings
 
 #### 2429. Minimize XOR
+
+#### 2434. Using a Robot to Print the Lexicographically Smallest String
 
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 
@@ -1349,4 +1353,4 @@
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 668
+### Total finish 670
