@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 219
+### Easy finish 221
 
 #### 1. Two Sum
 
@@ -447,6 +447,10 @@
 #### 3392. Count Subarrays of Length Three With a Condition
 
 #### 3396. Minimum Number of Operations to Make Elements in Array Distinct
+
+#### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
+
+#### 3442. Maximum Difference Between Even and Odd Frequency I
 
 ### Medium finish 388
 
@@ -1225,7 +1229,7 @@
 #### 3403. Find the Lexicographically Largest String From the Box I
 
 
-### Hard finish 62
+### Hard finish 63
 
 #### 23. Merge k Sorted Lists
 
@@ -1353,4 +1357,7 @@
 
 #### 3343. Count Number of Balanced Permutations
 
-### Total finish 670
+#### 3445. Maximum Difference Between Even and Odd Frequency II
+
+
+### Total finish 673
