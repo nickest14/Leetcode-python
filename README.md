@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 221
+### Easy finish 222
 
 #### 1. Two Sum
 
@@ -404,6 +404,8 @@
 
 #### 2558. Take Gifts From the Richest Pile
 
+#### 2566. Maximum Difference by Remapping a Digit
+
 #### 2570. Merge Two 2D Arrays by Summing Values
 
 #### 2582. Pass the Pillow
@@ -452,7 +454,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 388
+### Medium finish 389
 
 #### 2. Add Two Numbers
 
@@ -1116,6 +1118,8 @@
 
 #### 2601. Prime Subtraction Operation
 
+#### 2616. Minimize the Maximum Difference of Pairs
+
 #### 2641. Cousins in Binary Tree II
 
 #### 2657. Find the Prefix Common Array of Two Arrays
@@ -1360,4 +1364,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 673
+### Total finish 675
