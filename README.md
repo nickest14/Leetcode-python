@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 222
+### Easy finish 223
 
 #### 1. Two Sum
 
@@ -376,6 +376,8 @@
 
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
+#### 2016. Maximum Difference Between Increasing Elements
+
 #### 2022. Convert 1D Array Into 2D Array
 
 #### 2037. Minimum Number of Moves to Seat Everyone
@@ -454,7 +456,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 389
+### Medium finish 390
 
 #### 2. Add Two Numbers
 
@@ -879,6 +881,8 @@
 #### 1409. Queries on a Permutation With Key
 
 #### 1415. The k-th Lexicographical String of All Happy Strings of Length n
+
+#### 1432. Max Difference You Can Get From Changing an Integer
 
 #### 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
 
@@ -1364,4 +1368,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 675
+### Total finish 677
