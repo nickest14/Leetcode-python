@@ -456,7 +456,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 390
+### Medium finish 392
 
 #### 2. Add Two Numbers
 
@@ -1050,6 +1050,8 @@
 
 #### 2285. Maximum Total Importance of Roads
 
+#### 2294. Partition Array Such That Maximum Difference Is K
+
 #### 2326. Spiral Matrix IV
 
 #### 2337. Move Pieces to Obtain a String
@@ -1174,6 +1176,8 @@
 
 #### 2962. Count Subarrays Where Max Element Appears at Least K Times
 
+#### 2966. Divide Array Into Arrays With Max Difference
+
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 
 #### 3011. Find if Array Can Be Sorted
@@ -1237,7 +1241,7 @@
 #### 3403. Find the Lexicographically Largest String From the Box I
 
 
-### Hard finish 63
+### Hard finish 64
 
 #### 23. Merge k Sorted Lists
 
@@ -1365,7 +1369,9 @@
 
 #### 3343. Count Number of Balanced Permutations
 
+#### 3405. Count the Number of Arrays with K Matching Adjacent Elements
+
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 677
+### Total finish 680
