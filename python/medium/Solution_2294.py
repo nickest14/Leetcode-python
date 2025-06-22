@@ -14,5 +14,6 @@ class Solution:
                 min_num = num
         return ans
 
-ans = Solution().partitionArray([3,6,1,2,5], 2)
+
+ans = Solution().partitionArray([3, 6, 1, 2, 5], 2)
 print(ans)

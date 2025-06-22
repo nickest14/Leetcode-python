@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 223
+### Easy finish 227
 
 #### 1. Two Sum
 
@@ -386,6 +386,8 @@
 
 #### 2094. Finding 3-Digit Even Numbers
 
+#### 2138. Divide a String Into Groups of Size k
+
 #### 2176. Count Equal and Divisible Pairs in an Array
 
 #### 2185. Counting Words With a Given Prefix
@@ -456,7 +458,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 392
+### Medium finish 393
 
 #### 2. Add Two Numbers
 
@@ -1188,6 +1190,8 @@
 
 #### 3066. Minimum Operations to Exceed Threshold Value II
 
+#### 3085. Minimum Deletions to Make String K-Special
+
 #### 3097. Shortest Subarray With OR at Least K II
 
 #### 3133. Minimum Array End
@@ -1240,8 +1244,9 @@
 
 #### 3403. Find the Lexicographically Largest String From the Box I
 
+#### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 64
+### Hard finish 65
 
 #### 23. Merge k Sorted Lists
 
@@ -1374,4 +1379,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 680
+### Total finish 685
