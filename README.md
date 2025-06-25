@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 227
+### Easy finish 228
 
 #### 1. Two Sum
 
@@ -391,6 +391,8 @@
 #### 2176. Count Equal and Divisible Pairs in an Array
 
 #### 2185. Counting Words With a Given Prefix
+
+#### 2200. Find All K-Distant Indices in an Array
 
 #### 2215. Find the Difference of Two Arrays
 
@@ -1246,7 +1248,7 @@
 
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 65
+### Hard finish 67
 
 #### 23. Merge k Sorted Lists
 
@@ -1314,9 +1316,13 @@
 
 #### 1931. Painting a Grid With Three Different Colors
 
+#### 2040. Kth Smallest Product of Two Sorted Arrays
+
 #### 2045. Second Minimum Time to Reach Destination
 
 #### 2071. Maximum Number of Tasks You Can Assign
+
+#### 2081. Sum of k-Mirror Numbers
 
 #### 2097. Valid Arrangement of Pairs
 
@@ -1379,4 +1385,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 685
+### Total finish 688
