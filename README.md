@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 228
+### Easy finish 229
 
 #### 1. Two Sum
 
@@ -386,6 +386,8 @@
 
 #### 2094. Finding 3-Digit Even Numbers
 
+#### 2099. Find Subsequence of Length K With the Largest Sum
+
 #### 2138. Divide a String Into Groups of Size k
 
 #### 2176. Count Equal and Divisible Pairs in an Array
@@ -460,7 +462,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 393
+### Medium finish 394
 
 #### 2. Add Two Numbers
 
@@ -1056,6 +1058,8 @@
 
 #### 2294. Partition Array Such That Maximum Difference Is K
 
+#### 2311. Longest Binary Subsequence Less Than or Equal to K
+
 #### 2326. Spiral Matrix IV
 
 #### 2337. Move Pieces to Obtain a String
@@ -1248,7 +1252,7 @@
 
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 67
+### Hard finish 68
 
 #### 23. Merge k Sorted Lists
 
@@ -1315,6 +1319,8 @@
 #### 1857. Largest Color Value in a Directed Graph
 
 #### 1931. Painting a Grid With Three Different Colors
+
+#### 2014. Longest Subsequence Repeated k Times
 
 #### 2040. Kth Smallest Product of Two Sorted Arrays
 
@@ -1385,4 +1391,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 688
+### Total finish 691
