@@ -18,5 +18,5 @@ class Solution:
         return ans % mod
 
 
-ans = Solution().numSubseq([3, 5, 6, 7], 999)
+ans = Solution().numSubseq([3, 5, 6, 7], 9)
 print(ans)

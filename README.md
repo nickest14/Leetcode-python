@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 229
+### Easy finish 230
 
 #### 1. Two Sum
 
@@ -451,6 +451,8 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 #### 3264. Final Array State After K Multiplication Operations I
+
+#### 3330. Find the Original Typed String I
 
 #### 3375. Minimum Operations to Make Array Values Equal to K
 
@@ -1391,4 +1393,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 691
+### Total finish 692
