@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 230
+### Easy finish 231
 
 #### 1. Two Sum
 
@@ -451,6 +451,8 @@
 #### 3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 #### 3264. Final Array State After K Multiplication Operations I
+
+#### 3304. Find the K-th Character in String Game I
 
 #### 3330. Find the Original Typed String I
 
@@ -1254,7 +1256,7 @@
 
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 68
+### Hard finish 70
 
 #### 23. Merge k Sorted Lists
 
@@ -1382,15 +1384,19 @@
 
 #### 3272. Find the Count of Good Integers
 
-#### 3373. Maximize the Number of Target Nodes After Connecting Trees II
+#### 3307. Find the K-th Character in String Game II
+
+#### 3333. Find the Original Typed String II
 
 #### 3337. Total Characters in String After Transformations II
 
 #### 3343. Count Number of Balanced Permutations
+
+#### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
 #### 3405. Count the Number of Arrays with K Matching Adjacent Elements
 
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 692
+### Total finish 695
