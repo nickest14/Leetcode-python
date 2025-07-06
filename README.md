@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 231
+### Easy finish 232
 
 #### 1. Two Sum
 
@@ -300,6 +300,8 @@
 
 #### 1380. Lucky Numbers in a Matrix
 
+#### 1394. Find Lucky Integer in an Array
+
 #### 1399. Count Largest Group
 
 #### 1408. String Matching in an Array
@@ -466,7 +468,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 394
+### Medium finish 395
 
 #### 2. Add Two Numbers
 
@@ -968,6 +970,8 @@
 
 #### 1861. Rotating the Box
 
+#### 1865. Finding Pairs With a Certain Sum
+
 #### 1888. Minimum Number of Flips to Make the Binary String Alternating
 
 #### 1894. Find the Student that Will Replace the Chalk
@@ -1399,4 +1403,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 695
+### Total finish 697
