@@ -468,7 +468,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 395
+### Medium finish 396
 
 #### 2. Add Two Numbers
 
@@ -870,6 +870,8 @@
 
 #### 1352. Product of the Last K Numbers
 
+#### 1353. Maximum Number of Events That Can Be Attended
+
 #### 1358. Number of Substrings Containing All Three Characters
 
 #### 1367. Linked List in Binary Tree
@@ -1260,7 +1262,7 @@
 
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 70
+### Hard finish 71
 
 #### 23. Merge k Sorted Lists
 
@@ -1323,6 +1325,8 @@
 #### 1639. Number of Ways to Form a Target String Given a Dictionary
 
 #### 1671. Minimum Number of Removals to Make Mountain Array
+
+#### 1751. Maximum Number of Events That Can Be Attended II
 
 #### 1857. Largest Color Value in a Directed Graph
 
@@ -1403,4 +1407,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 697
+### Total finish 699
