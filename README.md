@@ -468,7 +468,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 396
+### Medium finish 398
 
 #### 2. Add Two Numbers
 
@@ -1260,9 +1260,13 @@
 
 #### 3403. Find the Lexicographically Largest String From the Box I
 
+#### 3439. Reschedule Meetings for Maximum Free Time I
+
+#### 3440. Reschedule Meetings for Maximum Free Time II
+
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 71
+### Hard finish 72
 
 #### 23. Merge k Sorted Lists
 
@@ -1356,6 +1360,8 @@
 
 #### 2392. Build a Matrix With Conditions
 
+#### 2402. Meeting Rooms III
+
 #### 2416. Sum of Prefix Scores of Strings
 
 #### 2444. Count Subarrays With Fixed Bounds
@@ -1407,4 +1413,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 699
+### Total finish 702
