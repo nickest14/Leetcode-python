@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 232
+### Easy finish 234
 
 #### 1. Two Sum
 
@@ -282,6 +282,8 @@
 
 #### 1189. Maximum Number of Balloons
 
+#### 1290. Convert Binary Number in a Linked List to Integer
+
 #### 1295. Find Numbers with Even Number of Digits
 
 #### 1299. Replace Elements with Greatest Element on Right Side
@@ -442,6 +444,8 @@
 
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
 
+#### 3136. Valid Word
+
 #### 3151. Special Array I
 
 #### 3168. Minimum Number of Chairs in a Waiting Room
@@ -468,7 +472,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 398
+### Medium finish 399
 
 #### 2. Add Two Numbers
 
@@ -1092,6 +1096,8 @@
 
 #### 2406. Divide Intervals Into Minimum Number of Groups
 
+#### 2410. Maximum Matching of Players With Trainers
+
 #### 2415. Reverse Odd Levels of Binary Tree
 
 #### 2419. Longest Subarray With Maximum Bitwise AND
@@ -1413,4 +1419,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 702
+### Total finish 705
