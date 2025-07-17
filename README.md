@@ -472,7 +472,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 399
+### Medium finish 401
 
 #### 2. Add Two Numbers
 
@@ -1236,6 +1236,10 @@
 
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
+#### 3201. Find the Maximum Length of Valid Subsequence I
+
+#### 3202. Find the Maximum Length of Valid Subsequence II
+
 #### 3208. Alternating Groups II
 
 #### 3217. Delete Nodes From Linked List Present in Array
@@ -1419,4 +1423,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 705
+### Total finish 707
