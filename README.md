@@ -472,7 +472,7 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
-### Medium finish 401
+### Medium finish 402
 
 #### 2. Add Two Numbers
 
@@ -944,6 +944,8 @@
 
 #### 1658. Minimum Operations to Reduce X to Zero
 
+#### 1695. Maximum Erasure Value
+
 #### 1701. Average Waiting Time
 
 #### 1717. Maximum Score From Removing Substrings
@@ -1276,7 +1278,7 @@
 
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 72
+### Hard finish 74
 
 #### 23. Merge k Sorted Lists
 
@@ -1346,6 +1348,8 @@
 
 #### 1931. Painting a Grid With Three Different Colors
 
+#### 1948. Delete Duplicate Folders in System
+
 #### 2014. Longest Subsequence Repeated k Times
 
 #### 2040. Kth Smallest Product of Two Sorted Arrays
@@ -1359,6 +1363,8 @@
 #### 2097. Valid Arrangement of Pairs
 
 #### 2127. Maximum Employees to Be Invited to a Meeting
+
+#### 2163. Minimum Difference in Sums After Removal of Elements
 
 #### 2179. Count Good Triplets in an Array
 
@@ -1423,4 +1429,4 @@
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
 
-### Total finish 707
+### Total finish 710
