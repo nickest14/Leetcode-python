@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 234
+### Easy finish 236
 
 #### 1. Two Sum
 
@@ -400,6 +400,8 @@
 
 #### 2200. Find All K-Distant Indices in an Array
 
+#### 2210. Count Hills and Valleys in an Array
+
 #### 2215. Find the Difference of Two Arrays
 
 #### 2220. Minimum Bit Flips to Convert Number
@@ -471,6 +473,8 @@
 #### 3423. Maximum Difference Between Adjacent Elements in a Circular Array
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
+
+#### 3487. Maximum Unique Subarray Sum After Deletion
 
 ### Medium finish 402
 
@@ -1278,7 +1282,7 @@
 
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 74
+### Hard finish 75
 
 #### 23. Merge k Sorted Lists
 
@@ -1428,5 +1432,7 @@
 
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
+#### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
-### Total finish 710
+
+### Total finish 713

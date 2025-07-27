@@ -6,18 +6,18 @@ from typing import List
 class Solution:
     def maximumGain(self, s: str, x: int, y: int) -> int:
         if x > y:
-            point = x
-            lower_point = y
-            pattern = 'ab'
-            lower_pattern = 'ba'
+            point: int = x
+            lower_point: int = y
+            pattern: str = 'ab'
+            lower_pattern: str = 'ba'
 
         else:
-            point = y
-            lower_point = x
-            pattern = 'ba'
-            lower_pattern = 'ab'
+            point: int = y
+            lower_point: int = x
+            pattern: str = 'ba'
+            lower_pattern: str = 'ab'
 
-        ans = 0
+        ans: int = 0
         stack: List[str] = []
         for c in s:
             if c == pattern[1] and stack and stack[-1] == pattern[0]:
