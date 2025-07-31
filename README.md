@@ -476,7 +476,7 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 402
+### Medium finish 404
 
 #### 2. Add Two Numbers
 
@@ -792,6 +792,8 @@
 
 #### 889. Construct Binary Tree from Preorder and Postorder Traversal
 
+#### 898. Bitwise ORs of Subarrays
+
 #### 901. Online Stock Span
 
 #### 904. Fruit Into Baskets
@@ -1103,6 +1105,8 @@
 #### 2406. Divide Intervals Into Minimum Number of Groups
 
 #### 2410. Maximum Matching of Players With Trainers
+
+#### 2411. Smallest Subarrays With Maximum Bitwise OR
 
 #### 2415. Reverse Odd Levels of Binary Tree
 
@@ -1435,4 +1439,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 713
+### Total finish 715

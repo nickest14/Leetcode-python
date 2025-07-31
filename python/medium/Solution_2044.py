@@ -9,7 +9,7 @@ class Solution:
         self.max_or: int = 0
         self.nums: list[int] = []
 
-    def backtrack(self, index, current_or):
+    def backtrack(self, index: int, current_or: int):
         if current_or == self.max_or:
             self.count += 1
         for i in range(index, len(self.nums)):
