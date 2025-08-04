@@ -6,21 +6,21 @@ from collections import defaultdict
 
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        count = defaultdict(int)
-        l, total, ans = 0, 0, 0
-        for r in range(len(fruits)):
-            count[fruits[r]] += 1
-            total += 1
+        start: int = 0
+        ans: int = 0
+        fruit_count: defaultdict[int, int] = defaultdict(int)
 
-            while len(count) > 2:
-                f = fruits[l]
-                count[f] -= 1
-                total -= 1
-                l += 1
-                if not count[f]:
-                    count.pop(f)
+        for end in range(len(fruits)):
+            fruit_count[fruits[end]] += 1
 
-            ans = max(ans, total)
+            while len(fruit_count) > 2:
+                fruit_count[fruits[start]] -= 1
+                if fruit_count[fruits[start]] == 0:
+                    del fruit_count[fruits[start]]
+                start += 1
+
+            ans = max(ans, end - start + 1)
+
         return ans
 
 

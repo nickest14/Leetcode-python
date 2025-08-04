@@ -798,9 +798,9 @@
 
 #### 904. Fruit Into Baskets
 
-#### 912. Sort an Array
-
 #### 909. Snakes and Ladders
+
+#### 912. Sort an Array
 
 #### 916. Word Subsets
 
@@ -1286,7 +1286,7 @@
 
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 75
+### Hard finish 76
 
 #### 23. Merge k Sorted Lists
 
@@ -1370,6 +1370,8 @@
 
 #### 2097. Valid Arrangement of Pairs
 
+#### 2106. Maximum Fruits Harvested After at Most K Steps
+
 #### 2127. Maximum Employees to Be Invited to a Meeting
 
 #### 2163. Minimum Difference in Sums After Removal of Elements
@@ -1439,4 +1441,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 715
+### Total finish 716
