@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 236
+### Easy finish 237
 
 #### 1. Two Sum
 
@@ -474,9 +474,11 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
+#### 3477. Fruits Into Baskets II
+
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 404
+### Medium finish 405
 
 #### 2. Add Two Numbers
 
@@ -1286,7 +1288,9 @@
 
 #### 3443. Maximum Manhattan Distance After K Changes
 
-### Hard finish 76
+#### 3479. Fruits Into Baskets III
+
+### Hard finish 77
 
 #### 23. Merge k Sorted Lists
 
@@ -1432,6 +1436,8 @@
 
 #### 3343. Count Number of Balanced Permutations
 
+#### 3363. Find the Maximum Number of Fruits Collected
+
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
 
 #### 3405. Count the Number of Arrays with K Matching Adjacent Elements
@@ -1441,4 +1447,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 716
+### Total finish 719
