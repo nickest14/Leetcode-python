@@ -478,7 +478,7 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 405
+### Medium finish 407
 
 #### 2. Add Two Numbers
 
@@ -774,6 +774,8 @@
 
 #### 802. Find Eventual Safe States
 
+#### 808. Soup Servings
+
 #### 826. Most Profit Assigning Work
 
 #### 838. Push Dominoes
@@ -783,6 +785,8 @@
 #### 853. Car Fleet
 
 #### 858. Mirror Reflection
+
+#### 869. Reordered Power of 2
 
 #### 873. Length of Longest Fibonacci Subsequence
 
@@ -1447,4 +1451,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 719
+### Total finish 721
