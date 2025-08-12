@@ -478,7 +478,7 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 407
+### Medium finish 409
 
 #### 2. Add Two Numbers
 
@@ -1124,6 +1124,8 @@
 
 #### 2434. Using a Robot to Print the Lexicographically Smallest String
 
+#### 2438. Range Product Queries of Powers
+
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 
 #### 2466. Count Ways To Build Good Strings
@@ -1189,6 +1191,8 @@
 #### 2779. Maximum Beauty of an Array After Applying Operation
 
 #### 2780. Minimum Index of a Valid Split
+
+#### 2787. Ways to Express an Integer as Sum of Powers
 
 #### 2799. Count Complete Subarrays in an Array
 
@@ -1451,4 +1455,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 721
+### Total finish 723
