@@ -290,6 +290,8 @@
 
 #### 1317. Convert Integer to the Sum of Two No-Zero Integers
 
+#### 1323. Maximum 69 Number
+
 #### 1331. Rank Transform of an Array
 
 #### 1332. Remove Palindromic Subsequences
@@ -480,7 +482,7 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 409
+### Medium finish 410
 
 #### 2. Add Two Numbers
 
@@ -779,6 +781,8 @@
 #### 808. Soup Servings
 
 #### 826. Most Profit Assigning Work
+
+#### 837. New 21 Game
 
 #### 838. Push Dominoes
 
@@ -1457,4 +1461,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 724
+### Total finish 726
