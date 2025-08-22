@@ -482,7 +482,7 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 410
+### Medium finish 412
 
 #### 2. Add Two Numbers
 
@@ -934,6 +934,8 @@
 
 #### 1498. Number of Subsequences That Satisfy the Given Sum Condition
 
+#### 1504. Count Submatrices With All Ones
+
 #### 1508. Range Sum of Sorted Subarray Sums
 
 #### 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
@@ -1262,6 +1264,8 @@
 
 #### 3192. Minimum Operations to Make Binary Array Elements Equal to One II
 
+#### 3195. Find the Minimum Area to Cover All Ones I
+
 #### 3201. Find the Maximum Length of Valid Subsequence I
 
 #### 3202. Find the Maximum Length of Valid Subsequence II
@@ -1304,7 +1308,7 @@
 
 #### 3479. Fruits Into Baskets III
 
-### Hard finish 77
+### Hard finish 78
 
 #### 23. Merge k Sorted Lists
 
@@ -1335,6 +1339,8 @@
 #### 632. Smallest Range Covering Elements from K Lists
 
 #### 664. Strange Printer
+
+#### 679. 24 Game
 
 #### 689. Maximum Sum of 3 Non-Overlapping Subarrays
 
@@ -1461,4 +1467,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 726
+### Total finish 729

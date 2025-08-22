@@ -5,8 +5,8 @@ from typing import List
 
 class Solution:
     def zeroFilledSubarray(self, nums: List[int]) -> int:
-        ans = 0
-        zeros = 0
+        ans: int = 0
+        zeros: int = 0
         for num in nums:
             if num == 0:
                 zeros += 1
