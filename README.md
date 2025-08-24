@@ -482,7 +482,7 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 412
+### Medium finish 413
 
 #### 2. Add Two Numbers
 
@@ -930,6 +930,8 @@
 
 #### 1482. Minimum Number of Days to Make m Bouquets
 
+#### 1493. Longest Subarray of 1's After Deleting One Element
+
 #### 1497. Check If Array Pairs Are Divisible by k
 
 #### 1498. Number of Subsequences That Satisfy the Given Sum Condition
@@ -1308,7 +1310,7 @@
 
 #### 3479. Fruits Into Baskets III
 
-### Hard finish 78
+### Hard finish 79
 
 #### 23. Merge k Sorted Lists
 
@@ -1444,6 +1446,8 @@
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
 
+#### 3197. Find the Minimum Area to Cover All Ones II
+
 #### 3203. Find Minimum Diameter After Merging Two Trees
 
 #### 3272. Find the Count of Good Integers
@@ -1467,4 +1471,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 729
+### Total finish 731
