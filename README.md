@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 238
+### Easy finish 239
 
 #### 1. Two Sum
 
@@ -444,6 +444,8 @@
 
 #### 2965. Find Missing and Repeated Values
 
+#### 3000. Maximum Area of Longest Diagonal Rectangle
+
 #### 3024. Type of Triangle
 
 #### 3042. Count Prefix and Suffix Pairs I
@@ -482,7 +484,7 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 413
+### Medium finish 414
 
 #### 2. Add Two Numbers
 
@@ -707,6 +709,8 @@
 #### 438. Find All Anagrams in a String
 
 #### 494. Target Sum
+
+#### 498. Diagonal Traverse
 
 #### 515. Find Largest Value in Each Tree Row
 
@@ -1471,4 +1475,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 731
+### Total finish 733
