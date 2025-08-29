@@ -484,7 +484,7 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 414
+### Medium finish 416
 
 #### 2. Add Two Numbers
 
@@ -1242,6 +1242,8 @@
 
 #### 3016. Minimum Number of Pushes to Type Word II
 
+#### 3021. Alice and Bob Playing Flower Game
+
 #### 3043. Find the Length of the Longest Common Prefix
 
 #### 3066. Minimum Operations to Exceed Threshold Value II
@@ -1311,6 +1313,8 @@
 #### 3440. Reschedule Meetings for Maximum Free Time II
 
 #### 3443. Maximum Manhattan Distance After K Changes
+
+#### 3446. Sort Matrix by Diagonals
 
 #### 3479. Fruits Into Baskets III
 
@@ -1475,4 +1479,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 733
+### Total finish 735
