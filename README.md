@@ -484,7 +484,7 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 416
+### Medium finish 417
 
 #### 2. Add Two Numbers
 
@@ -1244,6 +1244,8 @@
 
 #### 3021. Alice and Bob Playing Flower Game
 
+#### 3025. Find the Number of Ways to Place People I
+
 #### 3043. Find the Length of the Longest Common Prefix
 
 #### 3066. Minimum Operations to Exceed Threshold Value II
@@ -1318,7 +1320,7 @@
 
 #### 3479. Fruits Into Baskets III
 
-### Hard finish 79
+### Hard finish 80
 
 #### 23. Merge k Sorted Lists
 
@@ -1450,6 +1452,8 @@
 
 #### 2999. Count the Number of Powerful Integers
 
+#### 3027. Find the Number of Ways to Place People II
+
 #### 3068. Find the Maximum Sum of Node Values
 
 #### 3171. Find Subarray With Bitwise OR Closest to K
@@ -1479,4 +1483,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 735
+### Total finish 737
