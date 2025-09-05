@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 239
+### Easy finish 240
 
 #### 1. Two Sum
 
@@ -484,7 +484,9 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
-### Medium finish 417
+#### 3516. Find Closest Person
+
+### Medium finish 418
 
 #### 2. Add Two Numbers
 
@@ -1200,6 +1202,8 @@
 
 #### 2707. Extra Characters in a String
 
+#### 2749. Minimum Operations to Make the Integer Zero
+
 #### 2762. Continuous Subarrays
 
 #### 2779. Maximum Beauty of an Array After Applying Operation
@@ -1483,4 +1487,4 @@
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 
-### Total finish 737
+### Total finish 739
