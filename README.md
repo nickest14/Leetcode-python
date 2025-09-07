@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 240
+### Easy finish 241
 
 #### 1. Two Sum
 
@@ -287,6 +287,8 @@
 #### 1295. Find Numbers with Even Number of Digits
 
 #### 1299. Replace Elements with Greatest Element on Right Side
+
+#### 1304. Find N Unique Integers Sum up to Zero
 
 #### 1317. Convert Integer to the Sum of Two No-Zero Integers
 
@@ -1324,7 +1326,7 @@
 
 #### 3479. Fruits Into Baskets III
 
-### Hard finish 80
+### Hard finish 81
 
 #### 23. Merge k Sorted Lists
 
@@ -1486,5 +1488,6 @@
 
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
+#### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 739
+### Total finish 741
