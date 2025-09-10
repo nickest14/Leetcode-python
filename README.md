@@ -488,7 +488,7 @@
 
 #### 3516. Find Closest Person
 
-### Medium finish 418
+### Medium finish 420
 
 #### 2. Add Two Numbers
 
@@ -986,6 +986,8 @@
 
 #### 1726. Tuple with Same Product
 
+#### 1733. Minimum Number of People to Teach
+
 #### 1749. Maximum Absolute Sum of Any Subarray
 
 #### 1760. Minimum Limit of Balls in a Bag
@@ -1107,6 +1109,8 @@
 #### 2311. Longest Binary Subsequence Less Than or Equal to K
 
 #### 2326. Spiral Matrix IV
+
+#### 2327. Number of People Aware of a Secret
 
 #### 2337. Move Pieces to Obtain a String
 
@@ -1490,4 +1494,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 741
+### Total finish 743
