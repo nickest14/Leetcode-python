@@ -488,7 +488,7 @@
 
 #### 3516. Find Closest Person
 
-### Medium finish 420
+### Medium finish 422
 
 #### 2. Add Two Numbers
 
@@ -1216,6 +1216,8 @@
 
 #### 2780. Minimum Index of a Valid Split
 
+#### 2785. Sort Vowels in a String
+
 #### 2787. Ways to Express an Integer as Sum of Powers
 
 #### 2799. Count Complete Subarrays in an Array
@@ -1295,6 +1297,8 @@
 #### 3217. Delete Nodes From Linked List Present in Array
 
 #### 3223. Minimum Length of String After Operations
+
+#### 3227. Vowels Game in a String
 
 #### 3243. Shortest Distance After Road Addition Queries I
 
@@ -1494,4 +1498,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 743
+### Total finish 745
