@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 241
+### Easy finish 242
 
 #### 1. Two Sum
 
@@ -488,7 +488,9 @@
 
 #### 3516. Find Closest Person
 
-### Medium finish 422
+#### 3541. Find Most Frequent Vowel and Consonant
+
+### Medium finish 423
 
 #### 2. Add Two Numbers
 
@@ -837,6 +839,8 @@
 #### 959. Regions Cut By Slashes
 
 #### 962. Maximum Width Ramp
+
+#### 966. Vowel Spellchecker
 
 #### 973. K Closest Points to Origin
 
@@ -1498,4 +1502,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 745
+### Total finish 747
