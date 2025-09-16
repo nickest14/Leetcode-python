@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 242
+### Easy finish 243
 
 #### 1. Two Sum
 
@@ -377,6 +377,8 @@
 #### 1920. Build Array from Permutation
 
 #### 1929. Concatenation of Array
+
+#### 1935. Maximum Number of Words You Can Type
 
 #### 1945. Sum of Digits of String After Convert
 
@@ -1338,7 +1340,7 @@
 
 #### 3479. Fruits Into Baskets III
 
-### Hard finish 81
+### Hard finish 82
 
 #### 23. Merge k Sorted Lists
 
@@ -1432,6 +1434,8 @@
 
 #### 2179. Count Good Triplets in an Array
 
+#### 2197. Replace Non-Coprime Numbers in Array
+
 #### 2290. Minimum Obstacle Removal to Reach Corner
 
 #### 2302. Count Subarrays With Score Less Than K
@@ -1502,4 +1506,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 747
+### Total finish 749
