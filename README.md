@@ -492,7 +492,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 423
+### Medium finish 425
 
 #### 2. Add Two Numbers
 
@@ -1126,6 +1126,8 @@
 
 #### 2349. Design a Number Container System
 
+#### 2353. Design a Food Rating System
+
 #### 2359. Find Closest Node to Given Two Nodes
 
 #### 2364. Count Number of Bad Pairs
@@ -1330,6 +1332,8 @@
 
 #### 3403. Find the Lexicographically Largest String From the Box I
 
+#### 3408. Design Task Manager
+
 #### 3439. Reschedule Meetings for Maximum Free Time I
 
 #### 3440. Reschedule Meetings for Maximum Free Time II
@@ -1506,4 +1510,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 749
+### Total finish 751
