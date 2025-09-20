@@ -492,7 +492,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 425
+### Medium finish 427
 
 #### 2. Add Two Numbers
 
@@ -1344,6 +1344,10 @@
 
 #### 3479. Fruits Into Baskets III
 
+#### 3484. Design Spreadsheet
+
+#### 3508. Implement Router
+
 ### Hard finish 82
 
 #### 23. Merge k Sorted Lists
@@ -1510,4 +1514,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 751
+### Total finish 753
