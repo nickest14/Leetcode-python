@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 243
+### Easy finish 244
 
 #### 1. Two Sum
 
@@ -449,6 +449,8 @@
 #### 2965. Find Missing and Repeated Values
 
 #### 3000. Maximum Area of Longest Diagonal Rectangle
+
+#### 3005. Count Elements With Maximum Frequency
 
 #### 3024. Type of Triangle
 
@@ -1348,7 +1350,7 @@
 
 #### 3508. Implement Router
 
-### Hard finish 82
+### Hard finish 83
 
 #### 23. Merge k Sorted Lists
 
@@ -1417,6 +1419,8 @@
 #### 1751. Maximum Number of Events That Can Be Attended II
 
 #### 1857. Largest Color Value in a Directed Graph
+
+#### 1912. Design Movie Rental System
 
 #### 1931. Painting a Grid With Three Different Colors
 
@@ -1514,4 +1518,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 753
+### Total finish 755
