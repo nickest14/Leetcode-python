@@ -494,7 +494,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 427
+### Medium finish 429
 
 #### 2. Add Two Numbers
 
@@ -623,6 +623,10 @@
 #### 153. Find Minimum in Rotated Sorted Array
 
 #### 155. Min Stack
+
+#### 165. Compare Version Numbers
+
+#### 166. Fraction to Recurring Decimal
 
 #### 179. Largest Number
 
@@ -1518,4 +1522,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 755
+### Total finish 757
