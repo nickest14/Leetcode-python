@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 244
+### Easy finish 246
 
 #### 1. Two Sum
 
@@ -244,6 +244,8 @@
 
 #### 796. Rotate String
 
+#### 812. Largest Triangle Area
+
 #### 821. Shortest Distance to a Character
 
 #### 844. Backspace String Compare
@@ -261,6 +263,8 @@
 #### 941. Valid Mountain Array
 
 #### 944. Delete Columns to Make Sorted
+
+#### 976. Largest Perimeter Triangle
 
 #### 977. Squares of a Sorted Array
 
@@ -494,7 +498,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 429
+### Medium finish 430
 
 #### 2. Add Two Numbers
 
@@ -745,6 +749,8 @@
 #### 567. Permutation in String
 
 #### 592. Fraction Addition and Subtraction
+
+#### 611. Valid Triangle Number
 
 #### 617. Merge Two Binary Trees
 
@@ -1522,4 +1528,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 757
+### Total finish 760
