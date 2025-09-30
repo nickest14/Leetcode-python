@@ -498,7 +498,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 430
+### Medium finish 432
 
 #### 2. Add Two Numbers
 
@@ -868,6 +868,8 @@
 
 #### 1038. Binary Search Tree to Greater Sum Tree
 
+#### 1039. Minimum Score Triangulation of Polygon
+
 #### 1041. Robot Bounded In Circle
 
 #### 1052. Grumpy Bookstore Owner
@@ -1111,6 +1113,8 @@
 #### 2192. All Ancestors of a Node in a Directed Acyclic Graph
 
 #### 2196. Create Binary Tree From Descriptions
+
+#### 2221. Find Triangular Sum of an Array
 
 #### 2226. Maximum Candies Allocated to K Children
 
@@ -1528,4 +1532,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 760
+### Total finish 762
