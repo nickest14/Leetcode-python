@@ -6,8 +6,8 @@ from typing import List
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         l, r = 0, len(height) - 1
-        ans = 0
-        h = max(height)
+        ans: int = 0
+        h: int = max(height)
 
         while l < r:
             ans = max(ans, min(height[l], height[r]) * (r - l))

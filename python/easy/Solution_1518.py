@@ -3,7 +3,7 @@
 
 class Solution:
     def numWaterBottles(self, numBottles: int, numExchange: int) -> int:
-        ans = numBottles
+        ans: int = numBottles
 
         while numBottles >= numExchange:
             ans += numBottles // numExchange
