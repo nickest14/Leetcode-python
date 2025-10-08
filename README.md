@@ -498,7 +498,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 433
+### Medium finish 435
 
 #### 2. Add Two Numbers
 
@@ -958,6 +958,8 @@
 
 #### 1482. Minimum Number of Days to Make m Bouquets
 
+#### 1488. Avoid Flood in The City
+
 #### 1493. Longest Subarray of 1's After Deleting One Element
 
 #### 1497. Check If Array Pairs Are Divisible by k
@@ -1127,6 +1129,8 @@
 #### 2285. Maximum Total Importance of Roads
 
 #### 2294. Partition Array Such That Maximum Difference Is K
+
+#### 2300. Successful Pairs of Spells and Potions
 
 #### 2311. Longest Binary Subsequence Less Than or Equal to K
 
@@ -1366,7 +1370,7 @@
 
 #### 3508. Implement Router
 
-### Hard finish 83
+### Hard finish 84
 
 #### 23. Merge k Sorted Lists
 
@@ -1407,6 +1411,8 @@
 #### 726. Number of Atoms
 
 #### 773. Sliding Puzzle
+
+#### 778. Swim in Rising Water
 
 #### 827. Making A Large Island
 
@@ -1534,4 +1540,4 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 763
+### Total finish 766
