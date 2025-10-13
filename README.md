@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 246
+### Easy finish 247
 
 #### 1. Two Sum
 
@@ -418,6 +418,8 @@
 
 #### 2264. Largest 3-Same-Digit Number in String
 
+#### 2273. Find Resultant Array After Removing Anagrams
+
 #### 2379. Minimum Recolors to Get K Consecutive Black Blocks
 
 #### 2418. Sort the People
@@ -498,7 +500,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 435
+### Medium finish 437
 
 #### 2. Add Two Numbers
 
@@ -1298,6 +1300,8 @@
 
 #### 3133. Minimum Array End
 
+#### 3147. Taking Maximum Energy From the Mystic Dungeon
+
 #### 3152. Special Array II
 
 #### 3160. Find the Number of Distinct Colors Among the Balls
@@ -1368,9 +1372,11 @@
 
 #### 3484. Design Spreadsheet
 
+#### 3494. Find the Minimum Amount of Time to Brew Potions
+
 #### 3508. Implement Router
 
-### Hard finish 84
+### Hard finish 85
 
 #### 23. Merge k Sorted Lists
 
@@ -1540,4 +1546,6 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
-### Total finish 766
+#### 3539. Find Sum of Array Product of Magical Sequences
+
+### Total finish 770
