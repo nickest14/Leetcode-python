@@ -502,7 +502,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 438
+### Medium finish 440
 
 #### 2. Add Two Numbers
 
@@ -1218,6 +1218,8 @@
 
 #### 2593. Find Score of an Array After Marking All Elements
 
+#### 2598. Smallest Missing Non-negative Integer After Operations
+
 #### 2601. Prime Subtraction Operation
 
 #### 2616. Minimize the Maximum Difference of Pairs
@@ -1360,6 +1362,8 @@
 
 #### 3394. Check if Grid can be Cut into Sections
 
+#### 3397. Maximum Number of Distinct Elements After Operations
+
 #### 3403. Find the Lexicographically Largest String From the Box I
 
 #### 3408. Design Task Manager
@@ -1380,7 +1384,7 @@
 
 #### 3508. Implement Router
 
-### Hard finish 85
+### Hard finish 86
 
 #### 23. Merge k Sorted Lists
 
@@ -1518,6 +1522,8 @@
 
 #### 2999. Count the Number of Powerful Integers
 
+#### 3003. Maximize the Number of Partitions After Operations
+
 #### 3027. Find the Number of Ways to Place People II
 
 #### 3068. Find the Maximum Sum of Node Values
@@ -1552,4 +1558,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 772
+### Total finish 775
