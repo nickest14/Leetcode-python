@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 248
+### Easy finish 249
 
 #### 1. Two Sum
 
@@ -390,6 +390,8 @@
 
 #### 1984. Minimum Difference Between Highest And Lowest of K Scores
 
+#### 2011. Final Value of Variable After Performing Operations
+
 #### 2016. Maximum Difference Between Increasing Elements
 
 #### 2022. Convert 1D Array Into 2D Array
@@ -502,7 +504,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 440
+### Medium finish 441
 
 #### 2. Add Two Numbers
 
@@ -993,6 +995,8 @@
 #### 1593. Split a String Into the Max Number of Unique Substrings
 
 #### 1605. Find Valid Matrix Given Row and Column Sums
+
+#### 1625. Lexicographically Smallest String After Applying Operations
 
 #### 1631. Path With Minimum Effort
 
@@ -1558,4 +1562,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 775
+### Total finish 777
