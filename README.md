@@ -504,7 +504,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 441
+### Medium finish 442
 
 #### 2. Add Two Numbers
 
@@ -1354,6 +1354,8 @@
 
 #### 3342. Find Minimum Time to Reach Last Room II
 
+#### 3346. Maximum Frequency of an Element After Performing Operations I
+
 #### 3350. Adjacent Increasing Subarrays Detection II
 
 #### 3355. Zero Array Transformation I
@@ -1388,7 +1390,7 @@
 
 #### 3508. Implement Router
 
-### Hard finish 86
+### Hard finish 87
 
 #### 23. Merge k Sorted Lists
 
@@ -1548,6 +1550,8 @@
 
 #### 3343. Count Number of Balanced Permutations
 
+#### 3347. Maximum Frequency of an Element After Performing Operations II
+
 #### 3363. Find the Maximum Number of Fruits Collected
 
 #### 3373. Maximize the Number of Target Nodes After Connecting Trees II
@@ -1562,4 +1566,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 777
+### Total finish 779
