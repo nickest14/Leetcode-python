@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 249
+### Easy finish 250
 
 #### 1. Two Sum
 
@@ -496,6 +496,8 @@
 
 #### 3442. Maximum Difference Between Even and Odd Frequency I
 
+#### 3461. Check If Digits Are Equal in String After Operations I
+
 #### 3477. Fruits Into Baskets II
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
@@ -504,7 +506,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 442
+### Medium finish 443
 
 #### 2. Add Two Numbers
 
@@ -1088,6 +1090,8 @@
 
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
 
+#### 2048. Next Greater Numerically Balanced Number
+
 #### 2054. Two Best Non-Overlapping Events
 
 #### 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
@@ -1566,4 +1570,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 779
+### Total finish 781
