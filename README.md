@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 250
+### Easy finish 251
 
 #### 1. Two Sum
 
@@ -348,6 +348,8 @@
 
 #### 1710. Maximum Units on a Truck
 
+#### 1716. Calculate Money in Leetcode Bank
+
 #### 1752. Check if Array Is Sorted and Rotated
 
 #### 1768. Merge Strings Alternately
@@ -506,7 +508,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 443
+### Medium finish 444
 
 #### 2. Add Two Numbers
 
@@ -1088,6 +1090,8 @@
 
 #### 2033. Minimum Operations to Make a Uni-Value Grid
 
+#### 2043. Simple Bank System
+
 #### 2044. Count Number of Maximum Bitwise-OR Subsets
 
 #### 2048. Next Greater Numerically Balanced Number
@@ -1570,4 +1574,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 781
+### Total finish 783
