@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 251
+### Easy finish 252
 
 #### 1. Two Sum
 
@@ -488,6 +488,8 @@
 
 #### 3349. Adjacent Increasing Subarrays Detection I
 
+#### 3354. Make Array Elements Equal to Zero
+
 #### 3375. Minimum Operations to Make Array Values Equal to K
 
 #### 3392. Count Subarrays of Length Three With a Condition
@@ -508,7 +510,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 444
+### Medium finish 445
 
 #### 2. Add Two Numbers
 
@@ -1110,6 +1112,8 @@
 
 #### 2116. Check if a Parentheses String Can Be Valid
 
+#### 2125. Number of Laser Beams in a Bank
+
 #### 2130. Maximum Twin Sum of a Linked List
 
 #### 2131. Longest Palindrome by Concatenating Two Letter Words
@@ -1574,4 +1578,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 783
+### Total finish 785
