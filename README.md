@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 252
+### Easy finish 253
 
 #### 1. Two Sum
 
@@ -489,6 +489,8 @@
 #### 3349. Adjacent Increasing Subarrays Detection I
 
 #### 3354. Make Array Elements Equal to Zero
+
+#### 3370. Smallest Number With All Set Bits
 
 #### 3375. Minimum Operations to Make Array Values Equal to K
 
@@ -1402,7 +1404,7 @@
 
 #### 3508. Implement Router
 
-### Hard finish 87
+### Hard finish 88
 
 #### 23. Merge k Sorted Lists
 
@@ -1461,6 +1463,8 @@
 #### 1298. Maximum Candies You Can Get from Boxes
 
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
+
+#### 1526. Minimum Number of Increments on Subarrays to Form a Target Array
 
 #### 1568. Minimum Number of Days to Disconnect Island
 
@@ -1578,4 +1582,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 785
+### Total finish 787
