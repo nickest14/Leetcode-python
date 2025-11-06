@@ -11,7 +11,9 @@ class ListNode:
 
 
 class Solution:
-    def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
+    def modifiedList(
+        self, nums: List[int], head: Optional[ListNode]
+    ) -> Optional[ListNode]:
         num_set = set(nums)
         dummy: ListNode = ListNode()
         current = dummy

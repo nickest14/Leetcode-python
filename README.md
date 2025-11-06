@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 253
+### Easy finish 254
 
 #### 1. Two Sum
 
@@ -482,6 +482,8 @@
 
 #### 3264. Final Array State After K Multiplication Operations I
 
+#### 3289. The Two Sneaky Numbers of Digitville
+
 #### 3304. Find the K-th Character in String Game I
 
 #### 3330. Find the Original Typed String I
@@ -512,7 +514,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 445
+### Medium finish 446
 
 #### 2. Add Two Numbers
 
@@ -1404,6 +1406,8 @@
 
 #### 3508. Implement Router
 
+#### 3607. Power Grid Maintenance
+
 ### Hard finish 88
 
 #### 23. Merge k Sorted Lists
@@ -1582,4 +1586,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 787
+### Total finish 789
