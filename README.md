@@ -514,7 +514,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 446
+### Medium finish 447
 
 #### 2. Add Two Numbers
 
@@ -987,6 +987,8 @@
 #### 1508. Range Sum of Sorted Subarray Sums
 
 #### 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
+
+#### 1513. Number of Substrings With Only 1s
 
 #### 1514. Path with Maximum Probability
 
@@ -1586,4 +1588,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 789
+### Total finish 790
