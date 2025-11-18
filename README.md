@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 254
+### Easy finish 256
 
 #### 1. Two Sum
 
@@ -230,6 +230,8 @@
 
 #### 706. Design HashMap
 
+#### 717. 1-bit and 2-bit Characters
+
 #### 724. Find Pivot Index
 
 #### 733. Flood Fill
@@ -317,6 +319,8 @@
 #### 1408. String Matching in an Array
 
 #### 1422. Maximum Score After Splitting a String
+
+#### 1437. Check If All 1's Are at Least Length K Places Away
 
 #### 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 
@@ -1588,4 +1592,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 790
+### Total finish 792
