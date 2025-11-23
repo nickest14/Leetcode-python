@@ -2,8 +2,8 @@
 
 class Solution:
     def countPalindromicSubsequence(self, s: str) -> int:
-        ans = 0
-        uniq = set(s)
+        ans: int = 0
+        uniq: set[str] = set(s)
         for c in uniq:
             start, end = s.find(c), s.rfind(c)
             if start < end:

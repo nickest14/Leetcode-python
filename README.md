@@ -520,7 +520,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 447
+### Medium finish 448
 
 #### 2. Add Two Numbers
 
@@ -927,6 +927,8 @@
 #### 1248. Count Number of Nice Subarrays
 
 #### 1261. Find Elements in a Contaminated Binary Tree
+
+#### 1262. Greatest Sum Divisible by Three
 
 #### 1267. Count Servers that Communicate
 
@@ -1596,4 +1598,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 794
+### Total finish 795
