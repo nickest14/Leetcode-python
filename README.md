@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 257
+### Easy finish 258
 
 #### 1. Two Sum
 
@@ -274,6 +274,8 @@
 
 #### 1009. Complement of Base 10 Integer
 
+#### 1018. Binary Prefix Divisible By 5
+
 #### 1046. Last Stone Weight
 
 #### 1047. Remove All Adjacent Duplicates In String
@@ -520,7 +522,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 448
+### Medium finish 449
 
 #### 2. Add Two Numbers
 
@@ -887,6 +889,8 @@
 #### 1007. Minimum Domino Rotations For Equal Row
 
 #### 1014. Best Sightseeing Pair
+
+#### 1015. Smallest Integer Divisible by K
 
 #### 1038. Binary Search Tree to Greater Sum Tree
 
@@ -1598,4 +1602,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 795
+### Total finish 797
