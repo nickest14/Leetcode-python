@@ -522,7 +522,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 449
+### Medium finish 450
 
 #### 2. Add Two Numbers
 
@@ -1396,6 +1396,8 @@
 
 #### 3372. Maximize the Number of Target Nodes After Connecting Trees I
 
+#### 3381. Maximum Subarray Sum With Length Divisible by K
+
 #### 3394. Check if Grid can be Cut into Sections
 
 #### 3397. Maximum Number of Distinct Elements After Operations
@@ -1422,7 +1424,7 @@
 
 #### 3607. Power Grid Maintenance
 
-### Hard finish 89
+### Hard finish 90
 
 #### 23. Merge k Sorted Lists
 
@@ -1538,6 +1540,8 @@
 
 #### 2416. Sum of Prefix Scores of Strings
 
+#### 2435. Paths in Matrix Whose Sum Is Divisible by K
+
 #### 2444. Count Subarrays With Fixed Bounds
 
 #### 2458. Height of Binary Tree After Subtree Removal Queries
@@ -1602,4 +1606,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 797
+### Total finish 799
