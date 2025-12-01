@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 258
+### Easy finish 259
 
 #### 1. Two Sum
 
@@ -517,6 +517,8 @@
 #### 3477. Fruits Into Baskets II
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
+
+#### 3512. Minimum Operations to Make Array Sum Divisible by K
 
 #### 3516. Find Closest Person
 
@@ -1424,7 +1426,7 @@
 
 #### 3607. Power Grid Maintenance
 
-### Hard finish 90
+### Hard finish 91
 
 #### 23. Merge k Sorted Lists
 
@@ -1522,6 +1524,8 @@
 
 #### 2127. Maximum Employees to Be Invited to a Meeting
 
+#### 2141. Maximum Running Time of N Computers
+
 #### 2163. Minimum Difference in Sums After Removal of Elements
 
 #### 2179. Count Good Triplets in an Array
@@ -1606,4 +1610,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 799
+### Total finish 801
