@@ -524,7 +524,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 450
+### Medium finish 452
 
 #### 2. Add Two Numbers
 
@@ -1156,6 +1156,8 @@
 
 #### 2196. Create Binary Tree From Descriptions
 
+#### 2211. Count Collisions on a Road
+
 #### 2221. Find Triangular Sum of an Array
 
 #### 2226. Maximum Candies Allocated to K Children
@@ -1426,6 +1428,8 @@
 
 #### 3607. Power Grid Maintenance
 
+#### 3623. Count Number of Trapezoids I
+
 ### Hard finish 91
 
 #### 23. Merge k Sorted Lists
@@ -1610,4 +1614,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 801
+### Total finish 803
