@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 259
+### Easy finish 261
 
 #### 1. Two Sum
 
@@ -332,6 +332,8 @@
 
 #### 1518. Water Bottles
 
+#### 1523. Count Odd Numbers in an Interval Range
+
 #### 1534. Count Good Triplets
 
 #### 1539. Kth Missing Positive Number
@@ -387,6 +389,8 @@
 #### 1903. Largest Odd Number in String
 
 #### 1920. Build Array from Permutation
+
+#### 1925. Count Square Sum Triples
 
 #### 1929. Concatenation of Array
 
@@ -1614,4 +1618,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 803
+### Total finish 805
