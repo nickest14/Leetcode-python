@@ -528,7 +528,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 452
+### Medium finish 454
 
 #### 2. Add Two Numbers
 
@@ -1430,6 +1430,10 @@
 
 #### 3508. Implement Router
 
+#### 3577. Count the Number of Computer Unlocking Permutations
+
+#### 3583. Count Special Triplets
+
 #### 3607. Power Grid Maintenance
 
 #### 3623. Count Number of Trapezoids I
@@ -1618,4 +1622,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 805
+### Total finish 807
