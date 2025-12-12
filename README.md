@@ -528,7 +528,7 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 454
+### Medium finish 456
 
 #### 2. Add Two Numbers
 
@@ -1414,6 +1414,8 @@
 
 #### 3408. Design Task Manager
 
+#### 3433. Count Mentions Per User
+
 #### 3439. Reschedule Meetings for Maximum Free Time I
 
 #### 3440. Reschedule Meetings for Maximum Free Time II
@@ -1429,6 +1431,8 @@
 #### 3494. Find the Minimum Amount of Time to Brew Potions
 
 #### 3508. Implement Router
+
+#### 3531. Count Covered Buildings
 
 #### 3577. Count the Number of Computer Unlocking Permutations
 
@@ -1622,4 +1626,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 807
+### Total finish 809
