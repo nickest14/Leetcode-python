@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 261
+### Easy finish 262
 
 #### 1. Two Sum
 
@@ -528,7 +528,9 @@
 
 #### 3541. Find Most Frequent Vowel and Consonant
 
-### Medium finish 456
+#### 3606. Coupon Code Validator
+
+### Medium finish 457
 
 #### 2. Add Two Numbers
 
@@ -1134,6 +1136,8 @@
 
 #### 2109. Adding Spaces to a String
 
+#### 2110. Number of Smooth Descent Periods of a Stock
+
 #### 2116. Check if a Parentheses String Can Be Valid
 
 #### 2125. Number of Laser Beams in a Bank
@@ -1626,4 +1630,4 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 809
+### Total finish 811
