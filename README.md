@@ -530,7 +530,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 457
+### Medium finish 458
 
 #### 2. Add Two Numbers
 
@@ -1438,6 +1438,8 @@
 
 #### 3531. Count Covered Buildings
 
+#### 3573. Best Time to Buy and Sell Stock V
+
 #### 3577. Count the Number of Computer Unlocking Permutations
 
 #### 3583. Count Special Triplets
@@ -1446,7 +1448,7 @@
 
 #### 3623. Count Number of Trapezoids I
 
-### Hard finish 91
+### Hard finish 92
 
 #### 23. Merge k Sorted Lists
 
@@ -1630,4 +1632,6 @@
 
 #### 3539. Find Sum of Array Product of Magical Sequences
 
-### Total finish 811
+#### 3562. Maximum Profit from Trading Stocks with Discounts
+
+### Total finish 813
