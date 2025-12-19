@@ -530,7 +530,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 458
+### Medium finish 459
 
 #### 2. Add Two Numbers
 
@@ -1448,7 +1448,9 @@
 
 #### 3623. Count Number of Trapezoids I
 
-### Hard finish 92
+#### 3652. Best Time to Buy and Sell Stock using Strategy
+
+### Hard finish 93
 
 #### 23. Merge k Sorted Lists
 
@@ -1539,6 +1541,8 @@
 #### 2071. Maximum Number of Tasks You Can Assign
 
 #### 2081. Sum of k-Mirror Numbers
+
+#### 2092. Find All People With Secret
 
 #### 2097. Valid Arrangement of Pairs
 
@@ -1634,4 +1638,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 813
+### Total finish 815
