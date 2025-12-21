@@ -530,7 +530,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 459
+### Medium finish 460
 
 #### 2. Add Two Numbers
 
@@ -881,6 +881,8 @@
 #### 947. Most Stones Removed with Same Row or Column
 
 #### 951. Flip Equivalent Binary Trees
+
+#### 955. Delete Columns to Make Sorted II
 
 #### 959. Regions Cut By Slashes
 
@@ -1638,4 +1640,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 815
+### Total finish 816
