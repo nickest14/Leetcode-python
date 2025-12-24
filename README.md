@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 262
+### Easy finish 263
 
 #### 1. Two Sum
 
@@ -477,6 +477,8 @@
 #### 3024. Type of Triangle
 
 #### 3042. Count Prefix and Suffix Pairs I
+
+#### 3074. Apple Redistribution into Boxes
 
 #### 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
 
@@ -1452,7 +1454,7 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 93
+### Hard finish 94
 
 #### 23. Merge k Sorted Lists
 
@@ -1501,6 +1503,8 @@
 #### 827. Making A Large Island
 
 #### 862. Shortest Subarray with Sum at Least K
+
+#### 960. Delete Columns to Make Sorted III
 
 #### 995. Minimum Number of K Consecutive Bit Flips
 
@@ -1640,4 +1644,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 816
+### Total finish 818
