@@ -532,7 +532,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 460
+### Medium finish 461
 
 #### 2. Add Two Numbers
 
@@ -1346,6 +1346,8 @@
 
 #### 3066. Minimum Operations to Exceed Threshold Value II
 
+#### 3075. Maximize Happiness of Selected Children
+
 #### 3085. Minimum Deletions to Make String K-Special
 
 #### 3097. Shortest Subarray With OR at Least K II
@@ -1644,4 +1646,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 818
+### Total finish 819
