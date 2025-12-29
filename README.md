@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 263
+### Easy finish 264
 
 #### 1. Two Sum
 
@@ -312,6 +312,8 @@
 
 #### 1346. Check If N and Its Double Exist
 
+#### 1351. Count Negative Numbers in a Sorted Matrix
+
 #### 1380. Lucky Numbers in a Matrix
 
 #### 1394. Find Lucky Integer in an Array
@@ -532,7 +534,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 461
+### Medium finish 462
 
 #### 2. Add Two Numbers
 
@@ -821,6 +823,8 @@
 #### 739. Daily Temperatures
 
 #### 743. Network Delay Time
+
+#### 756. Pyramid Transition Matrix
 
 #### 763. Partition Labels
 
@@ -1646,4 +1650,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 819
+### Total finish 821
