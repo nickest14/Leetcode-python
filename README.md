@@ -534,7 +534,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 462
+### Medium finish 463
 
 #### 2. Add Two Numbers
 
@@ -847,6 +847,8 @@
 #### 837. New 21 Game
 
 #### 838. Push Dominoes
+
+#### 840. Magic Squares In Grid
 
 #### 846. Hand of Straights
 
@@ -1650,4 +1652,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 821
+### Total finish 822
