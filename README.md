@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 264
+### Easy finish 265
 
 #### 1. Two Sum
 
@@ -265,6 +265,8 @@
 #### 941. Valid Mountain Array
 
 #### 944. Delete Columns to Make Sorted
+
+#### 961. N-Repeated Element in Size 2N Array
 
 #### 976. Largest Perimeter Triangle
 
@@ -1462,7 +1464,7 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 94
+### Hard finish 95
 
 #### 23. Merge k Sorted Lists
 
@@ -1525,6 +1527,8 @@
 #### 1298. Maximum Candies You Can Get from Boxes
 
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
+
+#### 1411. Number of Ways to Paint N × 3 Grid
 
 #### 1526. Minimum Number of Increments on Subarrays to Form a Target Array
 
@@ -1652,4 +1656,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 822
+### Total finish 824
