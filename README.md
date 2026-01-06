@@ -536,7 +536,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 463
+### Medium finish 465
 
 #### 2. Add Two Numbers
 
@@ -938,6 +938,8 @@
 
 #### 1143. Longest Common Subsequence
 
+#### 1161. Maximum Level Sum of a Binary Tree
+
 #### 1162. As Far from Land as Possible
 
 #### 1190. Reverse Substrings Between Each Pair of Parentheses
@@ -981,6 +983,8 @@
 #### 1381. Design a Stack With Increment Operation
 
 #### 1382. Balance a Binary Search Tree
+
+#### 1390. Four Divisors
 
 #### 1395. Count Number of Teams
 
@@ -1656,4 +1660,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 824
+### Total finish 826

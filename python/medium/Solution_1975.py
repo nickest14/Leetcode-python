@@ -6,7 +6,7 @@ from typing import List
 class Solution:
     def maxMatrixSum(self, matrix: List[List[int]]) -> int:
         neg_count: int = 0
-        min_value = float('inf')
+        min_value = float("inf")
         sum_abs: int = 0
         for row in matrix:
             for val in row:
