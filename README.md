@@ -536,7 +536,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 465
+### Medium finish 467
 
 #### 2. Add Two Numbers
 
@@ -858,6 +858,8 @@
 
 #### 858. Mirror Reflection
 
+#### 865. Smallest Subtree with all the Deepest Nodes
+
 #### 869. Reordered Power of 2
 
 #### 873. Length of Longest Fibonacci Subsequence
@@ -965,6 +967,8 @@
 #### 1319. Number of Operations to Make Network Connected
 
 #### 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+
+#### 1339. Maximum Product of Splitted Binary Tree
 
 #### 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 
@@ -1468,7 +1472,7 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 95
+### Hard finish 96
 
 #### 23. Merge k Sorted Lists
 
@@ -1533,6 +1537,8 @@
 #### 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 
 #### 1411. Number of Ways to Paint N × 3 Grid
+
+#### 1458. Max Dot Product of Two Subsequences
 
 #### 1526. Minimum Number of Increments on Subarrays to Form a Target Array
 
@@ -1660,4 +1666,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 826
+### Total finish 829
