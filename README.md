@@ -536,7 +536,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 467
+### Medium finish 468
 
 #### 2. Add Two Numbers
 
@@ -815,6 +815,8 @@
 #### 684. Redundant Connection
 
 #### 698. Partition to K Equal Sum Subsets
+
+#### 712. Minimum ASCII Delete Sum for Two Strings
 
 #### 725. Split Linked List in Parts
 
@@ -1472,13 +1474,15 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 96
+### Hard finish 97
 
 #### 23. Merge k Sorted Lists
 
 #### 32. Longest Valid Parentheses
 
 #### 84. Largest Rectangle in Histogram
+
+#### 85. Maximal Rectangle
 
 #### 126. Word Ladder II
 
@@ -1666,4 +1670,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 829
+### Total finish 831
