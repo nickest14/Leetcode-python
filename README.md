@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 265
+### Easy finish 266
 
 #### 1. Two Sum
 
@@ -292,6 +292,8 @@
 
 #### 1189. Maximum Number of Balloons
 
+#### 1266. Minimum Time Visiting All Points
+
 #### 1290. Convert Binary Number in a Linked List to Integer
 
 #### 1295. Find Numbers with Even Number of Digits
@@ -536,7 +538,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 468
+### Medium finish 469
 
 #### 2. Add Two Numbers
 
@@ -1450,6 +1452,8 @@
 
 #### 3443. Maximum Manhattan Distance After K Changes
 
+#### 3453. Separate Squares I
+
 #### 3446. Sort Matrix by Diagonals
 
 #### 3479. Fruits Into Baskets III
@@ -1474,7 +1478,7 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 97
+### Hard finish 98
 
 #### 23. Merge k Sorted Lists
 
@@ -1662,6 +1666,8 @@
 
 #### 3445. Maximum Difference Between Even and Odd Frequency II
 
+#### 3454. Separate Squares II
+
 #### 3480. Maximize Subarrays After Removing One Conflicting Pair
 
 #### 3495. Minimum Operations to Make Array Elements Zero
@@ -1670,4 +1676,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 831
+### Total finish 834
