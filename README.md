@@ -538,7 +538,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 469
+### Medium finish 471
 
 #### 2. Add Two Numbers
 
@@ -1346,11 +1346,15 @@
 
 #### 2938. Separate Black and White Balls
 
+#### 2943. Maximize Area of Square Hole in Grid
+
 #### 2948. Make Lexicographically Smallest Array by Swapping Elements
 
 #### 2962. Count Subarrays Where Max Element Appears at Least K Times
 
 #### 2966. Divide Array Into Arrays With Max Difference
+
+#### 2975. Maximum Square Area by Removing Fences From a Field
 
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 
@@ -1676,4 +1680,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 834
+### Total finish 836
