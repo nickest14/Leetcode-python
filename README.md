@@ -538,7 +538,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 471
+### Medium finish 473
 
 #### 2. Add Two Numbers
 
@@ -1102,6 +1102,8 @@
 
 #### 1894. Find the Student that Will Replace the Chalk
 
+#### 1895. Largest Magic Square
+
 #### 1899. Merge Triplets to Form Target Triplet
 
 #### 1905. Count Sub Islands
@@ -1367,6 +1369,8 @@
 #### 3025. Find the Number of Ways to Place People I
 
 #### 3043. Find the Length of the Longest Common Prefix
+
+#### 3047. Find the Largest Area of Square Inside Two Rectangles
 
 #### 3066. Minimum Operations to Exceed Threshold Value II
 
@@ -1680,4 +1684,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 836
+### Total finish 838
