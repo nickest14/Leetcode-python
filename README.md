@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 266
+### Easy finish 267
 
 #### 1. Two Sum
 
@@ -506,6 +506,8 @@
 
 #### 3304. Find the K-th Character in String Game I
 
+#### 3314. Construct the Minimum Bitwise Array I
+
 #### 3330. Find the Original Typed String I
 
 #### 3349. Adjacent Increasing Subarrays Detection I
@@ -538,7 +540,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 473
+### Medium finish 474
 
 #### 2. Add Two Numbers
 
@@ -965,6 +967,8 @@
 #### 1267. Count Servers that Communicate
 
 #### 1277. Count Square Submatrices with All Ones
+
+#### 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 
 #### 1310. XOR Queries of a Subarray
 
@@ -1684,4 +1688,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 838
+### Total finish 840
