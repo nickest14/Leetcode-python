@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 267
+### Easy finish 268
 
 #### 1. Two Sum
 
@@ -532,6 +532,8 @@
 
 #### 3487. Maximum Unique Subarray Sum After Deletion
 
+#### 3507. Minimum Pair Removal to Sort Array I
+
 #### 3512. Minimum Operations to Make Array Sum Divisible by K
 
 #### 3516. Find Closest Person
@@ -540,7 +542,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 474
+### Medium finish 475
 
 #### 2. Add Two Numbers
 
@@ -1428,6 +1430,8 @@
 
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 
+#### 3315. Construct the Minimum Bitwise Array II
+
 #### 3335. Total Characters in String After Transformations I
 
 #### 3341. Find Minimum Time to Reach Last Room I
@@ -1688,4 +1692,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 840
+### Total finish 842
