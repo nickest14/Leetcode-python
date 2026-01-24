@@ -542,7 +542,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 475
+### Medium finish 476
 
 #### 2. Add Two Numbers
 
@@ -1104,6 +1104,8 @@
 
 #### 1865. Finding Pairs With a Certain Sum
 
+#### 1877. Minimize Maximum Pair Sum in Array
+
 #### 1888. Minimum Number of Flips to Make the Binary String Alternating
 
 #### 1894. Find the Student that Will Replace the Chalk
@@ -1494,7 +1496,7 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 98
+### Hard finish 99
 
 #### 23. Merge k Sorted Lists
 
@@ -1688,8 +1690,10 @@
 
 #### 3495. Minimum Operations to Make Array Elements Zero
 
+#### 3510. Minimum Pair Removal to Sort Array II
+
 #### 3539. Find Sum of Array Product of Magical Sequences
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 842
+### Total finish 844
