@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 268
+### Easy finish 269
 
 #### 1. Two Sum
 
@@ -291,6 +291,8 @@
 #### 1128. Number of Equivalent Domino Pairs
 
 #### 1189. Maximum Number of Balloons
+
+#### 1200. Minimum Absolute Difference
 
 #### 1266. Minimum Time Visiting All Points
 
@@ -1696,4 +1698,4 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 844
+### Total finish 845
