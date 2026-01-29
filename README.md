@@ -544,7 +544,7 @@
 
 #### 3606. Coupon Code Validator
 
-### Medium finish 476
+### Medium finish 478
 
 #### 2. Add Two Numbers
 
@@ -1368,6 +1368,8 @@
 
 #### 2975. Maximum Square Area by Removing Fences From a Field
 
+#### 2976. Minimum Cost to Convert String I
+
 #### 2981. Find Longest Special Substring That Occurs Thrice I
 
 #### 3011. Find if Array Can Be Sorted
@@ -1496,9 +1498,11 @@
 
 #### 3623. Count Number of Trapezoids I
 
+#### 3650. Minimum Cost Path with Edge Reversals
+
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 99
+### Hard finish 100
 
 #### 23. Merge k Sorted Lists
 
@@ -1698,4 +1702,6 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
-### Total finish 845
+#### 3651. Minimum Cost Path with Teleportations
+
+### Total finish 848
