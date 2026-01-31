@@ -1502,7 +1502,7 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 100
+### Hard finish 101
 
 #### 23. Merge k Sorted Lists
 
@@ -1656,6 +1656,8 @@
 
 #### 2940. Find Building Where Alice and Bob Can Meet
 
+#### 2977. Minimum Cost to Convert String II
+
 #### 2999. Count the Number of Powerful Integers
 
 #### 3003. Maximize the Number of Partitions After Operations
@@ -1704,4 +1706,4 @@
 
 #### 3651. Minimum Cost Path with Teleportations
 
-### Total finish 848
+### Total finish 849
