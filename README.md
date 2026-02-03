@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 269
+### Easy finish 271
 
 #### 1. Two Sum
 
@@ -482,6 +482,8 @@
 
 #### 3005. Count Elements With Maximum Frequency
 
+#### 3010. Divide an Array Into Subarrays With Minimum Cost I
+
 #### 3024. Type of Triangle
 
 #### 3042. Count Prefix and Suffix Pairs I
@@ -543,6 +545,8 @@
 #### 3541. Find Most Frequent Vowel and Consonant
 
 #### 3606. Coupon Code Validator
+
+#### 3637. Trionic Array I
 
 ### Medium finish 478
 
@@ -1706,4 +1710,4 @@
 
 #### 3651. Minimum Cost Path with Teleportations
 
-### Total finish 849
+### Total finish 851
