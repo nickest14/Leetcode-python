@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 271
+### Easy finish 272
 
 #### 1. Two Sum
 
@@ -521,6 +521,8 @@
 #### 3370. Smallest Number With All Set Bits
 
 #### 3375. Minimum Operations to Make Array Values Equal to K
+
+#### 3379. Transformed Array
 
 #### 3392. Count Subarrays of Length Three With a Condition
 
@@ -1506,7 +1508,7 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 101
+### Hard finish 102
 
 #### 23. Merge k Sorted Lists
 
@@ -1708,6 +1710,8 @@
 
 #### 3562. Maximum Profit from Trading Stocks with Discounts
 
+#### 3640. Trionic Array II
+
 #### 3651. Minimum Cost Path with Teleportations
 
-### Total finish 851
+### Total finish 853
