@@ -15,7 +15,7 @@ class Solution:
                 ans[i] = nums[(i - -num) % n]
             else:
                 ans[i] = num
-        
+
         return ans
 
 

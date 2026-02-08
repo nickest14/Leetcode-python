@@ -13,9 +13,9 @@ class TreeNode:
 
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        return (self.height(root) > -1)
+        return self.height(root) > -1
 
-    def height(self, root):
+    def height(self, root: Optional[TreeNode]):
         if root is None:
             return 0
         left_height, right_height = self.height(root.left), self.height(root.right)

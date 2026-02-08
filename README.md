@@ -550,7 +550,7 @@
 
 #### 3637. Trionic Array I
 
-### Medium finish 478
+### Medium finish 479
 
 #### 2. Add Two Numbers
 
@@ -1504,6 +1504,8 @@
 
 #### 3623. Count Number of Trapezoids I
 
+#### 3634. Minimum Removals to Balance Array
+
 #### 3650. Minimum Cost Path with Edge Reversals
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
@@ -1714,4 +1716,4 @@
 
 #### 3651. Minimum Cost Path with Teleportations
 
-### Total finish 853
+### Total finish 854
