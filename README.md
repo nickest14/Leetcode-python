@@ -550,7 +550,7 @@
 
 #### 3637. Trionic Array I
 
-### Medium finish 479
+### Medium finish 480
 
 #### 2. Add Two Numbers
 
@@ -1510,7 +1510,9 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
-### Hard finish 102
+#### 3719. Longest Balanced Subarray I
+
+### Hard finish 103
 
 #### 23. Merge k Sorted Lists
 
@@ -1716,4 +1718,6 @@
 
 #### 3651. Minimum Cost Path with Teleportations
 
-### Total finish 854
+#### 3721. Longest Balanced Subarray II
+
+### Total finish 856
