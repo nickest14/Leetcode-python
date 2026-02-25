@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 272
+### Easy finish 274
 
 #### 1. Two Sum
 
@@ -278,6 +278,8 @@
 
 #### 1018. Binary Prefix Divisible By 5
 
+#### 1022. Sum of Root To Leaf Binary Numbers
+
 #### 1046. Last Stone Weight
 
 #### 1047. Remove All Adjacent Duplicates In String
@@ -319,6 +321,8 @@
 #### 1346. Check If N and Its Double Exist
 
 #### 1351. Count Negative Numbers in a Sorted Matrix
+
+#### 1356. Sort Integers by The Number of 1 Bits
 
 #### 1380. Lucky Numbers in a Matrix
 
@@ -1722,4 +1726,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 857
+### Total finish 859
