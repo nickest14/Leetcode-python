@@ -554,7 +554,7 @@
 
 #### 3637. Trionic Array I
 
-### Medium finish 481
+### Medium finish 483
 
 #### 2. Add Two Numbers
 
@@ -1018,6 +1018,8 @@
 
 #### 1400. Construct K Palindrome Strings
 
+#### 1404. Number of Steps to Reduce a Number in Binary Representation to One
+
 #### 1405. Longest Happy String
 
 #### 1409. Queries on a Permutation With Key
@@ -1077,6 +1079,8 @@
 #### 1653. Minimum Deletions to Make String Balanced
 
 #### 1658. Minimum Operations to Reduce X to Zero
+
+#### 1680. Concatenation of Consecutive Binary Numbers
 
 #### 1695. Maximum Erasure Value
 
@@ -1726,4 +1730,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 859
+### Total finish 861
