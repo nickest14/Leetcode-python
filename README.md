@@ -554,7 +554,7 @@
 
 #### 3637. Trionic Array I
 
-### Medium finish 483
+### Medium finish 485
 
 #### 2. Add Two Numbers
 
@@ -1060,6 +1060,8 @@
 
 #### 1530. Number of Good Leaf Nodes Pairs
 
+#### 1536. Minimum Swaps to Arrange a Binary Grid
+
 #### 1545. Find Kth Bit in Nth Binary String
 
 #### 1552. Magnetic Force Between Two Balls
@@ -1081,6 +1083,8 @@
 #### 1658. Minimum Operations to Reduce X to Zero
 
 #### 1680. Concatenation of Consecutive Binary Numbers
+
+#### 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers\
 
 #### 1695. Maximum Erasure Value
 
@@ -1730,4 +1734,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 861
+### Total finish 863
