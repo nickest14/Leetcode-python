@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 274
+### Easy finish 276
 
 #### 1. Two Sum
 
@@ -352,6 +352,8 @@
 
 #### 1550. Three Consecutive Odds
 
+#### 1582. Special Positions in a Binary Matrix
+
 #### 1598. Crawler Log Folder
 
 #### 1603. Design Parking System
@@ -371,6 +373,8 @@
 #### 1716. Calculate Money in Leetcode Bank
 
 #### 1752. Check if Array Is Sorted and Rotated
+
+#### 1758. Minimum Changes To Make Alternating Binary String
 
 #### 1768. Merge Strings Alternately
 
@@ -1734,4 +1738,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 863
+### Total finish 865
