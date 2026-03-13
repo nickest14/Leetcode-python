@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 276
+### Easy finish 277
 
 #### 1. Two Sum
 
@@ -378,6 +378,8 @@
 
 #### 1768. Merge Strings Alternately
 
+#### 1784. Check if Binary String Has at Most One Segment of Ones
+
 #### 1785. Minimum Elements to Add to Form a Given Sum
 
 #### 1790. Check if One String Swap Can Make Strings Equal
@@ -558,7 +560,7 @@
 
 #### 3637. Trionic Array I
 
-### Medium finish 485
+### Medium finish 486
 
 #### 2. Add Two Numbers
 
@@ -1456,6 +1458,8 @@
 
 #### 3254. Find the Power of K-Size Subarrays I
 
+#### 3296. Minimum Number of Seconds to Make Mountain Height Zero
+
 #### 3306. Count of Substrings Containing Every Vowel and K Consonants II
 
 #### 3315. Construct the Minimum Bitwise Array II
@@ -1738,4 +1742,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 865
+### Total finish 867

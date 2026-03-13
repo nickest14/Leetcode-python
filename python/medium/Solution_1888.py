@@ -3,15 +3,15 @@
 
 class Solution:
     def minFlips(self, s: str) -> int:
-        n = len(s)
-        s = s + s
+        n: int = len(s)
+        s: str = s + s
         alt1, alt2 = "", ""
         for i in range(len(s)):
             alt1 += "0" if i % 2 else "1"
             alt2 += "1" if i % 2 else "0"
-        ans = n
+        ans: int = n
         diff1, diff2 = 0, 0
-        l = 0
+        l: int = 0
         for r in range(len(s)):
             if s[r] != alt1[r]:
                 diff1 += 1
@@ -29,5 +29,5 @@ class Solution:
         return ans
 
 
-ans = Solution().minFlips('111000')
+ans = Solution().minFlips("111000")
 print(ans)
