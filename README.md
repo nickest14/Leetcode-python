@@ -560,7 +560,7 @@
 
 #### 3637. Trionic Array I
 
-### Medium finish 486
+### Medium finish 488
 
 #### 2. Add Two Numbers
 
@@ -1104,6 +1104,8 @@
 
 #### 1726. Tuple with Same Product
 
+#### 1727. Largest Submatrix With Rearrangements
+
 #### 1733. Minimum Number of People to Teach
 
 #### 1749. Maximum Absolute Sum of Any Subarray
@@ -1409,6 +1411,8 @@
 #### 3047. Find the Largest Area of Square Inside Two Rectangles
 
 #### 3066. Minimum Operations to Exceed Threshold Value II
+
+#### 3070. Count Submatrices with Top-Left Element and Sum Less Than k
 
 #### 3075. Maximize Happiness of Selected Children
 
@@ -1742,4 +1746,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 867
+### Total finish 869
