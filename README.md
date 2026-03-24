@@ -562,7 +562,7 @@
 
 #### 3643. Flip Square Submatrix Vertically
 
-### Medium finish 488
+### Medium finish 490
 
 #### 2. Add Two Numbers
 
@@ -1080,6 +1080,8 @@
 
 #### 1593. Split a String Into the Max Number of Unique Substrings
 
+#### 1594. Maximum Non Negative Product in a Matrix
+
 #### 1605. Find Valid Matrix Given Row and Column Sums
 
 #### 1625. Lexicographically Smallest String After Applying Operations
@@ -1375,6 +1377,8 @@
 #### 2874. Maximum Value of an Ordered Triplet II
 
 #### 2901. Longest Unequal Adjacent Groups Subsequence II
+
+#### 2906. Construct Product Matrix
 
 #### 2914. Minimum Number of Changes to Make Binary String Beautiful
 
@@ -1748,4 +1752,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 870
+### Total finish 872
