@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 278
+### Easy finish 279
 
 #### 1. Two Sum
 
@@ -476,6 +476,8 @@
 
 #### 2696. Minimum String Length After Removing Substrings
 
+#### 2839. Check if Strings Can be Made Equal With Operations I
+
 #### 2843. Count Symmetric Integers
 
 #### 2873. Maximum Value of an Ordered Triplet I
@@ -562,7 +564,7 @@
 
 #### 3643. Flip Square Submatrix Vertically
 
-### Medium finish 490
+### Medium finish 491
 
 #### 2. Add Two Numbers
 
@@ -1524,6 +1526,8 @@
 
 #### 3531. Count Covered Buildings
 
+#### 3546. Equal Sum Grid Partition I
+
 #### 3573. Best Time to Buy and Sell Stock V
 
 #### 3577. Count the Number of Computer Unlocking Permutations
@@ -1752,4 +1756,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 872
+### Total finish 874
