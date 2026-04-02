@@ -564,7 +564,7 @@
 
 #### 3643. Flip Square Submatrix Vertically
 
-### Medium finish 491
+### Medium finish 493
 
 #### 2. Add Two Numbers
 
@@ -1374,6 +1374,8 @@
 
 #### 2825. Make String a Subsequence Using Cyclic Increments
 
+#### 2840. Check if Strings Can be Made Equal With Operations II
+
 #### 2845. Count of Interesting Subarrays
 
 #### 2874. Maximum Value of an Ordered Triplet II
@@ -1503,6 +1505,8 @@
 #### 3403. Find the Lexicographically Largest String From the Box I
 
 #### 3408. Design Task Manager
+
+#### 3418. Maximum Amount of Money Robot Can Earn
 
 #### 3433. Count Mentions Per User
 
@@ -1756,4 +1760,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 874
+### Total finish 876
