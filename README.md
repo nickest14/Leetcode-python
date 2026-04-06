@@ -564,7 +564,7 @@
 
 #### 3643. Flip Square Submatrix Vertically
 
-### Medium finish 493
+### Medium finish 494
 
 #### 2. Add Two Numbers
 
@@ -1200,6 +1200,8 @@
 
 #### 2070. Most Beautiful Item for Each Query
 
+#### 2075. Decode the Slanted Ciphertext
+
 #### 2096. Step-By-Step Directions From a Binary Tree Node to Another
 
 #### 2109. Adding Spaces to a String
@@ -1760,4 +1762,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 876
+### Total finish 877
