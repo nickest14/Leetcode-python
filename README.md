@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 279
+### Easy finish 280
 
 #### 1. Two Sum
 
@@ -564,7 +564,9 @@
 
 #### 3643. Flip Square Submatrix Vertically
 
-### Medium finish 494
+#### 3740. Minimum Distance Between Three Equal Elements I
+
+### Medium finish 495
 
 #### 2. Add Two Numbers
 
@@ -1550,6 +1552,8 @@
 
 #### 3652. Best Time to Buy and Sell Stock using Strategy
 
+#### 3653. XOR After Range Multiplication Queries I
+
 #### 3713. Longest Balanced Substring I
 
 #### 3719. Longest Balanced Subarray I
@@ -1762,4 +1766,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 877
+### Total finish 879
