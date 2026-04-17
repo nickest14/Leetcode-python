@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 280
+### Easy finish 281
 
 #### 1. Two Sum
 
@@ -462,6 +462,8 @@
 
 #### 2490. Circular Sentence
 
+#### 2515. Shortest Distance to Target String in a Circular Array
+
 #### 2529. Maximum Count of Positive Integer and Negative Integer
 
 #### 2558. Take Gifts From the Richest Pile
@@ -566,7 +568,7 @@
 
 #### 3740. Minimum Distance Between Three Equal Elements I
 
-### Medium finish 495
+### Medium finish 496
 
 #### 2. Add Two Numbers
 
@@ -1558,6 +1560,8 @@
 
 #### 3719. Longest Balanced Subarray I
 
+#### 3761. Minimum Absolute Distance Between Mirror Pairs
+
 ### Hard finish 103
 
 #### 23. Merge k Sorted Lists
@@ -1766,4 +1770,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 879
+### Total finish 881
