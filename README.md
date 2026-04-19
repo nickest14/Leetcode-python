@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 281
+### Easy finish 282
 
 #### 1. Two Sum
 
@@ -568,7 +568,9 @@
 
 #### 3740. Minimum Distance Between Three Equal Elements I
 
-### Medium finish 496
+#### 3783. Mirror Distance of an Integer
+
+### Medium finish 497
 
 #### 2. Add Two Numbers
 
@@ -1137,6 +1139,8 @@
 #### 1829. Maximum XOR for Each Query
 
 #### 1838. Frequency of the Most Frequent Element
+
+#### 1855. Maximum Distance Between a Pair of Values
 
 #### 1861. Rotating the Box
 
@@ -1770,4 +1774,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 881
+### Total finish 883
