@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 282
+### Easy finish 283
 
 #### 1. Two Sum
 
@@ -430,6 +430,8 @@
 
 #### 2053. Kth Distinct String in an Array
 
+#### 2078. Two Furthest Houses With Different Colors
+
 #### 2094. Finding 3-Digit Even Numbers
 
 #### 2099. Find Subsequence of Length K With the Largest Sum
@@ -570,7 +572,7 @@
 
 #### 3783. Mirror Distance of an Integer
 
-### Medium finish 497
+### Medium finish 498
 
 #### 2. Add Two Numbers
 
@@ -1304,6 +1306,8 @@
 
 #### 2438. Range Product Queries of Powers
 
+#### 2452. Words Within Two Edits of Dictionary
+
 #### 2461. Maximum Sum of Distinct Subarrays With Length K
 
 #### 2466. Count Ways To Build Good Strings
@@ -1774,4 +1778,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 883
+### Total finish 885

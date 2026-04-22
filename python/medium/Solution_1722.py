@@ -5,8 +5,7 @@ import collections
 
 
 class Solution:
-    def minimumHammingDistance(self, source: List[int], target: List[int],
-                               allowedSwaps: List[List[int]]) -> int:
+    def minimumHammingDistance(self, source: List[int], target: List[int], allowedSwaps: List[List[int]]) -> int:
         def find(x: int) -> int:
             if parent[x] != x:
                 parent[x] = find(parent[x])
@@ -20,7 +19,7 @@ class Solution:
                 parent[px] = py
                 if rank[px] == rank[py]:
                     rank[py] += 1
-        n = len(source)
+        n: int = len(source)
         parent, rank = list(range(n)), [0] * n
         counters = collections.defaultdict(collections.Counter)
         for i, j in allowedSwaps:
@@ -29,7 +28,7 @@ class Solution:
             p = find(i)
             counters[p][s] += 1
             counters[p][t] -= 1
-        ans = 0
+        ans: int = 0
         for counter in counters.values():
             for count in counter.values():
                 if count > 0:
