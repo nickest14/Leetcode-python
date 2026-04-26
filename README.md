@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 283
+### Easy finish 284
 
 #### 1. Two Sum
 
@@ -480,6 +480,8 @@
 
 #### 2696. Minimum String Length After Removing Substrings
 
+#### 2833. Furthest Point From Origin
+
 #### 2839. Check if Strings Can be Made Equal With Operations I
 
 #### 2843. Count Symmetric Integers
@@ -572,7 +574,7 @@
 
 #### 3783. Mirror Distance of an Integer
 
-### Medium finish 498
+### Medium finish 499
 
 #### 2. Add Two Numbers
 
@@ -1083,6 +1085,8 @@
 #### 1545. Find Kth Bit in Nth Binary String
 
 #### 1552. Magnetic Force Between Two Balls
+
+#### 1559. Detect Cycles in 2D Grid
 
 #### 1574. Shortest Subarray to be Removed to Make Array Sorted
 
@@ -1778,4 +1782,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 885
+### Total finish 887
