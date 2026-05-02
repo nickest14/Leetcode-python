@@ -574,7 +574,7 @@
 
 #### 3783. Mirror Distance of an Integer
 
-### Medium finish 499
+### Medium finish 501
 
 #### 2. Add Two Numbers
 
@@ -878,6 +878,8 @@
 
 #### 787. Cheapest Flights Within K Stops
 
+#### 788. Rotated Digits
+
 #### 790. Domino and Tromino Tiling
 
 #### 802. Find Eventual Safe States
@@ -1031,6 +1033,8 @@
 #### 1382. Balance a Binary Search Tree
 
 #### 1390. Four Divisors
+
+#### 1391. Check if There is a Valid Path in a Grid
 
 #### 1395. Count Number of Teams
 
@@ -1782,4 +1786,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 887
+### Total finish 889
