@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 284
+### Easy finish 285
 
 #### 1. Two Sum
 
@@ -479,6 +479,8 @@
 #### 2678. Number of Senior Citizens
 
 #### 2696. Minimum String Length After Removing Substrings
+
+#### 2784. Check if Array is Good
 
 #### 2833. Furthest Point From Origin
 
@@ -1786,4 +1788,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 889
+### Total finish 890
