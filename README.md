@@ -2,7 +2,7 @@
 
 ## Practice Leetcode problem with Python
 
-### Easy finish 285
+### Easy finish 286
 
 #### 1. Two Sum
 
@@ -527,6 +527,8 @@
 #### 3264. Final Array State After K Multiplication Operations I
 
 #### 3289. The Two Sneaky Numbers of Digitville
+
+#### 3300. Minimum Element After Replacement With Digit Sum
 
 #### 3304. Find the K-th Character in String Game I
 
@@ -1788,4 +1790,4 @@
 
 #### 3721. Longest Balanced Subarray II
 
-### Total finish 890
+### Total finish 891
